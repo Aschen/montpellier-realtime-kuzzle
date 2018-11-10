@@ -1,4 +1,4 @@
 {
-  "name": "kuzzle-core-plugin-boilerplate",
-  "kuzzleVersion": ">=1.4.2 <2.0.0"
+  "name": "montpellier-realtime",
+  "kuzzleVersion": ">=1.5.0 <2.0.0"
 }
