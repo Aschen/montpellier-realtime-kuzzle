@@ -1,0 +1,4147 @@
+{
+    "Folder": {
+      "name": "TRAM_ARRETS",
+      "Placemark": [
+        {
+          "name": "Eurêka",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Eurêka"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Eurêka"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.91390611417135,43.618786337327" }
+        },
+        {
+          "name": "Pont de Sète",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Pont de Sète"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Pont de Sète"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.8787238425882,43.6040584340818" }
+        },
+        {
+          "name": "Saint-Denis",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Saint-Denis"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Saint-Denis"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87497041154203,43.60525356121" }
+        },
+        {
+          "name": "Le Terral",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Le Terral"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Le Terral"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.82491181347029,43.5929005612362" }
+        },
+        {
+          "name": "Terminus La Capoulière",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Terminus La Capoulière"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Terminus La Capoulière"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.81012565755896,43.5872562692018" }
+        },
+        {
+          "name": "Paul Fajon",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Paul Fajon"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Paul Fajon"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.8368337748513,43.5958927361648" }
+        },
+        {
+          "name": "Georges Danton",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Georges Danton"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Georges Danton"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.84272660834911,43.5991361088129" }
+        },
+        {
+          "name": "Cité Valette",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Cité Valette"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Cité Valette"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.85152745493834,43.6013286301136" }
+        },
+        {
+          "name": "Chasseurs",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Chasseurs"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Chasseurs"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.85598600102476,43.6031436239929" }
+        },
+        {
+          "name": "Gouara",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Gouara"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Gouara"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.86305379199128,43.6028821559266" }
+        },
+        {
+          "name": "Clémenceau",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Clémenceau"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Clémenceau"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87178541713909,43.6030014970465" }
+        },
+        {
+          "name": "Strasbourg",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Strasbourg"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Strasbourg"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.8819315112393,43.6029810613641" }
+        },
+        {
+          "name": "Polygone",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Polygone"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Polygone"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88613957802795,43.6071865083924" }
+        },
+        {
+          "name": "Lironde",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Lironde"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Lironde"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.9061560938286,43.6101245608491" }
+        },
+        {
+          "name": "Evariste Galois",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Evariste Galois"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Evariste Galois"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.91240623490311,43.6095806207229" }
+        },
+        {
+          "name": "Louis Lépine",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Louis Lépine"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Louis Lépine"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.91468920502945,43.614846591579" }
+        },
+        {
+          "name": "Jean Mermoz",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Jean Mermoz"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Jean Mermoz"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.91584731404587,43.6238093709125" }
+        },
+        {
+          "name": "Castelnau 2000",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Castelnau 2000"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Castelnau 2000"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.91260902894181,43.6276468765976" }
+        },
+        {
+          "name": "Saint Roch",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Saint Roch"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Saint Roch"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.86961193217143,43.6152780952113" }
+        },
+        {
+          "name": "Adhémar Boutonnet",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Adhémar Boutonnet"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Adhémar Boutonnet"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.86562000846921,43.6197961926443" }
+        },
+        {
+          "name": "Fac de Pharma",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Fac de Pharma"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Fac de Pharma"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.86279875550601,43.6234444905759" }
+        },
+        {
+          "name": "Fac de Lettres",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Fac de Lettres"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Fac de Lettres"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.86983833627528,43.6302099555847" }
+        },
+        {
+          "name": "Resto U",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Resto U"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Resto U"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87328865136024,43.634545658742" }
+        },
+        {
+          "name": "Zoo",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Zoo"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Zoo"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.8730344260806,43.6400787480692" }
+        },
+        {
+          "name": "Agropolis",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "Agropolis"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "Agropolis"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.86880216336493,43.646098590448" }
+        },
+        {
+          "name": "CLAIRVAL",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "CLAIRVAL"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "CLAIRVAL"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.90263921220889,43.6301225716799" }
+        },
+        {
+          "name": "CH. DE GAULLE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "CH. DE GAULLE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "CH. DE GAULLE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.89776210151601,43.6285421158042" }
+        },
+        {
+          "name": "SAINT LAZARE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "SAINT LAZARE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "SAINT LAZARE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88864483195424,43.626817346923" }
+        },
+        {
+          "name": "AIGUELONGUE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "AIGUELONGUE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "AIGUELONGUE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88321151190695,43.6262278385121" }
+        },
+        {
+          "name": "JEU DE MAIL DES ABBES",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "JEU DE MAIL DES ABBES"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "JEU DE MAIL DES ABBES"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88413885499626,43.6204316211857" }
+        },
+        {
+          "name": "VIL. D'ANGOULEME",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "VIL. D'ANGOULEME"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "VIL. D'ANGOULEME"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.86560840687606,43.588783327101" }
+        },
+        {
+          "name": "JACOU",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "JACOU"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "JACOU"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.91288474518196,43.6545986976663" }
+        },
+        {
+          "name": "LEMASSON",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "LEMASSON"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "LEMASSON"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87306869790136,43.5936180092481" }
+        },
+        {
+          "name": "CENTURIONS",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "CENTURIONS"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "CENTURIONS"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.91568833442733,43.6328282928554" }
+        },
+        {
+          "name": "CROIX D'ARGENT",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "CROIX D'ARGENT"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "CROIX D'ARGENT"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.86638903086334,43.5923970949554" }
+        },
+        {
+          "name": "LES AUBES",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "LES AUBES"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "LES AUBES"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88824226611921,43.6140145159462" }
+        },
+        {
+          "name": "SABINES",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "SABINES"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "SABINES"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.86022460090247,43.5838326246373" }
+        },
+        {
+          "name": "LEMASSON",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "LEMASSON"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "LEMASSON"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87314931873725,43.5936850588841" }
+        },
+        {
+          "name": "JACOU",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "JACOU"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "JACOU"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.91288272378607,43.6545267026483" }
+        },
+        {
+          "name": "SABINES",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "SABINES"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "SABINES"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.86009110378584,43.5837538661994" }
+        },
+        {
+          "name": "SAINT CLEOPHAS",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "SAINT CLEOPHAS"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "SAINT CLEOPHAS"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87589758529914,43.5949382039373" }
+        },
+        {
+          "name": "MAS DREVON",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "MAS DREVON"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "MAS DREVON"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.86780524561339,43.5955328480107" }
+        },
+        {
+          "name": "SAINT CLEOPHAS",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "SAINT CLEOPHAS"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "SAINT CLEOPHAS"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87602466675032,43.5948976773649" }
+        },
+        {
+          "name": "LA GALINE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "LA GALINE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "LA GALINE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.9090616361579,43.6314115886086" }
+        },
+        {
+          "name": "MAS DREVON",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "MAS DREVON"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "MAS DREVON"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.8679274802742,43.5954796867665" }
+        },
+        {
+          "name": "MOULARES (HOTEL DE VILLE)",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "MOULARES (HOTEL DE VILLE)"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "MOULARES (HOTEL DE VILLE)"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.8955369238255,43.6006055980393" }
+        },
+        {
+          "name": "HOP. LAPEYRONIE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "HOP. LAPEYRONIE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "HOP. LAPEYRONIE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.85263979737724,43.6317041184459" }
+        },
+        {
+          "name": "PLACE DE L'EUROPE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "PLACE DE L'EUROPE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "PLACE DE L'EUROPE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.89394381113852,43.6075145851543" }
+        },
+        {
+          "name": "LOUIS BLANC",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "LOUIS BLANC"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "LOUIS BLANC"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87814712086071,43.6147866222927" }
+        },
+        {
+          "name": "AUBE ROUGE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "AUBE ROUGE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "AUBE ROUGE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.92477988110163,43.6385533134448" }
+        },
+        {
+          "name": "SAINT JEAN LE SEC",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "SAINT JEAN LE SEC"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "SAINT JEAN LE SEC"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.83794094482695,43.5708958835943" }
+        },
+        {
+          "name": "MOULARES (HOTEL DE VILLE)",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "MOULARES (HOTEL DE VILLE)"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "MOULARES (HOTEL DE VILLE)"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.89551192581976,43.6005875754835" }
+        },
+        {
+          "name": "AUBE ROUGE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "AUBE ROUGE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "AUBE ROUGE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.92490589351936,43.6385795681184" }
+        },
+        {
+          "name": "LOUIS BLANC",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "LOUIS BLANC"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "LOUIS BLANC"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.8781383681618,43.6146989795281" }
+        },
+        {
+          "name": "HALLES DE LA PAILLADE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "HALLES DE LA PAILLADE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "HALLES DE LA PAILLADE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.81747591388661,43.6275640052871" }
+        },
+        {
+          "name": "NOUVEAU SAINT-ROCH",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "NOUVEAU SAINT-ROCH"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "NOUVEAU SAINT-ROCH"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87573242587162,43.5994050736071" }
+        },
+        {
+          "name": "STADE DE LA MOSSON",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "STADE DE LA MOSSON"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "STADE DE LA MOSSON"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.81735003444225,43.621245917184" }
+        },
+        {
+          "name": "UNIVERSITES DES SCIENCES ET LETTRES",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "UNIVERSITES DES SCIENCES ET LETTRES"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "UNIVERSITES DES SCIENCES ET LETTRES"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.86155395146663,43.6291867375137" }
+        },
+        {
+          "name": "PORT MARIANNE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "PORT MARIANNE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "PORT MARIANNE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.89942490510742,43.6016276545599" }
+        },
+        {
+          "name": "SAINT PAUL",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "SAINT PAUL"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "SAINT PAUL"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.82109391543853,43.6307217254243" }
+        },
+        {
+          "name": "COMEDIE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "COMEDIE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "COMEDIE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87983103038265,43.6083372486733" }
+        },
+        {
+          "name": "MALBOSC",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "MALBOSC"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "MALBOSC"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.83326079654757,43.6346371648171" }
+        },
+        {
+          "name": "HOTEL DE VILLE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "HOTEL DE VILLE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "HOTEL DE VILLE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.8832198907037,43.6071194561734" }
+        },
+        {
+          "name": "PORT MARIANNE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "PORT MARIANNE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "PORT MARIANNE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.89941085863041,43.6015926471374" }
+        },
+        {
+          "name": "CHATEAU D'O",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "CHATEAU D'O"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "CHATEAU D'O"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.8431396595542,43.6316132257779" }
+        },
+        {
+          "name": "HALLES DE LA PAILLADE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "HALLES DE LA PAILLADE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "HALLES DE LA PAILLADE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.817513960454,43.6275639594079" }
+        },
+        {
+          "name": "HAUTS DE MASSANE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "HAUTS DE MASSANE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "HAUTS DE MASSANE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.82272043757937,43.63635607138" }
+        },
+        {
+          "name": "ANTIGONE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "ANTIGONE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "ANTIGONE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88667390892526,43.6085805467326" }
+        },
+        {
+          "name": "MILLENAIRE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "MILLENAIRE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "MILLENAIRE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.9099894887741,43.6033204807096" }
+        },
+        {
+          "name": "RIVES DU LEZ",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "RIVES DU LEZ"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "RIVES DU LEZ"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.89484311983067,43.604221844668" }
+        },
+        {
+          "name": "SAINT JEAN LE SEC",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "SAINT JEAN LE SEC"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "SAINT JEAN LE SEC"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.83793120367806,43.5708222537415" }
+        },
+        {
+          "name": "COMEDIE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "COMEDIE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "COMEDIE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87973067894617,43.6084182400386" }
+        },
+        {
+          "name": "HAUTS DE MASSANE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "HAUTS DE MASSANE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "HAUTS DE MASSANE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.82262349003965,43.6363551367005" }
+        },
+        {
+          "name": "VICTOIRE 2",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "VICTOIRE 2"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "VICTOIRE 2"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.84987979700085,43.5751200447617" }
+        },
+        {
+          "name": "LEON BLUM",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "LEON BLUM"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "LEON BLUM"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.89019686697452,43.6089344998721" }
+        },
+        {
+          "name": "EUROMEDECINE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "EUROMEDECINE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "EUROMEDECINE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.82772364924222,43.638953588874" }
+        },
+        {
+          "name": "UNIVERSITES DES SCIENCES ET LETTRES",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "UNIVERSITES DES SCIENCES ET LETTRES"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "UNIVERSITES DES SCIENCES ET LETTRES"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.86160433897522,43.6291116491104" }
+        },
+        {
+          "name": "RIVES DU LEZ",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "RIVES DU LEZ"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "RIVES DU LEZ"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.89496403122472,43.6042320552505" }
+        },
+        {
+          "name": "HOTEL DE VILLE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "HOTEL DE VILLE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "HOTEL DE VILLE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88325682821049,43.6071104897259" }
+        },
+        {
+          "name": "SAINT PAUL",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "SAINT PAUL"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "SAINT PAUL"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.82109075286589,43.630629406819" }
+        },
+        {
+          "name": "LEON BLUM",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "LEON BLUM"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "LEON BLUM"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.89017188352604,43.6089075630678" }
+        },
+        {
+          "name": "HOP. LAPEYRONIE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "HOP. LAPEYRONIE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "HOP. LAPEYRONIE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.85255730394597,43.6316335704392" }
+        },
+        {
+          "name": "MALBOSC",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "MALBOSC"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "MALBOSC"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.83318415838832,43.634576690286" }
+        },
+        {
+          "name": "MILLENAIRE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "MILLENAIRE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "MILLENAIRE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.90996314143537,43.6034169188226" }
+        },
+        {
+          "name": "OCCITANIE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "OCCITANIE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "OCCITANIE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.84855180238929,43.6345437868094" }
+        },
+        {
+          "name": "STADE DE LA MOSSON",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "STADE DE LA MOSSON"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "STADE DE LA MOSSON"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.81746163592049,43.621242556565" }
+        },
+        {
+          "name": "OCCITANIE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "OCCITANIE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "OCCITANIE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.84859796111017,43.6345623239884" }
+        },
+        {
+          "name": "CHATEAU D'O",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "CHATEAU D'O"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "CHATEAU D'O"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.84301257938214,43.6316084092075" }
+        },
+        {
+          "name": "EUROMEDECINE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "EUROMEDECINE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "EUROMEDECINE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.82766497271547,43.6390355068398" }
+        },
+        {
+          "name": "ANTIGONE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "ANTIGONE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "ANTIGONE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88663683277039,43.6085985191361" }
+        },
+        {
+          "name": "PLACE DE L'EUROPE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "PLACE DE L'EUROPE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "PLACE DE L'EUROPE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.89398082854659,43.6075135364596" }
+        },
+        {
+          "name": "VICTOIRE 2",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "VICTOIRE 2"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "VICTOIRE 2"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.84979893798564,43.5752183103371" }
+        },
+        {
+          "name": "PLACE CARNOT",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "PLACE CARNOT"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "PLACE CARNOT"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88421429493173,43.6036629598593" }
+        },
+        {
+          "name": "PLACE DE FRANCE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "PLACE DE FRANCE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "PLACE DE FRANCE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.91578469913588,43.6037142107563" }
+        },
+        {
+          "name": "PLACE DE FRANCE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "PLACE DE FRANCE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "PLACE DE FRANCE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.91574032392574,43.6038146283819" }
+        },
+        {
+          "name": "ODYSSEUM",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "ODYSSEUM"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "ODYSSEUM"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.92029950024783,43.6037846812695" }
+        },
+        {
+          "name": "ODYSSEUM",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "ODYSSEUM"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "ODYSSEUM"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.92048364127654,43.6038162648102" }
+        },
+        {
+          "name": "JUVIGNAC",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "JUVIGNAC"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "JUVIGNAC"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.80962185936504,43.6174037430463" }
+        },
+        {
+          "name": "HOTEL DU DÉPARTEMENT",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "HOTEL DU DÉPARTEMENT"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "HOTEL DU DÉPARTEMENT"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.83508844883336,43.6220184746912" }
+        },
+        {
+          "name": "PILORY",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "PILORY"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "PILORY"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.83203000629587,43.6195608698515" }
+        },
+        {
+          "name": "PERGOLA",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "PERGOLA"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "PERGOLA"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.83965437920133,43.6176249052122" }
+        },
+        {
+          "name": "TONNELLES",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "TONNELLES"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "TONNELLES"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.83951413920444,43.6134795146172" }
+        },
+        {
+          "name": "JULES GUESDE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "JULES GUESDE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "JULES GUESDE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.84676126093407,43.6113289763622" }
+        },
+        {
+          "name": "ASTRUC",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "ASTRUC"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "ASTRUC"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.85485489289235,43.6102832975922" }
+        },
+        {
+          "name": "LES ARCEAUX",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "LES ARCEAUX"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "LES ARCEAUX"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.86194856149036,43.6099538046593" }
+        },
+        {
+          "name": "PLAN CABANES",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "PLAN CABANES"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "PLAN CABANES"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.86825273286234,43.608480790706" }
+        },
+        {
+          "name": "SAINT-MARTIN",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "SAINT-MARTIN"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "SAINT-MARTIN"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87989000642667,43.5925258512743" }
+        },
+        {
+          "name": "RESTANQUE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "RESTANQUE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "RESTANQUE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88605920126618,43.5900623278321" }
+        },
+        {
+          "name": "GEORGES FRECHE - HOTEL DE VILLE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "GEORGES FRECHE - HOTEL DE VILLE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "GEORGES FRECHE - HOTEL DE VILLE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.89501435524723,43.599519915803" }
+        },
+        {
+          "name": "PABLO PICASSO",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "PABLO PICASSO"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "PABLO PICASSO"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.90337995444496,43.5980509687803" }
+        },
+        {
+          "name": "BOIRARGUES",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "BOIRARGUES"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "BOIRARGUES"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.92658607794949,43.5822463854978" }
+        },
+        {
+          "name": "COUGOURLUDE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "COUGOURLUDE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "COUGOURLUDE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.91430052239613,43.5713812374041" }
+        },
+        {
+          "name": "LATTES CENRE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "LATTES CENRE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "LATTES CENRE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.90481761647003,43.5708098812253" }
+        },
+        {
+          "name": "PÉROLS - ETANG DE L'OR",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "PÉROLS - ETANG DE L'OR"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "PÉROLS - ETANG DE L'OR"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.96395451321454,43.5577381877685" }
+        },
+        {
+          "name": "PÉROLS CENTRE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "PÉROLS CENTRE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "PÉROLS CENTRE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.95735556059361,43.5653785666472" }
+        },
+        {
+          "name": "PARC EXPO",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "PARC EXPO"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "PARC EXPO"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.94567852006297,43.5729102100133" }
+        },
+        {
+          "name": "ECO POLE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "ECO POLE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "ECO POLE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.93556076487718,43.5778265285765" }
+        },
+        {
+          "name": "CELLENEUVE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "CELLENEUVE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "CELLENEUVE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.82587541241159,43.6158768935266" }
+        },
+        {
+          "name": "PLACE CARNOT",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "PLACE CARNOT"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "PLACE CARNOT"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88432676874434,43.6037305777057" }
+        },
+        {
+          "name": "POMPIGNANE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "POMPIGNANE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "POMPIGNANE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.89499790837432,43.6125912672624" }
+        },
+        {
+          "name": "POMPIGNANE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "POMPIGNANE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "POMPIGNANE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.89486681745591,43.6126012749203" }
+        },
+        {
+          "name": "SAINT JEAN DE VEDAS CENTRE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "SAINT JEAN DE VEDAS CENTRE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "SAINT JEAN DE VEDAS CENTRE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.83072440957137,43.5748861352638" }
+        },
+        {
+          "name": "ND SABLASSOU",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "ND SABLASSOU"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "ND SABLASSOU"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.92229536192455,43.6341919351021" }
+        },
+        {
+          "name": "RONDELET",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "RONDELET"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "RONDELET"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87605685746492,43.6030418978171" }
+        },
+        {
+          "name": "SAINT JEAN DE VEDAS CENTRE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "SAINT JEAN DE VEDAS CENTRE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "SAINT JEAN DE VEDAS CENTRE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.83058552477978,43.5749627859433" }
+        },
+        {
+          "name": "ND SABLASSOU",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "ND SABLASSOU"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "ND SABLASSOU"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.92222964590709,43.634278684382" }
+        },
+        {
+          "name": "LA CONDAMINE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "LA CONDAMINE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "LA CONDAMINE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.84413117670913,43.5717502625453" }
+        },
+        {
+          "name": "GEORGES POMPIDOU",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "GEORGES POMPIDOU"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "GEORGES POMPIDOU"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.92108419195769,43.6493392014755" }
+        },
+        {
+          "name": "VIA DOMITIA",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "VIA DOMITIA"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "VIA DOMITIA"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.92942537078782,43.6468141972851" }
+        },
+        {
+          "name": "LA CONDAMINE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "LA CONDAMINE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "LA CONDAMINE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.84413117670913,43.5717502625453" }
+        },
+        {
+          "name": "BEAUX ARTS",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "BEAUX ARTS"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "BEAUX ARTS"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88345454320747,43.6170178117789" }
+        },
+        {
+          "name": "GEORGES POMPIDOU",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "GEORGES POMPIDOU"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "GEORGES POMPIDOU"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.92096740964723,43.6492916362365" }
+        },
+        {
+          "name": "LA GALINE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "LA GALINE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "LA GALINE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.90901533975545,43.6314941862921" }
+        },
+        {
+          "name": "CENTURIONS",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "CENTURIONS"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "CENTURIONS"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.91572140794553,43.6327409354102" }
+        },
+        {
+          "name": "CROIX D'ARGENT",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "CROIX D'ARGENT"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "CROIX D'ARGENT"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.86650910090286,43.5924155048937" }
+        },
+        {
+          "name": "VIL. D'ANGOULEME",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "VIL. D'ANGOULEME"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "VIL. D'ANGOULEME"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.86574485809266,43.5887808953937" }
+        },
+        {
+          "name": "BEAUX ARTS",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "BEAUX ARTS"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "BEAUX ARTS"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88354730113537,43.6169636815655" }
+        },
+        {
+          "name": "VOLTAIRE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "VOLTAIRE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "VOLTAIRE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88912999265085,43.6036644944294" }
+        },
+        {
+          "name": "VOLTAIRE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "VOLTAIRE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "VOLTAIRE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88911878195127,43.6037624932242" }
+        },
+        {
+          "name": "VIA DOMITIA",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "VIA DOMITIA"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "VIA DOMITIA"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.92953808368393,43.6466580088346" }
+        },
+        {
+          "name": "CLAIRVAL",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "CLAIRVAL"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "CLAIRVAL"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.9025776534553,43.6302064774034" }
+        },
+        {
+          "name": "CH. DE GAULLE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "CH. DE GAULLE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "CH. DE GAULLE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.89764792305532,43.6285963256426" }
+        },
+        {
+          "name": "SAINT LAZARE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "SAINT LAZARE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "SAINT LAZARE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88869867443633,43.6267091782087" }
+        },
+        {
+          "name": "AIGUELONGUE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "AIGUELONGUE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "AIGUELONGUE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88322283981414,43.6263362532284" }
+        },
+        {
+          "name": "JEU DE MAIL DES ABBES",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "JEU DE MAIL DES ABBES"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "JEU DE MAIL DES ABBES"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88399592161431,43.620401183488" }
+        },
+        {
+          "name": "GARCIA LORCA",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "GARCIA LORCA"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "GARCIA LORCA"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.89071579767605,43.5909850850925" }
+        },
+        {
+          "name": "RIVES DU LEZ",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "RIVES DU LEZ"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "RIVES DU LEZ"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.89400253226802,43.6039480036515" }
+        },
+        {
+          "name": "RIVES DU LEZ",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "RIVES DU LEZ"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "RIVES DU LEZ"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.89398192826825,43.6040734583653" }
+        },
+        {
+          "name": "GARE SAINT-ROCH",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "GARE SAINT-ROCH"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "GARE SAINT-ROCH"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88012398652076,43.6056918419965" }
+        },
+        {
+          "name": "GARE SAINT-ROCH",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "GARE SAINT-ROCH"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "GARE SAINT-ROCH"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88027333501927,43.6057102456503" }
+        },
+        {
+          "name": "CORUM",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "CORUM"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "CORUM"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88180288894431,43.6141874525824" }
+        },
+        {
+          "name": "CORUM",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "CORUM"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "CORUM"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88203164247324,43.6144978224179" }
+        },
+        {
+          "name": "GARE SAINT-ROCH",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "GARE SAINT-ROCH"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "GARE SAINT-ROCH"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87973215441009,43.6052216172446" }
+        },
+        {
+          "name": "SAINT DENIS",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "SAINT DENIS"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "SAINT DENIS"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87419644360875,43.6055040844182" }
+        },
+        {
+          "name": "LA RAUZE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "LA RAUZE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "LA RAUZE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.89600199734048,43.5935183750006" }
+        },
+        {
+          "name": "LES AUBES",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "LES AUBES"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "LES AUBES"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88822891517206,43.6139165175705" }
+        },
+        {
+          "name": "GARE SAINT-ROCH",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "GARE SAINT-ROCH"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "GARE SAINT-ROCH"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88006396078673,43.6045328992085" }
+        },
+        {
+          "name": "GARE SAINT-ROCH",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "GARE SAINT-ROCH"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "GARE SAINT-ROCH"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87996395216692,43.6046049454211" }
+        },
+        {
+          "name": "RONDELET",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "RONDELET"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "RONDELET"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87606104859844,43.6031447135785" }
+        },
+        {
+          "name": "NOUVEAU SAINT-ROCH",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "NOUVEAU SAINT-ROCH"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "NOUVEAU SAINT-ROCH"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87558696910205,43.5994048179104" }
+        },
+        {
+          "name": "RONDELET",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "RONDELET"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "RONDELET"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87606104859844,43.6031447135785" }
+        },
+        {
+          "name": "RONDELET",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "RONDELET"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "RONDELET"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87606104859844,43.6031447135785" }
+        },
+        {
+          "name": "SAINT DENIS",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "SAINT DENIS"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "SAINT DENIS"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87264589783825,43.6062790646084" }
+        },
+        {
+          "name": "SAINT-ELOI",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "SAINT-ELOI"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "SAINT-ELOI"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.86564958821826,43.6269898221643" }
+        },
+        {
+          "name": "SAINT-ELOI",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "SAINT-ELOI"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "SAINT-ELOI"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.86576415199276,43.6270341444319" }
+        },
+        {
+          "name": "BOUTONNET",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "BOUTONNET"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "BOUTONNET"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.86806285017101,43.6225778552871" }
+        },
+        {
+          "name": "BOUTONNET",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "BOUTONNET"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "BOUTONNET"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.8681813226159,43.622610240622" }
+        },
+        {
+          "name": "STADE PHILIPPIDES",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "STADE PHILIPPIDES"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "STADE PHILIPPIDES"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.86944074676127,43.6189968202071" }
+        },
+        {
+          "name": "STADE PHILIPPIDES",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "STADE PHILIPPIDES"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "STADE PHILIPPIDES"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.86955716040147,43.6190018412491" }
+        },
+        {
+          "name": "ALBERT 1ER",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "ALBERT 1ER"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "ALBERT 1ER"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.8740725552056,43.6165118000502" }
+        },
+        {
+          "name": "ALBERT 1ER",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "ALBERT 1ER"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "ALBERT 1ER"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87414226853078,43.6165551375149" }
+        },
+        {
+          "name": "CORUM",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "CORUM"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "CORUM"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88185484536499,43.6142945083345" }
+        },
+        {
+          "name": "MONDIAL 98",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "MONDIAL 98"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "MONDIAL 98"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.90406174631479,43.6026884123023" }
+        },
+        {
+          "name": "MONDIAL 98",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "MONDIAL 98"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "MONDIAL 98"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.9039984127626,43.6028734860605" }
+        },
+        {
+          "name": "MOSSON",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "MOSSON"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "MOSSON"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.81965530027248,43.6162573090465" }
+        },
+        {
+          "name": "CORUM",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "CORUM"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "CORUM"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.88209874028106,43.6144002195777" }
+        },
+        {
+          "name": "ALBERT 1ER CATHEDRALE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "ALBERT 1ER CATHEDRALE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "ALBERT 1ER CATHEDRALE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.8738789919549,43.6148406157505" }
+        },
+        {
+          "name": "SAINT GUILHEM COURREAU",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "SAINT GUILHEM COURREAU"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "SAINT GUILHEM COURREAU"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87348083850767,43.6082499653864" }
+        },
+        {
+          "name": "PEYROU ARC DE TRIOMPHE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "PEYROU ARC DE TRIOMPHE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "PEYROU ARC DE TRIOMPHE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87226391293505,43.6114748353679" }
+        },
+        {
+          "name": "OBSERVATOIRE",
+          "ExtendedData": {
+            "SchemaData": {
+              "-schemaUrl": "#TRAM_ARRETS",
+              "SimpleData": [
+                {
+                  "-name": "altitudeMode",
+                  "#text": "clampToGround"
+                },
+                {
+                  "-name": "NOM",
+                  "#text": "OBSERVATOIRE"
+                },
+                {
+                  "-name": "Field_1",
+                  "#text": "OBSERVATOIRE"
+                }
+              ]
+            }
+          },
+          "Point": { "coordinates": "3.87664494832987,43.6064312263782" }
+        }
+      ]
+    }
+  }

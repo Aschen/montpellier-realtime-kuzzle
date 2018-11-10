@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>TC</name>
+</Folder>
+<Folder><name>TRAMWAY</name>
+</Folder>
+<Folder><name>TRAMWAY_EXISTANT</name>
+</Folder>
+<Folder><name>TRAM_ARRETS</name>
+  <Placemark>
+	<name>Eurêka</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Eurêka</SimpleData>
+		<SimpleData name="Field_1">Eurêka</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.91390611417135,43.618786337327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pont de Sète</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Pont de Sète</SimpleData>
+		<SimpleData name="Field_1">Pont de Sète</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8787238425882,43.6040584340818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saint-Denis</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Saint-Denis</SimpleData>
+		<SimpleData name="Field_1">Saint-Denis</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87497041154203,43.60525356121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Le Terral</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Le Terral</SimpleData>
+		<SimpleData name="Field_1">Le Terral</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.82491181347029,43.5929005612362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Terminus La Capoulière</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Terminus La Capoulière</SimpleData>
+		<SimpleData name="Field_1">Terminus La Capoulière</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.81012565755896,43.5872562692018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paul Fajon</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Paul Fajon</SimpleData>
+		<SimpleData name="Field_1">Paul Fajon</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8368337748513,43.5958927361648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Georges Danton</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Georges Danton</SimpleData>
+		<SimpleData name="Field_1">Georges Danton</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.84272660834911,43.5991361088129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cité Valette</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Cité Valette</SimpleData>
+		<SimpleData name="Field_1">Cité Valette</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.85152745493834,43.6013286301136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chasseurs</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Chasseurs</SimpleData>
+		<SimpleData name="Field_1">Chasseurs</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.85598600102476,43.6031436239929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gouara</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Gouara</SimpleData>
+		<SimpleData name="Field_1">Gouara</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86305379199128,43.6028821559266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clémenceau</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Clémenceau</SimpleData>
+		<SimpleData name="Field_1">Clémenceau</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87178541713909,43.6030014970465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Strasbourg</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Strasbourg</SimpleData>
+		<SimpleData name="Field_1">Strasbourg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8819315112393,43.6029810613641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Polygone</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Polygone</SimpleData>
+		<SimpleData name="Field_1">Polygone</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88613957802795,43.6071865083924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lironde</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Lironde</SimpleData>
+		<SimpleData name="Field_1">Lironde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.9061560938286,43.6101245608491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Evariste Galois</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Evariste Galois</SimpleData>
+		<SimpleData name="Field_1">Evariste Galois</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.91240623490311,43.6095806207229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Louis Lépine</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Louis Lépine</SimpleData>
+		<SimpleData name="Field_1">Louis Lépine</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.91468920502945,43.614846591579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jean Mermoz</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Jean Mermoz</SimpleData>
+		<SimpleData name="Field_1">Jean Mermoz</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.91584731404587,43.6238093709125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castelnau 2000</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Castelnau 2000</SimpleData>
+		<SimpleData name="Field_1">Castelnau 2000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.91260902894181,43.6276468765976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saint Roch</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Saint Roch</SimpleData>
+		<SimpleData name="Field_1">Saint Roch</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86961193217143,43.6152780952113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Adhémar Boutonnet</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Adhémar Boutonnet</SimpleData>
+		<SimpleData name="Field_1">Adhémar Boutonnet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86562000846921,43.6197961926443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fac de Pharma</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Fac de Pharma</SimpleData>
+		<SimpleData name="Field_1">Fac de Pharma</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86279875550601,43.6234444905759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fac de Lettres</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Fac de Lettres</SimpleData>
+		<SimpleData name="Field_1">Fac de Lettres</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86983833627528,43.6302099555847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Resto U</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Resto U</SimpleData>
+		<SimpleData name="Field_1">Resto U</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87328865136024,43.634545658742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Zoo</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Zoo</SimpleData>
+		<SimpleData name="Field_1">Zoo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8730344260806,43.6400787480692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Agropolis</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">Agropolis</SimpleData>
+		<SimpleData name="Field_1">Agropolis</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86880216336493,43.646098590448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CLAIRVAL</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">CLAIRVAL</SimpleData>
+		<SimpleData name="Field_1">CLAIRVAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.90263921220889,43.6301225716799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CH. DE GAULLE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">CH. DE GAULLE</SimpleData>
+		<SimpleData name="Field_1">CH. DE GAULLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89776210151601,43.6285421158042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SAINT LAZARE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">SAINT LAZARE</SimpleData>
+		<SimpleData name="Field_1">SAINT LAZARE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88864483195424,43.626817346923</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AIGUELONGUE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">AIGUELONGUE</SimpleData>
+		<SimpleData name="Field_1">AIGUELONGUE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88321151190695,43.6262278385121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JEU DE MAIL DES ABBES</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">JEU DE MAIL DES ABBES</SimpleData>
+		<SimpleData name="Field_1">JEU DE MAIL DES ABBES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88413885499626,43.6204316211857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VIL. D'ANGOULEME</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">VIL. D'ANGOULEME</SimpleData>
+		<SimpleData name="Field_1">VIL. D'ANGOULEME</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86560840687606,43.588783327101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JACOU</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">JACOU</SimpleData>
+		<SimpleData name="Field_1">JACOU</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.91288474518196,43.6545986976663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LEMASSON</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">LEMASSON</SimpleData>
+		<SimpleData name="Field_1">LEMASSON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87306869790136,43.5936180092481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CENTURIONS</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">CENTURIONS</SimpleData>
+		<SimpleData name="Field_1">CENTURIONS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.91568833442733,43.6328282928554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CROIX D'ARGENT</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">CROIX D'ARGENT</SimpleData>
+		<SimpleData name="Field_1">CROIX D'ARGENT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86638903086334,43.5923970949554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LES AUBES</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">LES AUBES</SimpleData>
+		<SimpleData name="Field_1">LES AUBES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88824226611921,43.6140145159462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SABINES</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">SABINES</SimpleData>
+		<SimpleData name="Field_1">SABINES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86022460090247,43.5838326246373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LEMASSON</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">LEMASSON</SimpleData>
+		<SimpleData name="Field_1">LEMASSON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87314931873725,43.5936850588841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JACOU</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">JACOU</SimpleData>
+		<SimpleData name="Field_1">JACOU</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.91288272378607,43.6545267026483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SABINES</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">SABINES</SimpleData>
+		<SimpleData name="Field_1">SABINES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86009110378584,43.5837538661994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SAINT CLEOPHAS</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">SAINT CLEOPHAS</SimpleData>
+		<SimpleData name="Field_1">SAINT CLEOPHAS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87589758529914,43.5949382039373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MAS DREVON</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">MAS DREVON</SimpleData>
+		<SimpleData name="Field_1">MAS DREVON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86780524561339,43.5955328480107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SAINT CLEOPHAS</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">SAINT CLEOPHAS</SimpleData>
+		<SimpleData name="Field_1">SAINT CLEOPHAS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87602466675032,43.5948976773649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LA GALINE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">LA GALINE</SimpleData>
+		<SimpleData name="Field_1">LA GALINE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.9090616361579,43.6314115886086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MAS DREVON</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">MAS DREVON</SimpleData>
+		<SimpleData name="Field_1">MAS DREVON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8679274802742,43.5954796867665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MOULARES (HOTEL DE VILLE)</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">MOULARES (HOTEL DE VILLE)</SimpleData>
+		<SimpleData name="Field_1">MOULARES (HOTEL DE VILLE)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8955369238255,43.6006055980393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HOP. LAPEYRONIE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">HOP. LAPEYRONIE</SimpleData>
+		<SimpleData name="Field_1">HOP. LAPEYRONIE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.85263979737724,43.6317041184459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PLACE DE L'EUROPE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">PLACE DE L'EUROPE</SimpleData>
+		<SimpleData name="Field_1">PLACE DE L'EUROPE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89394381113852,43.6075145851543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LOUIS BLANC</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">LOUIS BLANC</SimpleData>
+		<SimpleData name="Field_1">LOUIS BLANC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87814712086071,43.6147866222927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AUBE ROUGE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">AUBE ROUGE</SimpleData>
+		<SimpleData name="Field_1">AUBE ROUGE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.92477988110163,43.6385533134448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SAINT JEAN LE SEC</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">SAINT JEAN LE SEC</SimpleData>
+		<SimpleData name="Field_1">SAINT JEAN LE SEC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.83794094482695,43.5708958835943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MOULARES (HOTEL DE VILLE)</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">MOULARES (HOTEL DE VILLE)</SimpleData>
+		<SimpleData name="Field_1">MOULARES (HOTEL DE VILLE)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89551192581976,43.6005875754835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AUBE ROUGE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">AUBE ROUGE</SimpleData>
+		<SimpleData name="Field_1">AUBE ROUGE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.92490589351936,43.6385795681184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LOUIS BLANC</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">LOUIS BLANC</SimpleData>
+		<SimpleData name="Field_1">LOUIS BLANC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8781383681618,43.6146989795281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HALLES DE LA PAILLADE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">HALLES DE LA PAILLADE</SimpleData>
+		<SimpleData name="Field_1">HALLES DE LA PAILLADE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.81747591388661,43.6275640052871</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NOUVEAU SAINT-ROCH</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">NOUVEAU SAINT-ROCH</SimpleData>
+		<SimpleData name="Field_1">NOUVEAU SAINT-ROCH</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87573242587162,43.5994050736071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STADE DE LA MOSSON</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">STADE DE LA MOSSON</SimpleData>
+		<SimpleData name="Field_1">STADE DE LA MOSSON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.81735003444225,43.621245917184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>UNIVERSITES DES SCIENCES ET LETTRES</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">UNIVERSITES DES SCIENCES ET LETTRES</SimpleData>
+		<SimpleData name="Field_1">UNIVERSITES DES SCIENCES ET LETTRES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86155395146663,43.6291867375137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORT MARIANNE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">PORT MARIANNE</SimpleData>
+		<SimpleData name="Field_1">PORT MARIANNE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89942490510742,43.6016276545599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SAINT PAUL</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">SAINT PAUL</SimpleData>
+		<SimpleData name="Field_1">SAINT PAUL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.82109391543853,43.6307217254243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COMEDIE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">COMEDIE</SimpleData>
+		<SimpleData name="Field_1">COMEDIE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87983103038265,43.6083372486733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MALBOSC</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">MALBOSC</SimpleData>
+		<SimpleData name="Field_1">MALBOSC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.83326079654757,43.6346371648171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HOTEL DE VILLE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">HOTEL DE VILLE</SimpleData>
+		<SimpleData name="Field_1">HOTEL DE VILLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8832198907037,43.6071194561734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORT MARIANNE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">PORT MARIANNE</SimpleData>
+		<SimpleData name="Field_1">PORT MARIANNE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89941085863041,43.6015926471374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CHATEAU D'O</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">CHATEAU D'O</SimpleData>
+		<SimpleData name="Field_1">CHATEAU D'O</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8431396595542,43.6316132257779</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HALLES DE LA PAILLADE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">HALLES DE LA PAILLADE</SimpleData>
+		<SimpleData name="Field_1">HALLES DE LA PAILLADE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.817513960454,43.6275639594079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HAUTS DE MASSANE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">HAUTS DE MASSANE</SimpleData>
+		<SimpleData name="Field_1">HAUTS DE MASSANE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.82272043757937,43.63635607138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ANTIGONE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">ANTIGONE</SimpleData>
+		<SimpleData name="Field_1">ANTIGONE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88667390892526,43.6085805467326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MILLENAIRE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">MILLENAIRE</SimpleData>
+		<SimpleData name="Field_1">MILLENAIRE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.9099894887741,43.6033204807096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIVES DU LEZ</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">RIVES DU LEZ</SimpleData>
+		<SimpleData name="Field_1">RIVES DU LEZ</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89484311983067,43.604221844668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SAINT JEAN LE SEC</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">SAINT JEAN LE SEC</SimpleData>
+		<SimpleData name="Field_1">SAINT JEAN LE SEC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.83793120367806,43.5708222537415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COMEDIE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">COMEDIE</SimpleData>
+		<SimpleData name="Field_1">COMEDIE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87973067894617,43.6084182400386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HAUTS DE MASSANE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">HAUTS DE MASSANE</SimpleData>
+		<SimpleData name="Field_1">HAUTS DE MASSANE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.82262349003965,43.6363551367005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VICTOIRE 2</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">VICTOIRE 2</SimpleData>
+		<SimpleData name="Field_1">VICTOIRE 2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.84987979700085,43.5751200447617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LEON BLUM</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">LEON BLUM</SimpleData>
+		<SimpleData name="Field_1">LEON BLUM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89019686697452,43.6089344998721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EUROMEDECINE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">EUROMEDECINE</SimpleData>
+		<SimpleData name="Field_1">EUROMEDECINE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.82772364924222,43.638953588874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>UNIVERSITES DES SCIENCES ET LETTRES</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">UNIVERSITES DES SCIENCES ET LETTRES</SimpleData>
+		<SimpleData name="Field_1">UNIVERSITES DES SCIENCES ET LETTRES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86160433897522,43.6291116491104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIVES DU LEZ</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">RIVES DU LEZ</SimpleData>
+		<SimpleData name="Field_1">RIVES DU LEZ</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89496403122472,43.6042320552505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HOTEL DE VILLE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">HOTEL DE VILLE</SimpleData>
+		<SimpleData name="Field_1">HOTEL DE VILLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88325682821049,43.6071104897259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SAINT PAUL</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">SAINT PAUL</SimpleData>
+		<SimpleData name="Field_1">SAINT PAUL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.82109075286589,43.630629406819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LEON BLUM</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">LEON BLUM</SimpleData>
+		<SimpleData name="Field_1">LEON BLUM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89017188352604,43.6089075630678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HOP. LAPEYRONIE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">HOP. LAPEYRONIE</SimpleData>
+		<SimpleData name="Field_1">HOP. LAPEYRONIE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.85255730394597,43.6316335704392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MALBOSC</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">MALBOSC</SimpleData>
+		<SimpleData name="Field_1">MALBOSC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.83318415838832,43.634576690286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MILLENAIRE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">MILLENAIRE</SimpleData>
+		<SimpleData name="Field_1">MILLENAIRE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.90996314143537,43.6034169188226</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>OCCITANIE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">OCCITANIE</SimpleData>
+		<SimpleData name="Field_1">OCCITANIE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.84855180238929,43.6345437868094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STADE DE LA MOSSON</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">STADE DE LA MOSSON</SimpleData>
+		<SimpleData name="Field_1">STADE DE LA MOSSON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.81746163592049,43.621242556565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>OCCITANIE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">OCCITANIE</SimpleData>
+		<SimpleData name="Field_1">OCCITANIE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.84859796111017,43.6345623239884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CHATEAU D'O</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">CHATEAU D'O</SimpleData>
+		<SimpleData name="Field_1">CHATEAU D'O</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.84301257938214,43.6316084092075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EUROMEDECINE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">EUROMEDECINE</SimpleData>
+		<SimpleData name="Field_1">EUROMEDECINE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.82766497271547,43.6390355068398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ANTIGONE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">ANTIGONE</SimpleData>
+		<SimpleData name="Field_1">ANTIGONE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88663683277039,43.6085985191361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PLACE DE L'EUROPE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">PLACE DE L'EUROPE</SimpleData>
+		<SimpleData name="Field_1">PLACE DE L'EUROPE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89398082854659,43.6075135364596</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VICTOIRE 2</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">VICTOIRE 2</SimpleData>
+		<SimpleData name="Field_1">VICTOIRE 2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.84979893798564,43.5752183103371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PLACE CARNOT</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">PLACE CARNOT</SimpleData>
+		<SimpleData name="Field_1">PLACE CARNOT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88421429493173,43.6036629598593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PLACE DE FRANCE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">PLACE DE FRANCE</SimpleData>
+		<SimpleData name="Field_1">PLACE DE FRANCE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.91578469913588,43.6037142107563</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PLACE DE FRANCE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">PLACE DE FRANCE</SimpleData>
+		<SimpleData name="Field_1">PLACE DE FRANCE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.91574032392574,43.6038146283819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ODYSSEUM</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">ODYSSEUM</SimpleData>
+		<SimpleData name="Field_1">ODYSSEUM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.92029950024783,43.6037846812695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ODYSSEUM</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">ODYSSEUM</SimpleData>
+		<SimpleData name="Field_1">ODYSSEUM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.92048364127654,43.6038162648102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JUVIGNAC</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">JUVIGNAC</SimpleData>
+		<SimpleData name="Field_1">JUVIGNAC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.80962185936504,43.6174037430463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HOTEL DU DÉPARTEMENT</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">HOTEL DU DÉPARTEMENT</SimpleData>
+		<SimpleData name="Field_1">HOTEL DU DÉPARTEMENT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.83508844883336,43.6220184746912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PILORY</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">PILORY</SimpleData>
+		<SimpleData name="Field_1">PILORY</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.83203000629587,43.6195608698515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PERGOLA</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">PERGOLA</SimpleData>
+		<SimpleData name="Field_1">PERGOLA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.83965437920133,43.6176249052122</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TONNELLES</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">TONNELLES</SimpleData>
+		<SimpleData name="Field_1">TONNELLES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.83951413920444,43.6134795146172</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JULES GUESDE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">JULES GUESDE</SimpleData>
+		<SimpleData name="Field_1">JULES GUESDE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.84676126093407,43.6113289763622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ASTRUC</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">ASTRUC</SimpleData>
+		<SimpleData name="Field_1">ASTRUC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.85485489289235,43.6102832975922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LES ARCEAUX</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">LES ARCEAUX</SimpleData>
+		<SimpleData name="Field_1">LES ARCEAUX</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86194856149036,43.6099538046593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PLAN CABANES</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">PLAN CABANES</SimpleData>
+		<SimpleData name="Field_1">PLAN CABANES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86825273286234,43.608480790706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SAINT-MARTIN</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">SAINT-MARTIN</SimpleData>
+		<SimpleData name="Field_1">SAINT-MARTIN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87989000642667,43.5925258512743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RESTANQUE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">RESTANQUE</SimpleData>
+		<SimpleData name="Field_1">RESTANQUE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88605920126618,43.5900623278321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GEORGES FRECHE - HOTEL DE VILLE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">GEORGES FRECHE - HOTEL DE VILLE</SimpleData>
+		<SimpleData name="Field_1">GEORGES FRECHE - HOTEL DE VILLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89501435524723,43.599519915803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PABLO PICASSO</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">PABLO PICASSO</SimpleData>
+		<SimpleData name="Field_1">PABLO PICASSO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.90337995444496,43.5980509687803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BOIRARGUES</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">BOIRARGUES</SimpleData>
+		<SimpleData name="Field_1">BOIRARGUES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.92658607794949,43.5822463854978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COUGOURLUDE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">COUGOURLUDE</SimpleData>
+		<SimpleData name="Field_1">COUGOURLUDE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.91430052239613,43.5713812374041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LATTES CENRE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">LATTES CENRE</SimpleData>
+		<SimpleData name="Field_1">LATTES CENRE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.90481761647003,43.5708098812253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PÉROLS - ETANG DE L'OR</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">PÉROLS - ETANG DE L'OR</SimpleData>
+		<SimpleData name="Field_1">PÉROLS - ETANG DE L'OR</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.96395451321454,43.5577381877685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PÉROLS CENTRE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">PÉROLS CENTRE</SimpleData>
+		<SimpleData name="Field_1">PÉROLS CENTRE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.95735556059361,43.5653785666472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PARC EXPO</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">PARC EXPO</SimpleData>
+		<SimpleData name="Field_1">PARC EXPO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.94567852006297,43.5729102100133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ECO POLE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">ECO POLE</SimpleData>
+		<SimpleData name="Field_1">ECO POLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.93556076487718,43.5778265285765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CELLENEUVE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">CELLENEUVE</SimpleData>
+		<SimpleData name="Field_1">CELLENEUVE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.82587541241159,43.6158768935266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PLACE CARNOT</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">PLACE CARNOT</SimpleData>
+		<SimpleData name="Field_1">PLACE CARNOT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88432676874434,43.6037305777057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POMPIGNANE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">POMPIGNANE</SimpleData>
+		<SimpleData name="Field_1">POMPIGNANE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89499790837432,43.6125912672624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POMPIGNANE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">POMPIGNANE</SimpleData>
+		<SimpleData name="Field_1">POMPIGNANE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89486681745591,43.6126012749203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SAINT JEAN DE VEDAS CENTRE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">SAINT JEAN DE VEDAS CENTRE</SimpleData>
+		<SimpleData name="Field_1">SAINT JEAN DE VEDAS CENTRE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.83072440957137,43.5748861352638</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ND SABLASSOU</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">ND SABLASSOU</SimpleData>
+		<SimpleData name="Field_1">ND SABLASSOU</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.92229536192455,43.6341919351021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RONDELET</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">RONDELET</SimpleData>
+		<SimpleData name="Field_1">RONDELET</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87605685746492,43.6030418978171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SAINT JEAN DE VEDAS CENTRE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">SAINT JEAN DE VEDAS CENTRE</SimpleData>
+		<SimpleData name="Field_1">SAINT JEAN DE VEDAS CENTRE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.83058552477978,43.5749627859433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ND SABLASSOU</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">ND SABLASSOU</SimpleData>
+		<SimpleData name="Field_1">ND SABLASSOU</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.92222964590709,43.634278684382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LA CONDAMINE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">LA CONDAMINE</SimpleData>
+		<SimpleData name="Field_1">LA CONDAMINE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.84413117670913,43.5717502625453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GEORGES POMPIDOU</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">GEORGES POMPIDOU</SimpleData>
+		<SimpleData name="Field_1">GEORGES POMPIDOU</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.92108419195769,43.6493392014755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VIA DOMITIA</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">VIA DOMITIA</SimpleData>
+		<SimpleData name="Field_1">VIA DOMITIA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.92942537078782,43.6468141972851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LA CONDAMINE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">LA CONDAMINE</SimpleData>
+		<SimpleData name="Field_1">LA CONDAMINE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.84413117670913,43.5717502625453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BEAUX ARTS</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">BEAUX ARTS</SimpleData>
+		<SimpleData name="Field_1">BEAUX ARTS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88345454320747,43.6170178117789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GEORGES POMPIDOU</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">GEORGES POMPIDOU</SimpleData>
+		<SimpleData name="Field_1">GEORGES POMPIDOU</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.92096740964723,43.6492916362365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LA GALINE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">LA GALINE</SimpleData>
+		<SimpleData name="Field_1">LA GALINE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.90901533975545,43.6314941862921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CENTURIONS</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">CENTURIONS</SimpleData>
+		<SimpleData name="Field_1">CENTURIONS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.91572140794553,43.6327409354102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CROIX D'ARGENT</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">CROIX D'ARGENT</SimpleData>
+		<SimpleData name="Field_1">CROIX D'ARGENT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86650910090286,43.5924155048937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VIL. D'ANGOULEME</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">VIL. D'ANGOULEME</SimpleData>
+		<SimpleData name="Field_1">VIL. D'ANGOULEME</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86574485809266,43.5887808953937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BEAUX ARTS</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">BEAUX ARTS</SimpleData>
+		<SimpleData name="Field_1">BEAUX ARTS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88354730113537,43.6169636815655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VOLTAIRE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">VOLTAIRE</SimpleData>
+		<SimpleData name="Field_1">VOLTAIRE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88912999265085,43.6036644944294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VOLTAIRE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">VOLTAIRE</SimpleData>
+		<SimpleData name="Field_1">VOLTAIRE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88911878195127,43.6037624932242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VIA DOMITIA</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">VIA DOMITIA</SimpleData>
+		<SimpleData name="Field_1">VIA DOMITIA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.92953808368393,43.6466580088346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CLAIRVAL</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">CLAIRVAL</SimpleData>
+		<SimpleData name="Field_1">CLAIRVAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.9025776534553,43.6302064774034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CH. DE GAULLE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">CH. DE GAULLE</SimpleData>
+		<SimpleData name="Field_1">CH. DE GAULLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89764792305532,43.6285963256426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SAINT LAZARE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">SAINT LAZARE</SimpleData>
+		<SimpleData name="Field_1">SAINT LAZARE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88869867443633,43.6267091782087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AIGUELONGUE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">AIGUELONGUE</SimpleData>
+		<SimpleData name="Field_1">AIGUELONGUE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88322283981414,43.6263362532284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JEU DE MAIL DES ABBES</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">JEU DE MAIL DES ABBES</SimpleData>
+		<SimpleData name="Field_1">JEU DE MAIL DES ABBES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88399592161431,43.620401183488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GARCIA LORCA</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">GARCIA LORCA</SimpleData>
+		<SimpleData name="Field_1">GARCIA LORCA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89071579767605,43.5909850850925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIVES DU LEZ</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">RIVES DU LEZ</SimpleData>
+		<SimpleData name="Field_1">RIVES DU LEZ</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89400253226802,43.6039480036515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RIVES DU LEZ</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">RIVES DU LEZ</SimpleData>
+		<SimpleData name="Field_1">RIVES DU LEZ</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89398192826825,43.6040734583653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GARE SAINT-ROCH</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">GARE SAINT-ROCH</SimpleData>
+		<SimpleData name="Field_1">GARE SAINT-ROCH</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88012398652076,43.6056918419965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GARE SAINT-ROCH</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">GARE SAINT-ROCH</SimpleData>
+		<SimpleData name="Field_1">GARE SAINT-ROCH</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88027333501927,43.6057102456503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CORUM</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">CORUM</SimpleData>
+		<SimpleData name="Field_1">CORUM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88180288894431,43.6141874525824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CORUM</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">CORUM</SimpleData>
+		<SimpleData name="Field_1">CORUM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88203164247324,43.6144978224179</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GARE SAINT-ROCH</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">GARE SAINT-ROCH</SimpleData>
+		<SimpleData name="Field_1">GARE SAINT-ROCH</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87973215441009,43.6052216172446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SAINT DENIS</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">SAINT DENIS</SimpleData>
+		<SimpleData name="Field_1">SAINT DENIS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87419644360875,43.6055040844182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LA RAUZE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">LA RAUZE</SimpleData>
+		<SimpleData name="Field_1">LA RAUZE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.89600199734048,43.5935183750006</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LES AUBES</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">LES AUBES</SimpleData>
+		<SimpleData name="Field_1">LES AUBES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88822891517206,43.6139165175705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GARE SAINT-ROCH</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">GARE SAINT-ROCH</SimpleData>
+		<SimpleData name="Field_1">GARE SAINT-ROCH</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88006396078673,43.6045328992085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GARE SAINT-ROCH</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">GARE SAINT-ROCH</SimpleData>
+		<SimpleData name="Field_1">GARE SAINT-ROCH</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87996395216692,43.6046049454211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RONDELET</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">RONDELET</SimpleData>
+		<SimpleData name="Field_1">RONDELET</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87606104859844,43.6031447135785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NOUVEAU SAINT-ROCH</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">NOUVEAU SAINT-ROCH</SimpleData>
+		<SimpleData name="Field_1">NOUVEAU SAINT-ROCH</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87558696910205,43.5994048179104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RONDELET</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">RONDELET</SimpleData>
+		<SimpleData name="Field_1">RONDELET</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87606104859844,43.6031447135785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RONDELET</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">RONDELET</SimpleData>
+		<SimpleData name="Field_1">RONDELET</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87606104859844,43.6031447135785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SAINT DENIS</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">SAINT DENIS</SimpleData>
+		<SimpleData name="Field_1">SAINT DENIS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87264589783825,43.6062790646084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SAINT-ELOI</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">SAINT-ELOI</SimpleData>
+		<SimpleData name="Field_1">SAINT-ELOI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86564958821826,43.6269898221643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SAINT-ELOI</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">SAINT-ELOI</SimpleData>
+		<SimpleData name="Field_1">SAINT-ELOI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86576415199276,43.6270341444319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BOUTONNET</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">BOUTONNET</SimpleData>
+		<SimpleData name="Field_1">BOUTONNET</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86806285017101,43.6225778552871</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BOUTONNET</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">BOUTONNET</SimpleData>
+		<SimpleData name="Field_1">BOUTONNET</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8681813226159,43.622610240622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STADE PHILIPPIDES</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">STADE PHILIPPIDES</SimpleData>
+		<SimpleData name="Field_1">STADE PHILIPPIDES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86944074676127,43.6189968202071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STADE PHILIPPIDES</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">STADE PHILIPPIDES</SimpleData>
+		<SimpleData name="Field_1">STADE PHILIPPIDES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.86955716040147,43.6190018412491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ALBERT 1ER</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">ALBERT 1ER</SimpleData>
+		<SimpleData name="Field_1">ALBERT 1ER</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8740725552056,43.6165118000502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ALBERT 1ER</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">ALBERT 1ER</SimpleData>
+		<SimpleData name="Field_1">ALBERT 1ER</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87414226853078,43.6165551375149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CORUM</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">CORUM</SimpleData>
+		<SimpleData name="Field_1">CORUM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88185484536499,43.6142945083345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MONDIAL 98</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">MONDIAL 98</SimpleData>
+		<SimpleData name="Field_1">MONDIAL 98</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.90406174631479,43.6026884123023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MONDIAL 98</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">MONDIAL 98</SimpleData>
+		<SimpleData name="Field_1">MONDIAL 98</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.9039984127626,43.6028734860605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MOSSON</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">MOSSON</SimpleData>
+		<SimpleData name="Field_1">MOSSON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.81965530027248,43.6162573090465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CORUM</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">CORUM</SimpleData>
+		<SimpleData name="Field_1">CORUM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.88209874028106,43.6144002195777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ALBERT 1ER CATHEDRALE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">ALBERT 1ER CATHEDRALE</SimpleData>
+		<SimpleData name="Field_1">ALBERT 1ER CATHEDRALE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.8738789919549,43.6148406157505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SAINT GUILHEM COURREAU</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">SAINT GUILHEM COURREAU</SimpleData>
+		<SimpleData name="Field_1">SAINT GUILHEM COURREAU</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87348083850767,43.6082499653864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PEYROU ARC DE TRIOMPHE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">PEYROU ARC DE TRIOMPHE</SimpleData>
+		<SimpleData name="Field_1">PEYROU ARC DE TRIOMPHE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87226391293505,43.6114748353679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>OBSERVATOIRE</name>
+	<ExtendedData><SchemaData schemaUrl="#TRAM_ARRETS">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="NOM">OBSERVATOIRE</SimpleData>
+		<SimpleData name="Field_1">OBSERVATOIRE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>3.87664494832987,43.6064312263782</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>BUS</name>
+</Folder>
+<Folder><name>MODULAUTO</name>
+</Folder>
+<Folder><name>VELOMAGG</name>
+</Folder>
+<Schema name="TRAM_ARRETS" id="TRAM_ARRETS">
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="NOM" type="string"></SimpleField>
+	<SimpleField name="Field_1" type="string"></SimpleField>
+</Schema>
+</Document></kml>

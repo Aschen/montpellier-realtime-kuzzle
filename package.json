@@ -30,7 +30,11 @@
     "nexpect": "^0.5.0"
   },
   "dependencies": {
+    "axios": "^0.18.0",
+    "csvtojson": "^2.0.8",
     "passport": "^0.4.0",
-    "passport-local": "^1.0.0"
+    "passport-local": "^1.0.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
   }
 }
