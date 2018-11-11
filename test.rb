@@ -1,25 +1,29 @@
 require 'json'
 
-content = JSON.parse(File.read('./stops_index.json'))
+stops = JSON.parse(File.read('./stops.json'))
+stops_api = JSON.parse(File.read('./stops_api.json'))
 
-stops = content.map do |k, v|
-  v
-end.uniq do |el|
-  el['name']
+result = stops_api.map do |stop|
+  info = stops.detect {|e| e['name'] == stop['name'] }
+
+  if info 
+    lat, lng = stop['coordinates'].split(',').map {|e| e.to_f}
+    {
+      name: stop['name'],
+      line: stop['line'],
+      coordinates: {
+        lat: lat,
+        lng: lng
+      },
+      number: stop['number'],
+      matchNames: info['matchName'],
+      ids: info['id'].map { |e| e.to_i }
+    }  
+  else
+    puts stop['name']
+  end
 end
 
-File.write('./stops.json', stops.to_json)
-# stops = JSON.parse(File.read('./stops.json'))
-# coords = JSON.parse(File.read('./stops_api.json'))
+puts result
 
-# coords.each do |coord|
-#   matchs = stops.keep_if { |e| e['name'] == coord['name'] }
-
-#   if matchs
-#     matchs.each do |match|
-#       match['coordinates'] = coord['coordinates']
-#     end
-#   end
-# end
-
-# File.write('stops.json', stops.to_json)
+File.write('full_stops.json', result.to_json)
