@@ -6,6 +6,9 @@ services:
     command: /run-dev.sh
     volumes:
       - "./run-dev.sh:/run-dev.sh"
+      - "./default-mappings.json:/default-mappings.json"
+      - "./default-fixtures.json:/default-fixtures.json"
+      - "./default-securities.json:/default-securities.json"
       - "./install-plugins.sh:/install-plugins.sh"
       - "./pm2.json:/config/pm2.json"
       - "..:/var/app/plugins/enabled/montpellier-realtime"

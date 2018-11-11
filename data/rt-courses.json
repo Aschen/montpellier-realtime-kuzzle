@@ -1,0 +1,1162 @@
+{
+  "268435477": {
+    "stopName": "CORUM T1",
+    "stopId": "41225",
+    "direction": "1",
+    "directionName": "MOSSON",
+    "departureTime": "15:18:51",
+    "departureTimestamp": 1541949531
+  },
+  "268435510": {
+    "stopName": "MONDIAL 98",
+    "stopId": "41151",
+    "direction": "0",
+    "directionName": "ODYSSEUM",
+    "departureTime": "15:18:13",
+    "departureTimestamp": 1541949493
+  },
+  "268435513": {
+    "stopName": "ODYSSEUM",
+    "stopId": "41201",
+    "direction": "1",
+    "directionName": "MOSSON",
+    "departureTime": "15:30:00",
+    "departureTimestamp": 1541950200
+  },
+  "268435542": {
+    "stopName": "ANTIGONE",
+    "stopId": "41139",
+    "direction": "0",
+    "directionName": "ODYSSEUM",
+    "departureTime": "15:19:30",
+    "departureTimestamp": 1541949570
+  },
+  "268435545": {
+    "stopName": "ODYSSEUM",
+    "stopId": "41201",
+    "direction": "1",
+    "directionName": "MOSSON",
+    "departureTime": "15:42:00",
+    "departureTimestamp": 1541950920
+  },
+  "268435582": {
+    "stopName": "LOUIS BLANC",
+    "stopId": "41129",
+    "direction": "0",
+    "directionName": "ODYSSEUM",
+    "departureTime": "15:20:13",
+    "departureTimestamp": 1541949613
+  },
+  "268435614": {
+    "stopName": "CHATEAU D'O",
+    "stopId": "41113",
+    "direction": "0",
+    "directionName": "ODYSSEUM",
+    "departureTime": "15:18:33",
+    "departureTimestamp": 1541949513
+  },
+  "268435653": {
+    "stopName": "HALLES PAILLADE",
+    "stopId": "41253",
+    "direction": "1",
+    "directionName": "MOSSON",
+    "departureTime": "15:17:52",
+    "departureTimestamp": 1541949472
+  },
+  "268435654": {
+    "stopName": "MOSSON T1",
+    "stopId": "41101",
+    "direction": "0",
+    "directionName": "ODYSSEUM",
+    "departureTime": "15:29:00",
+    "departureTimestamp": 1541950140
+  },
+  "268435685": {
+    "stopName": "HOP. LAPEYRONIE",
+    "stopId": "41239",
+    "direction": "1",
+    "directionName": "MOSSON",
+    "departureTime": "15:18:51",
+    "departureTimestamp": 1541949531
+  },
+  "268435686": {
+    "stopName": "MOSSON T1",
+    "stopId": "41101",
+    "direction": "0",
+    "directionName": "ODYSSEUM",
+    "departureTime": "15:40:00",
+    "departureTimestamp": 1541950800
+  },
+  "268435725": {
+    "stopName": "LEON BLUM",
+    "stopId": "41215",
+    "direction": "1",
+    "directionName": "MOSSON",
+    "departureTime": "15:18:41",
+    "departureTimestamp": 1541949521
+  },
+  "268435753": {
+    "stopName": "ODYSSEUM",
+    "stopId": "41201",
+    "direction": "1",
+    "directionName": "MOSSON",
+    "departureTime": "15:18:00",
+    "departureTimestamp": 1541949480
+  },
+  "268435778": {
+    "stopName": "STADE MOSSON",
+    "stopId": "41163",
+    "direction": "0",
+    "directionName": "ODYSSEUM",
+    "departureTime": "15:19:00",
+    "departureTimestamp": 1541949540
+  },
+  "268435802": {
+    "stopName": "MOSSON T1",
+    "stopId": "41101",
+    "direction": "0",
+    "directionName": "ODYSSEUM",
+    "departureTime": "15:50:00",
+    "departureTimestamp": 1541951400
+  },
+  "268435861": {
+    "stopName": "CLAIRVAL",
+    "stopId": "42153",
+    "direction": "0",
+    "directionName": "ND DE SABLASSOU",
+    "departureTime": "15:17:39",
+    "departureTimestamp": 1541949459
+  },
+  "268435864": {
+    "stopName": "ND DE SABLASSOU",
+    "stopId": "42211",
+    "direction": "1",
+    "directionName": "SABINES",
+    "departureTime": "15:25:00",
+    "departureTimestamp": 1541949900
+  },
+  "268435867": {
+    "stopName": "ND DE SABLASSOU",
+    "stopId": "42159",
+    "direction": "0",
+    "directionName": "JACOU",
+    "departureTime": "16:33:00",
+    "departureTimestamp": 1541953980
+  },
+  "268435902": {
+    "stopName": "SABINES",
+    "stopId": "42111",
+    "direction": "0",
+    "directionName": "ND DE SABLASSOU",
+    "departureTime": "15:18:00",
+    "departureTimestamp": 1541949480
+  },
+  "268435905": {
+    "stopName": "ND DE SABLASSOU",
+    "stopId": "42211",
+    "direction": "1",
+    "directionName": "SABINES",
+    "departureTime": "15:55:00",
+    "departureTimestamp": 1541951700
+  },
+  "268435938": {
+    "stopName": "PLANKSTADT",
+    "stopId": "42171",
+    "direction": "0",
+    "directionName": "JACOU",
+    "departureTime": "15:18:30",
+    "departureTimestamp": 1541949510
+  },
+  "268435939": {
+    "stopName": "JACOU",
+    "stopId": "42169",
+    "direction": "1",
+    "directionName": "ST-JEAN DE VEDAS",
+    "departureTime": "15:30:00",
+    "departureTimestamp": 1541950200
+  },
+  "268435940": {
+    "stopName": "ST-JEAN CENTRE",
+    "stopId": "42101",
+    "direction": "0",
+    "directionName": "ND DE SABLASSOU",
+    "departureTime": "16:40:00",
+    "departureTimestamp": 1541954400
+  },
+  "268435979": {
+    "stopName": "GARE ST-ROCH T1",
+    "stopId": "41221",
+    "direction": "0",
+    "directionName": "JACOU",
+    "departureTime": "15:18:26",
+    "departureTimestamp": 1541949506
+  },
+  "268435980": {
+    "stopName": "JACOU",
+    "stopId": "42169",
+    "direction": "1",
+    "directionName": "ST-JEAN DE VEDAS",
+    "departureTime": "16:00:00",
+    "departureTimestamp": 1541952000
+  },
+  "268436014": {
+    "stopName": "ST-JEAN CENTRE",
+    "stopId": "42101",
+    "direction": "0",
+    "directionName": "ND DE SABLASSOU",
+    "departureTime": "15:40:00",
+    "departureTimestamp": 1541950800
+  },
+  "268436048": {
+    "stopName": "NOUVEAU ST-ROCH",
+    "stopId": "42247",
+    "direction": "1",
+    "directionName": "SABINES",
+    "departureTime": "15:18:38",
+    "departureTimestamp": 1541949518
+  },
+  "268436051": {
+    "stopName": "SABINES",
+    "stopId": "42111",
+    "direction": "0",
+    "directionName": "JACOU",
+    "departureTime": "15:33:00",
+    "departureTimestamp": 1541950380
+  },
+  "268436052": {
+    "stopName": "JACOU",
+    "stopId": "42169",
+    "direction": "1",
+    "directionName": "ST-JEAN DE VEDAS",
+    "departureTime": "16:30:00",
+    "departureTimestamp": 1541953800
+  },
+  "268436085": {
+    "stopName": "SAINT-LAZARE",
+    "stopId": "42221",
+    "direction": "1",
+    "directionName": "ST-JEAN DE VEDAS",
+    "departureTime": "15:19:28",
+    "departureTimestamp": 1541949568
+  },
+  "268436086": {
+    "stopName": "ST-JEAN CENTRE",
+    "stopId": "42101",
+    "direction": "0",
+    "directionName": "ND DE SABLASSOU",
+    "departureTime": "16:10:00",
+    "departureTimestamp": 1541952600
+  },
+  "268436118": {
+    "stopName": "LES ARCEAUX",
+    "stopId": "43239",
+    "direction": "0",
+    "directionName": "MOSSON",
+    "departureTime": "15:18:45",
+    "departureTimestamp": 1541949525
+  },
+  "268436121": {
+    "stopName": "MOSSON T3",
+    "stopId": "43103",
+    "direction": "1",
+    "directionName": "LATTES CENTRE",
+    "departureTime": "15:50:00",
+    "departureTimestamp": 1541951400
+  },
+  "268436122": {
+    "stopName": "LATTES CENTRE",
+    "stopId": "43259",
+    "direction": "0",
+    "directionName": "MOSSON",
+    "departureTime": "16:47:00",
+    "departureTimestamp": 1541954820
+  },
+  "268436144": {
+    "stopName": "RIVES DU LEZ T3",
+    "stopId": "42237",
+    "direction": "0",
+    "directionName": "JUVIGNAC",
+    "departureTime": "15:18:39",
+    "departureTimestamp": 1541949519
+  },
+  "268436145": {
+    "stopName": "JUVIGNAC",
+    "stopId": "43101",
+    "direction": "1",
+    "directionName": "PEROLS ETANG",
+    "departureTime": "16:00:00",
+    "departureTimestamp": 1541952000
+  },
+  "268436176": {
+    "stopName": "COUGOURLUDE",
+    "stopId": "43261",
+    "direction": "0",
+    "directionName": "MOSSON",
+    "departureTime": "15:19:00",
+    "departureTimestamp": 1541949540
+  },
+  "268436202": {
+    "stopName": "PEROLS ETANG OR",
+    "stopId": "43201",
+    "direction": "0",
+    "directionName": "JUVIGNAC",
+    "departureTime": "15:30:00",
+    "departureTimestamp": 1541950200
+  },
+  "268436203": {
+    "stopName": "JUVIGNAC",
+    "stopId": "43101",
+    "direction": "1",
+    "directionName": "PEROLS ETANG",
+    "departureTime": "16:30:00",
+    "departureTimestamp": 1541953800
+  },
+  "268436232": {
+    "stopName": "PORT MARIANNE",
+    "stopId": "41149",
+    "direction": "1",
+    "directionName": "LATTES CENTRE",
+    "departureTime": "15:19:13",
+    "departureTimestamp": 1541949553
+  },
+  "268436233": {
+    "stopName": "LATTES CENTRE",
+    "stopId": "43259",
+    "direction": "0",
+    "directionName": "MOSSON",
+    "departureTime": "15:47:00",
+    "departureTimestamp": 1541951220
+  },
+  "268436258": {
+    "stopName": "LES ARCEAUX",
+    "stopId": "43119",
+    "direction": "1",
+    "directionName": "PEROLS ETANG",
+    "departureTime": "15:19:29",
+    "departureTimestamp": 1541949569
+  },
+  "268436259": {
+    "stopName": "PEROLS ETANG OR",
+    "stopId": "43201",
+    "direction": "0",
+    "directionName": "JUVIGNAC",
+    "departureTime": "16:00:00",
+    "departureTimestamp": 1541952000
+  },
+  "268436289": {
+    "stopName": "MOSSON T3",
+    "stopId": "43103",
+    "direction": "1",
+    "directionName": "LATTES CENTRE",
+    "departureTime": "15:20:00",
+    "departureTimestamp": 1541949600
+  },
+  "268436290": {
+    "stopName": "LATTES CENTRE",
+    "stopId": "43259",
+    "direction": "0",
+    "directionName": "MOSSON",
+    "departureTime": "16:17:00",
+    "departureTimestamp": 1541953020
+  },
+  "268436311": {
+    "stopName": "JUVIGNAC",
+    "stopId": "43101",
+    "direction": "1",
+    "directionName": "PEROLS ETANG",
+    "departureTime": "15:30:00",
+    "departureTimestamp": 1541950200
+  },
+  "268436312": {
+    "stopName": "PEROLS ETANG OR",
+    "stopId": "43201",
+    "direction": "0",
+    "directionName": "JUVIGNAC",
+    "departureTime": "16:30:00",
+    "departureTimestamp": 1541953800
+  },
+  "268436339": {
+    "stopName": "RONDELET",
+    "stopId": "42125",
+    "direction": "0",
+    "directionName": "GARCIA LORCA",
+    "departureTime": "15:18:42",
+    "departureTimestamp": 1541949522
+  },
+  "268436340": {
+    "stopName": "GARCIA LORCA",
+    "stopId": "44105",
+    "direction": "0",
+    "directionName": "GARCIA LORCA",
+    "departureTime": "15:50:00",
+    "departureTimestamp": 1541951400
+  },
+  "268436375": {
+    "stopName": "HOTEL DE VILLE",
+    "stopId": "43141",
+    "direction": "1",
+    "directionName": "GARCIA LORCA",
+    "departureTime": "15:19:19",
+    "departureTimestamp": 1541949559
+  },
+  "268436376": {
+    "stopName": "GARCIA LORCA",
+    "stopId": "44201",
+    "direction": "1",
+    "directionName": "GARCIA LORCA",
+    "departureTime": "15:56:00",
+    "departureTimestamp": 1541951760
+  },
+  "268436408": {
+    "stopName": "RIVES DU LEZ T1",
+    "stopId": "41145",
+    "direction": "0",
+    "directionName": "GARCIA LORCA",
+    "departureTime": "15:19:31",
+    "departureTimestamp": 1541949571
+  },
+  "268436409": {
+    "stopName": "GARCIA LORCA",
+    "stopId": "44105",
+    "direction": "0",
+    "directionName": "GARCIA LORCA",
+    "departureTime": "15:30:00",
+    "departureTimestamp": 1541950200
+  },
+  "268436410": {
+    "stopName": "GARCIA LORCA",
+    "stopId": "44105",
+    "direction": "0",
+    "directionName": "GARCIA LORCA",
+    "departureTime": "16:10:00",
+    "departureTimestamp": 1541952600
+  },
+  "268436443": {
+    "stopName": "SAINT-GUILHEM",
+    "stopId": "44204",
+    "direction": "1",
+    "directionName": "GARCIA LORCA",
+    "departureTime": "15:17:47",
+    "departureTimestamp": 1541949467
+  },
+  "268436444": {
+    "stopName": "GARCIA LORCA",
+    "stopId": "44201",
+    "direction": "1",
+    "directionName": "GARCIA LORCA",
+    "departureTime": "15:36:00",
+    "departureTimestamp": 1541950560
+  },
+  "268436445": {
+    "stopName": "GARCIA LORCA",
+    "stopId": "44201",
+    "direction": "1",
+    "directionName": "GARCIA LORCA",
+    "departureTime": "16:16:00",
+    "departureTimestamp": 1541952960
+  },
+  "268436501": {
+    "stopName": "PAS DU LOUP",
+    "stopId": "6101",
+    "direction": "0",
+    "directionName": "EUROMEDECINE",
+    "departureTime": "15:33:00",
+    "departureTimestamp": 1541950380
+  },
+  "268436502": {
+    "stopName": "EUROMEDECINE",
+    "stopId": "2202",
+    "direction": "1",
+    "directionName": "PAS DU LOUP",
+    "departureTime": "16:38:00",
+    "departureTimestamp": 1541954280
+  },
+  "268436510": {
+    "stopName": "EUROMEDECINE",
+    "stopId": "2202",
+    "direction": "1",
+    "directionName": "PAS DU LOUP",
+    "departureTime": "15:29:00",
+    "departureTimestamp": 1541950140
+  },
+  "268436519": {
+    "stopName": "COLLEGE CLAUDEL",
+    "stopId": "6233",
+    "direction": "1",
+    "directionName": "PAS DU LOUP",
+    "departureTime": "15:18:32",
+    "departureTimestamp": 1541949512
+  },
+  "268436520": {
+    "stopName": "PAS DU LOUP",
+    "stopId": "6101",
+    "direction": "0",
+    "directionName": "EUROMEDECINE",
+    "departureTime": "16:07:00",
+    "departureTimestamp": 1541952420
+  },
+  "268436527": {
+    "stopName": "DORIA",
+    "stopId": "7216",
+    "direction": "0",
+    "directionName": "EUROMEDECINE",
+    "departureTime": "15:17:43",
+    "departureTimestamp": 1541949463
+  },
+  "268436528": {
+    "stopName": "EUROMEDECINE",
+    "stopId": "2202",
+    "direction": "1",
+    "directionName": "PAS DU LOUP",
+    "departureTime": "16:04:00",
+    "departureTimestamp": 1541952240
+  },
+  "268436540": {
+    "stopName": "PAS DU LOUP",
+    "stopId": "6101",
+    "direction": "0",
+    "directionName": "EUROMEDECINE",
+    "departureTime": "16:41:00",
+    "departureTimestamp": 1541954460
+  },
+  "268436593": {
+    "stopName": "LEPIC",
+    "stopId": "7117",
+    "direction": "0",
+    "directionName": "LA MARTELLE",
+    "departureTime": "15:18:28",
+    "departureTimestamp": 1541949508
+  },
+  "268436594": {
+    "stopName": "LA MARTELLE",
+    "stopId": "7201",
+    "direction": "1",
+    "directionName": "H. DEPARTEMENT",
+    "departureTime": "15:40:00",
+    "departureTimestamp": 1541950800
+  },
+  "268436596": {
+    "stopName": "HOT. DEPARTEMENT",
+    "stopId": "7132",
+    "direction": "0",
+    "directionName": "LA MARTELLE",
+    "departureTime": "16:43:00",
+    "departureTimestamp": 1541954580
+  },
+  "268436597": {
+    "stopName": "LA MARTELLE",
+    "stopId": "7201",
+    "direction": "1",
+    "directionName": "H. DEPARTEMENT",
+    "departureTime": "17:39:00",
+    "departureTimestamp": 1541957940
+  },
+  "268436606": {
+    "stopName": "JEAN BART",
+    "stopId": "7137",
+    "direction": "0",
+    "directionName": "LES BOUISSES",
+    "departureTime": "15:17:56",
+    "departureTimestamp": 1541949476
+  },
+  "268436607": {
+    "stopName": "LES BOUISSES",
+    "stopId": "7164",
+    "direction": "1",
+    "directionName": "H. DEPARTEMENT",
+    "departureTime": "16:12:00",
+    "departureTimestamp": 1541952720
+  },
+  "268436609": {
+    "stopName": "SOPHIE GERMAIN",
+    "stopId": "7161",
+    "direction": "0",
+    "directionName": "LES BOUISSES",
+    "departureTime": "17:55:43",
+    "departureTimestamp": 1541958943
+  },
+  "268436610": {
+    "stopName": "LES BOUISSES",
+    "stopId": "7164",
+    "direction": "1",
+    "directionName": "H. DEPARTEMENT",
+    "departureTime": "18:12:00",
+    "departureTimestamp": 1541959920
+  },
+  "268436616": {
+    "stopName": "LA MARTELLE",
+    "stopId": "7201",
+    "direction": "1",
+    "directionName": "H. DEPARTEMENT",
+    "departureTime": "16:39:00",
+    "departureTimestamp": 1541954340
+  },
+  "268436646": {
+    "stopName": "ALFRED NOBEL",
+    "stopId": "12125",
+    "direction": "0",
+    "directionName": "GRAMMONT",
+    "departureTime": "15:18:25",
+    "departureTimestamp": 1541949505
+  },
+  "268436647": {
+    "stopName": "GRAMMONT",
+    "stopId": "12201",
+    "direction": "1",
+    "directionName": "APOLLO",
+    "departureTime": "15:42:00",
+    "departureTimestamp": 1541950920
+  },
+  "268436648": {
+    "stopName": "APOLLO",
+    "stopId": "9145",
+    "direction": "0",
+    "directionName": "GRAMMONT",
+    "departureTime": "16:27:00",
+    "departureTimestamp": 1541953620
+  },
+  "268436649": {
+    "stopName": "GRAMMONT",
+    "stopId": "12201",
+    "direction": "1",
+    "directionName": "APOLLO",
+    "departureTime": "17:06:00",
+    "departureTimestamp": 1541955960
+  },
+  "268436655": {
+    "stopName": "LOUIS LEPINE",
+    "stopId": "9235",
+    "direction": "1",
+    "directionName": "APOLLO",
+    "departureTime": "15:18:36",
+    "departureTimestamp": 1541949516
+  },
+  "268436656": {
+    "stopName": "APOLLO",
+    "stopId": "9145",
+    "direction": "0",
+    "directionName": "GRAMMONT",
+    "departureTime": "15:42:00",
+    "departureTimestamp": 1541950920
+  },
+  "268436657": {
+    "stopName": "GRAMMONT",
+    "stopId": "12201",
+    "direction": "1",
+    "directionName": "APOLLO",
+    "departureTime": "16:22:00",
+    "departureTimestamp": 1541953320
+  },
+  "268436658": {
+    "stopName": "APOLLO",
+    "stopId": "9145",
+    "direction": "0",
+    "directionName": "GRAMMONT",
+    "departureTime": "17:07:00",
+    "departureTimestamp": 1541956020
+  },
+  "268436696": {
+    "stopName": "FAC DE PHARMACIE",
+    "stopId": "10224",
+    "direction": "1",
+    "directionName": "AIGUELONGUE",
+    "departureTime": "15:18:54",
+    "departureTimestamp": 1541949534
+  },
+  "268436697": {
+    "stopName": "AIGUELONGUE JUSS",
+    "stopId": "11201",
+    "direction": "0",
+    "directionName": "CELLENEUVE",
+    "departureTime": "15:35:00",
+    "departureTimestamp": 1541950500
+  },
+  "268436698": {
+    "stopName": "CELLENEUVE",
+    "stopId": "10201",
+    "direction": "1",
+    "directionName": "AIGUELONGUE",
+    "departureTime": "16:15:00",
+    "departureTimestamp": 1541952900
+  },
+  "268436699": {
+    "stopName": "AIGUELONGUE JUSS",
+    "stopId": "11201",
+    "direction": "0",
+    "directionName": "CELLENEUVE",
+    "departureTime": "16:55:00",
+    "departureTimestamp": 1541955300
+  },
+  "268436708": {
+    "stopName": "LAS SORBES",
+    "stopId": "9214",
+    "direction": "0",
+    "directionName": "CELLENEUVE",
+    "departureTime": "15:18:03",
+    "departureTimestamp": 1541949483
+  },
+  "268436709": {
+    "stopName": "CELLENEUVE",
+    "stopId": "10201",
+    "direction": "1",
+    "directionName": "AIGUELONGUE",
+    "departureTime": "15:35:00",
+    "departureTimestamp": 1541950500
+  },
+  "268436710": {
+    "stopName": "AIGUELONGUE JUSS",
+    "stopId": "11201",
+    "direction": "0",
+    "directionName": "CELLENEUVE",
+    "departureTime": "16:15:00",
+    "departureTimestamp": 1541952900
+  },
+  "268436711": {
+    "stopName": "CELLENEUVE",
+    "stopId": "10201",
+    "direction": "1",
+    "directionName": "AIGUELONGUE",
+    "departureTime": "16:55:00",
+    "departureTimestamp": 1541955300
+  },
+  "268436752": {
+    "stopName": "CITE GELY",
+    "stopId": "11131",
+    "direction": "0",
+    "directionName": "TOURNEZY",
+    "departureTime": "15:18:19",
+    "departureTimestamp": 1541949499
+  },
+  "268436753": {
+    "stopName": "TOURNEZY",
+    "stopId": "3101",
+    "direction": "1",
+    "directionName": "LES BOUISSES",
+    "departureTime": "15:51:00",
+    "departureTimestamp": 1541951460
+  },
+  "268436754": {
+    "stopName": "LES BOUISSES",
+    "stopId": "7165",
+    "direction": "0",
+    "directionName": "TOURNEZY",
+    "departureTime": "16:39:00",
+    "departureTimestamp": 1541954340
+  },
+  "268436764": {
+    "stopName": "TOURNEZY",
+    "stopId": "3101",
+    "direction": "1",
+    "directionName": "LES BOUISSES",
+    "departureTime": "15:21:00",
+    "departureTimestamp": 1541949660
+  },
+  "268436765": {
+    "stopName": "LES BOUISSES",
+    "stopId": "7165",
+    "direction": "0",
+    "directionName": "TOURNEZY",
+    "departureTime": "16:09:00",
+    "departureTimestamp": 1541952540
+  },
+  "268436774": {
+    "stopName": "GARE SAINT-ROCH",
+    "stopId": "17",
+    "direction": "1",
+    "directionName": "PAUL FAJON",
+    "departureTime": "21:00:00",
+    "departureTimestamp": 1541970000
+  },
+  "268436776": {
+    "stopName": "GARE SAINT-ROCH",
+    "stopId": "17",
+    "direction": "1",
+    "directionName": "PAUL FAJON",
+    "departureTime": "22:00:00",
+    "departureTimestamp": 1541973600
+  },
+  "268436780": {
+    "stopName": "GARE SAINT-ROCH",
+    "stopId": "17",
+    "direction": "1",
+    "directionName": "PAUL FAJON",
+    "departureTime": "21:30:00",
+    "departureTimestamp": 1541971800
+  },
+  "268436788": {
+    "stopName": "FIGAIRASSE",
+    "stopId": "7210",
+    "direction": "1",
+    "directionName": "H. DEPARTEMENT",
+    "departureTime": "15:17:54",
+    "departureTimestamp": 1541949474
+  },
+  "268436790": {
+    "stopName": "HOT. DEPARTEMENT",
+    "stopId": "7132",
+    "direction": "0",
+    "directionName": "LES BOUISSES",
+    "departureTime": "16:13:00",
+    "departureTimestamp": 1541952780
+  },
+  "268436801": {
+    "stopName": "PALISSADE",
+    "stopId": "11224",
+    "direction": "1",
+    "directionName": "LES BOUISSES",
+    "departureTime": "15:17:43",
+    "departureTimestamp": 1541949463
+  },
+  "268436802": {
+    "stopName": "LES BOUISSES",
+    "stopId": "7165",
+    "direction": "0",
+    "directionName": "TOURNEZY",
+    "departureTime": "15:38:00",
+    "departureTimestamp": 1541950680
+  },
+  "268436803": {
+    "stopName": "TOURNEZY",
+    "stopId": "3101",
+    "direction": "1",
+    "directionName": "LES BOUISSES",
+    "departureTime": "16:21:00",
+    "departureTimestamp": 1541953260
+  },
+  "268436805": {
+    "stopName": "LES BOUISSES",
+    "stopId": "7164",
+    "direction": "1",
+    "directionName": "H. DEPARTEMENT",
+    "departureTime": "17:11:00",
+    "departureTimestamp": 1541956260
+  },
+  "268436862": {
+    "stopName": "CENTRAYRARGUES",
+    "stopId": "12210",
+    "direction": "1",
+    "directionName": "CATALPAS",
+    "departureTime": "15:17:39",
+    "departureTimestamp": 1541949459
+  },
+  "268436863": {
+    "stopName": "CATALPAS",
+    "stopId": "12215",
+    "direction": "0",
+    "directionName": "GARE SAINT-ROCH",
+    "departureTime": "15:30:00",
+    "departureTimestamp": 1541950200
+  },
+  "268436865": {
+    "stopName": "GARE PT DE SETE",
+    "stopId": "21",
+    "direction": "1",
+    "directionName": "CITE DE L'ARME",
+    "departureTime": "15:45:00",
+    "departureTimestamp": 1541951100
+  },
+  "268436866": {
+    "stopName": "CITE DE L'ARME",
+    "stopId": "3220",
+    "direction": "0",
+    "directionName": "GARE SAINT-ROCH",
+    "departureTime": "15:55:00",
+    "departureTimestamp": 1541951700
+  },
+  "268436868": {
+    "stopName": "GARE PT DE SETE",
+    "stopId": "21",
+    "direction": "1",
+    "directionName": "CATALPAS",
+    "departureTime": "16:10:00",
+    "departureTimestamp": 1541952600
+  },
+  "268436869": {
+    "stopName": "CATALPAS",
+    "stopId": "12215",
+    "direction": "0",
+    "directionName": "GARE SAINT-ROCH",
+    "departureTime": "16:30:00",
+    "departureTimestamp": 1541953800
+  },
+  "268436871": {
+    "stopName": "GARE PT DE SETE",
+    "stopId": "21",
+    "direction": "1",
+    "directionName": "CITE DE L'ARME",
+    "departureTime": "16:45:00",
+    "departureTimestamp": 1541954700
+  },
+  "268436872": {
+    "stopName": "CITE DE L'ARME",
+    "stopId": "3220",
+    "direction": "0",
+    "directionName": "GARE SAINT-ROCH",
+    "departureTime": "17:00:00",
+    "departureTimestamp": 1541955600
+  },
+  "268436874": {
+    "stopName": "GARE PT DE SETE",
+    "stopId": "21",
+    "direction": "1",
+    "directionName": "CATALPAS",
+    "departureTime": "17:15:00",
+    "departureTimestamp": 1541956500
+  },
+  "268436875": {
+    "stopName": "CATALPAS",
+    "stopId": "12215",
+    "direction": "0",
+    "directionName": "GARE SAINT-ROCH",
+    "departureTime": "17:35:00",
+    "departureTimestamp": 1541957700
+  },
+  "268436877": {
+    "stopName": "GARE PT DE SETE",
+    "stopId": "21",
+    "direction": "1",
+    "directionName": "CITE DE L'ARME",
+    "departureTime": "17:50:00",
+    "departureTimestamp": 1541958600
+  },
+  "268436878": {
+    "stopName": "CITE DE L'ARME",
+    "stopId": "3220",
+    "direction": "0",
+    "directionName": "GARE SAINT-ROCH",
+    "departureTime": "18:00:00",
+    "departureTimestamp": 1541959200
+  },
+  "268436880": {
+    "stopName": "GARE PT DE SETE",
+    "stopId": "21",
+    "direction": "1",
+    "directionName": "CATALPAS",
+    "departureTime": "18:15:00",
+    "departureTimestamp": 1541960100
+  },
+  "268436916": {
+    "stopName": "HENRI DUNANT",
+    "stopId": "10110",
+    "direction": "0",
+    "directionName": "SAINT-ELOI",
+    "departureTime": "15:18:47",
+    "departureTimestamp": 1541949527
+  },
+  "268436917": {
+    "stopName": "SAINT-ELOI",
+    "stopId": "13001",
+    "direction": "1",
+    "directionName": "UNIVERSITES",
+    "departureTime": "15:25:00",
+    "departureTimestamp": 1541949900
+  },
+  "268436918": {
+    "stopName": "UNIVERSITES",
+    "stopId": "6115",
+    "direction": "0",
+    "directionName": "SAINT-ELOI",
+    "departureTime": "15:50:00",
+    "departureTimestamp": 1541951400
+  },
+  "268436919": {
+    "stopName": "SAINT-ELOI",
+    "stopId": "13001",
+    "direction": "1",
+    "directionName": "UNIVERSITES",
+    "departureTime": "16:15:00",
+    "departureTimestamp": 1541952900
+  },
+  "268436968": {
+    "stopName": "UNIVERSITES",
+    "stopId": "6115",
+    "direction": "0",
+    "directionName": "SAINT-ELOI",
+    "departureTime": "15:25:00",
+    "departureTimestamp": 1541949900
+  },
+  "268436969": {
+    "stopName": "SAINT-ELOI",
+    "stopId": "13001",
+    "direction": "1",
+    "directionName": "UNIVERSITES",
+    "departureTime": "15:50:00",
+    "departureTimestamp": 1541951400
+  },
+  "268436970": {
+    "stopName": "UNIVERSITES",
+    "stopId": "6115",
+    "direction": "0",
+    "directionName": "SAINT-ELOI",
+    "departureTime": "16:15:00",
+    "departureTimestamp": 1541952900
+  },
+  "268437001": {
+    "stopName": "POMPIGNANE- LACS",
+    "stopId": "8203",
+    "direction": "1",
+    "directionName": "LEON BLUM",
+    "departureTime": "15:25:00",
+    "departureTimestamp": 1541949900
+  },
+  "268437002": {
+    "stopName": "LEON BLUM",
+    "stopId": "9234",
+    "direction": "0",
+    "directionName": "POMPIGNANE - LACS",
+    "departureTime": "15:45:00",
+    "departureTimestamp": 1541951100
+  },
+  "268437003": {
+    "stopName": "POMPIGNANE- LACS",
+    "stopId": "8203",
+    "direction": "1",
+    "directionName": "LEON BLUM",
+    "departureTime": "16:05:00",
+    "departureTimestamp": 1541952300
+  },
+  "268437004": {
+    "stopName": "LEON BLUM",
+    "stopId": "9234",
+    "direction": "0",
+    "directionName": "POMPIGNANE - LACS",
+    "departureTime": "16:25:00",
+    "departureTimestamp": 1541953500
+  },
+  "268437005": {
+    "stopName": "POMPIGNANE- LACS",
+    "stopId": "8203",
+    "direction": "1",
+    "directionName": "LEON BLUM",
+    "departureTime": "16:45:00",
+    "departureTimestamp": 1541954700
+  },
+  "268437006": {
+    "stopName": "LEON BLUM",
+    "stopId": "9234",
+    "direction": "0",
+    "directionName": "POMPIGNANE - LACS",
+    "departureTime": "17:05:00",
+    "departureTimestamp": 1541955900
+  },
+  "268437046": {
+    "stopName": "CORSE",
+    "stopId": "1132",
+    "direction": "1",
+    "directionName": "COUBERTIN",
+    "departureTime": "15:18:26",
+    "departureTimestamp": 1541949506
+  },
+  "268437047": {
+    "stopName": "P. DE COUBERTIN",
+    "stopId": "1141",
+    "direction": "0",
+    "directionName": "H. DEPARTEMENT",
+    "departureTime": "15:30:00",
+    "departureTimestamp": 1541950200
+  },
+  "268437049": {
+    "stopName": "HOT. DEPARTEMENT",
+    "stopId": "7132",
+    "direction": "1",
+    "directionName": "COUBERTIN",
+    "departureTime": "16:00:00",
+    "departureTimestamp": 1541952000
+  },
+  "268437050": {
+    "stopName": "P. DE COUBERTIN",
+    "stopId": "1141",
+    "direction": "0",
+    "directionName": "H. DEPARTEMENT",
+    "departureTime": "16:30:00",
+    "departureTimestamp": 1541953800
+  },
+  "268437059": {
+    "stopName": "HOT. DEPARTEMENT",
+    "stopId": "7132",
+    "direction": "1",
+    "directionName": "COUBERTIN",
+    "departureTime": "15:30:00",
+    "departureTimestamp": 1541950200
+  },
+  "268437060": {
+    "stopName": "P. DE COUBERTIN",
+    "stopId": "1141",
+    "direction": "0",
+    "directionName": "H. DEPARTEMENT",
+    "departureTime": "16:00:00",
+    "departureTimestamp": 1541952000
+  },
+  "268437062": {
+    "stopName": "HOT. DEPARTEMENT",
+    "stopId": "7132",
+    "direction": "1",
+    "directionName": "COUBERTIN",
+    "departureTime": "16:30:00",
+    "departureTimestamp": 1541953800
+  },
+  "268437094": {
+    "stopName": "LYCEE J. MONNET",
+    "stopId": "7237",
+    "direction": "1",
+    "directionName": "H. DEPARTEMENT",
+    "departureTime": "15:18:15",
+    "departureTimestamp": 1541949495
+  },
+  "268437096": {
+    "stopName": "HOT. DEPARTEMENT",
+    "stopId": "7132",
+    "direction": "0",
+    "directionName": "LA MARTELLE",
+    "departureTime": "15:43:00",
+    "departureTimestamp": 1541950980
+  },
+  "268437141": {
+    "stopName": "PLACE DE FRANCE",
+    "stopId": "9146",
+    "direction": "0",
+    "directionName": "GARE SUD DE FRANCE",
+    "departureTime": "15:25:00",
+    "departureTimestamp": 1541949900
+  },
+  "268437142": {
+    "stopName": "GARE SUD FRANCE",
+    "stopId": "50005",
+    "direction": "1",
+    "directionName": "PLACE DE FRANCE",
+    "departureTime": "15:40:00",
+    "departureTimestamp": 1541950800
+  },
+  "268437143": {
+    "stopName": "PLACE DE FRANCE",
+    "stopId": "9146",
+    "direction": "0",
+    "directionName": "GARE SUD DE FRANCE",
+    "departureTime": "15:52:00",
+    "departureTimestamp": 1541951520
+  },
+  "268437144": {
+    "stopName": "GARE SUD FRANCE",
+    "stopId": "50005",
+    "direction": "1",
+    "directionName": "PLACE DE FRANCE",
+    "departureTime": "16:05:00",
+    "departureTimestamp": 1541952300
+  },
+  "268437179": {
+    "stopName": "GARE SUD FRANCE",
+    "stopId": "50005",
+    "direction": "1",
+    "directionName": "PLACE DE FRANCE",
+    "departureTime": "15:55:00",
+    "departureTimestamp": 1541951700
+  },
+  "268437184": {
+    "stopName": "PLACE DE FRANCE",
+    "stopId": "9146",
+    "direction": "0",
+    "directionName": "GARE SUD DE FRANCE",
+    "departureTime": "15:46:00",
+    "departureTimestamp": 1541951160
+  }
+}

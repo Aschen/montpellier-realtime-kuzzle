@@ -1,10 +1,10 @@
 {
   "apps": [{
-    "name": "KuzzleServer",
+    "name": "KuzzleBackend",
     "script": "bin/kuzzle",
-    "args": ["start"],
+    "args": ["start", "--mappings", "/default-mappings.json", "--fixtures", "/default-fixtures.json", "--securities", "/default-securities.json"],
     "node_args": "--inspect=0.0.0.0:9229",
-    "watch": ["plugins/enabled"],
-    "ignore_watch" : ["node_modules", "plugins/enabled/**/.git", "plugins/enabled/**/features/*"]
+    "watch": ["lib", "config", "bin", "plugins/enabled"],
+    "ignore_watch" : ["node_modules", "plugins/enabled/**/.git", "**/*.json", "**/*.rb"]
   }]
 }

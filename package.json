@@ -1,40 +1,36 @@
 {
   "name": "montpellier-realtime",
-  "author": "The Kuzzle Team <support@kuzzle.io>",
-  "version": "1.1.1",
+  "author": "Aschen <aschen@protonmail.com>",
+  "version": "1.0.0",
   "description": "Kuzzle plugin boilerplate template",
-  "main": "lib/index.js",
+  "main": "MontpellierRealtime.js",
   "scripts": {
-    "test": "npm run --silent lint && npm run functional-testing",
-    "lint": "eslint --max-warnings=0 ./lib ./features",
-    "functional-testing": "bash run-features.sh"
+    "lint": "eslint --max-warnings=0 ./lib"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kuzzleio/montpellier-realtime.git"
+    "url": "git+https://github.com/aschen/montpellier-realtime.git"
   },
   "keywords": [
     "kuzzle",
     "plugin",
-    "template"
+    "montpellier"
   ],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/kuzzleio/montpellier-realtime/issues"
+    "url": "https://github.com/aschen/montpellier-realtime/issues"
   },
-  "homepage": "https://github.com/kuzzleio/montpellier-realtime#readme",
+  "homepage": "https://github.com/aschen/montpellier-realtime#readme",
   "devDependencies": {
-    "cucumber": "^5.0.1",
-    "eslint": "^5.6.0",
-    "kuzzle-sdk": "^5.0.13",
-    "nexpect": "^0.5.0"
+    "eslint": "^5.6.0"
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "csvtojson": "^2.0.8",
+    "fs-extra": "^7.0.1",
+    "kuzzle-sdk": "git://github.com/kuzzleio/sdk-javascript.git#6-dev",
+    "lodash": "^4.17.11",
+    "moment": "^2.22.2",
     "passport": "^0.4.0",
-    "passport-local": "^1.0.0",
-    "request": "^2.88.0",
-    "request-promise-native": "^1.0.5"
+    "passport-local": "^1.0.0"
   }
 }

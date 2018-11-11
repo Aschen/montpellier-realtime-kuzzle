@@ -1,0 +1,10 @@
+{
+  "montpellier": {
+    "tramway": {
+      "properties": {
+        "lastShare":    { "type": "date" },
+        "lastAddress":  { "type": "text" }
+      }
+    }
+  }
+}

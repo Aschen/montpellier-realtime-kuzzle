@@ -1,0 +1,784 @@
+[
+  {
+    "name": "Mosson",
+    "line": 1,
+    "coordinates": "43.98083333333334,3.1913888888888886",
+    "number": 0
+  },
+  {
+    "name": "Stade de la Mosson",
+    "line": 1,
+    "coordinates": "43.27472222222222,3.048611111111111",
+    "number": 1
+  },
+  {
+    "name": "Halles de la Paillade",
+    "line": 1,
+    "coordinates": "43.657777777777774,3.0605555555555553",
+    "number": 2
+  },
+  {
+    "name": "Saint-Paul",
+    "line": 1,
+    "coordinates": "43.8425,3.2758333333333334",
+    "number": 3
+  },
+  {
+    "name": "Hauts de Massane",
+    "line": 1,
+    "coordinates": "43.191111111111105,3.3516666666666666",
+    "number": 4
+  },
+  {
+    "name": "Euromédecine",
+    "line": 1,
+    "coordinates": "43.343611111111116,3.668611111111111",
+    "number": 5
+  },
+  { "name": "Malbosc", "line": 1, "coordinates": "43.0825,3.985", "number": 6 },
+  {
+    "name": "Château d'Ô",
+    "line": 1,
+    "coordinates": "43.905833333333334,3.5844444444444448",
+    "number": 7
+  },
+  {
+    "name": "Occitanie",
+    "line": 1,
+    "coordinates": "43.06805555555556,3.9225",
+    "number": 8
+  },
+  {
+    "name": "Hôpital Lapeyronie",
+    "line": 1,
+    "coordinates": "43.91027777777778,3.1599999999999997",
+    "number": 9
+  },
+  {
+    "name": "Universités des Sciences et des Lettres",
+    "line": 1,
+    "coordinates": "43.758611111111115,3.700277777777778",
+    "number": 10
+  },
+  {
+    "name": "Saint-Éloi",
+    "line": 1,
+    "coordinates": "43.623333333333335,3.9491666666666667",
+    "number": 11
+  },
+  {
+    "name": "Boutonnet",
+    "line": 1,
+    "coordinates": "43.35916666666667,3.0894444444444447",
+    "number": 12
+  },
+  {
+    "name": "Stade Philippidès",
+    "line": 1,
+    "coordinates": "43.14138888888889,3.1719444444444442",
+    "number": 13
+  },
+  {
+    "name": "Place Albert 1er-Saint Charles",
+    "line": 1,
+    "coordinates": "43.99611111111111,3.4530555555555558",
+    "number": 14
+  },
+  {
+    "name": "Louis Blanc",
+    "line": 1,
+    "coordinates": "43.88361111111111,3.6911111111111112",
+    "number": 15
+  },
+  {
+    "name": "Corum",
+    "line": 1,
+    "coordinates": "43.850833333333334,3.9144444444444444",
+    "number": 16
+  },
+  {
+    "name": "Comédie",
+    "line": 1,
+    "coordinates": "43.50527777777778,3.783888888888889",
+    "number": 17
+  },
+  {
+    "name": "Gare Saint-Roch",
+    "line": 1,
+    "coordinates": "43.29527777777778,3.8344444444444448",
+    "number": 18
+  },
+  {
+    "name": "Du Guesclin",
+    "line": 1,
+    "coordinates": "43.41861111111111,4.000277777777778",
+    "number": 19
+  },
+  {
+    "name": "Antigone",
+    "line": 1,
+    "coordinates": "43.525555555555556,3.208055555555555",
+    "number": 20
+  },
+  {
+    "name": "Léon Blum",
+    "line": 1,
+    "coordinates": "43.538333333333334,3.4183333333333334",
+    "number": 21
+  },
+  {
+    "name": "Place de l'Europe",
+    "line": 1,
+    "coordinates": "43.44944444444444,3.640833333333333",
+    "number": 22
+  },
+  {
+    "name": "Rives du Lez",
+    "line": 1,
+    "coordinates": "43.255833333333335,3.685",
+    "number": 23
+  },
+  {
+    "name": "Moularès Hôtel de ville",
+    "line": 1,
+    "coordinates": "43.040277777777774,3.7408333333333332",
+    "number": 24
+  },
+  {
+    "name": "Port Marianne",
+    "line": 1,
+    "coordinates": "43.084722222222226,3.9719444444444445",
+    "number": 25
+  },
+  {
+    "name": "Mondial 1998",
+    "line": 1,
+    "coordinates": "43.16694444444444,3.251666666666667",
+    "number": 26
+  },
+  {
+    "name": "Millénaire",
+    "line": 1,
+    "coordinates": "43.20416666666667,3.606388888888889",
+    "number": 27
+  },
+  {
+    "name": "Place de France",
+    "line": 1,
+    "coordinates": "43.23222222222223,3.947777777777778",
+    "number": 28
+  },
+  {
+    "name": "Odysseum",
+    "line": 1,
+    "coordinates": "43.224722222222226,3.2275",
+    "number": 29
+  },
+  {
+    "name": "Jacou",
+    "line": 2,
+    "coordinates": "43.27333333333333,3.7688888888888887",
+    "number": 0
+  },
+  {
+    "name": "Georges Pompidou",
+    "line": 2,
+    "coordinates": "43.967222222222226,3.2516666666666665",
+    "number": 1
+  },
+  {
+    "name": "Via Domitia",
+    "line": 2,
+    "coordinates": "43.80583333333333,3.767777777777778",
+    "number": 2
+  },
+  {
+    "name": "Aube Rouge",
+    "line": 2,
+    "coordinates": "43.32527777777778,3.495",
+    "number": 3
+  },
+  {
+    "name": "Notre-Dame de Sablassou",
+    "line": 2,
+    "coordinates": "43.055,3.335",
+    "number": 4
+  },
+  {
+    "name": "Centurions",
+    "line": 2,
+    "coordinates": "43.99277777777778,3.0180555555555557",
+    "number": 5
+  },
+  {
+    "name": "La Galine",
+    "line": 2,
+    "coordinates": "43.88861111111111,3.545",
+    "number": 6
+  },
+  {
+    "name": "Clairval",
+    "line": 2,
+    "coordinates": "43.81777777777778,3.1597222222222223",
+    "number": 7
+  },
+  {
+    "name": "Charles de Gaulle",
+    "line": 2,
+    "coordinates": "43.718333333333334,3.8755555555555556",
+    "number": 8
+  },
+  {
+    "name": "Saint-Lazare",
+    "line": 2,
+    "coordinates": "43.60944444444445,3.3216666666666663",
+    "number": 9
+  },
+  {
+    "name": "Aiguelongue",
+    "line": 2,
+    "coordinates": "43.581944444444446,3.9969444444444444",
+    "number": 10
+  },
+  {
+    "name": "Jeu de Mail des Abbés",
+    "line": 2,
+    "coordinates": "43.23027777777778,3.0508333333333333",
+    "number": 11
+  },
+  { "name": "Beaux-Arts", "line": 2, "coordinates": "NaN,NaN", "number": 12 },
+  {
+    "name": "Corum",
+    "line": 2,
+    "coordinates": "43.850833333333334,3.9144444444444444",
+    "number": 13
+  },
+  {
+    "name": "Comédie",
+    "line": 2,
+    "coordinates": "43.50527777777778,3.783888888888889",
+    "number": 14
+  },
+  {
+    "name": "Gare Saint-Roch",
+    "line": 2,
+    "coordinates": "43.29527777777778,3.8344444444444448",
+    "number": 15
+  },
+  {
+    "name": "Rondelet",
+    "line": 2,
+    "coordinates": "43.187777777777775,3.5730555555555554",
+    "number": 16
+  },
+  {
+    "name": "Nouveau Saint-Roch",
+    "line": 2,
+    "coordinates": "43.952222222222225,3.5455555555555556",
+    "number": 17
+  },
+  {
+    "name": "Saint-Cléophas",
+    "line": 2,
+    "coordinates": "43.70027777777778,3.5625",
+    "number": 18
+  },
+  {
+    "name": "Lemasson",
+    "line": 2,
+    "coordinates": "43.620555555555555,3.3858333333333333",
+    "number": 19
+  },
+  {
+    "name": "Mas Drevon",
+    "line": 2,
+    "coordinates": "43.740833333333335,3.0769444444444445",
+    "number": 20
+  },
+  {
+    "name": "Croix d'Argent",
+    "line": 2,
+    "coordinates": "43.55305555555555,3.9883333333333333",
+    "number": 21
+  },
+  {
+    "name": "Villeneuve d'Angoulême",
+    "line": 2,
+    "coordinates": "43.331388888888895,3.9447222222222225",
+    "number": 22
+  },
+  {
+    "name": "Sabines",
+    "line": 2,
+    "coordinates": "43.066111111111105,3.5891666666666664",
+    "number": 23
+  },
+  {
+    "name": "Victoire 2",
+    "line": 2,
+    "coordinates": "43.49777777777778,3.9516666666666667",
+    "number": 24
+  },
+  {
+    "name": "La Condamine",
+    "line": 2,
+    "coordinates": "43.32361111111111,3.673611111111111",
+    "number": 25
+  },
+  {
+    "name": "Saint-Jean-le-Sec",
+    "line": 2,
+    "coordinates": "43.25333333333333,3.2808333333333333",
+    "number": 26
+  },
+  {
+    "name": "Saint-Jean-de-Védas Centre",
+    "line": 2,
+    "coordinates": "43.48527777777778,3.8447222222222224",
+    "number": 27
+  },
+  {
+    "name": "Juvignac",
+    "line": 3,
+    "coordinates": "43.06444444444444,3.5594444444444444",
+    "number": 0
+  },
+  {
+    "name": "Mosson",
+    "line": 3,
+    "coordinates": "43.98083333333334,3.1913888888888886",
+    "number": 1
+  },
+  {
+    "name": "Celleneuve",
+    "line": 3,
+    "coordinates": "43.946666666666665,3.565833333333333",
+    "number": 2
+  },
+  {
+    "name": "Pilory",
+    "line": 3,
+    "coordinates": "43.191944444444445,3.9347222222222222",
+    "number": 3
+  },
+  {
+    "name": "Hôtel du Département",
+    "line": 3,
+    "coordinates": "43.33305555555556,3.1275",
+    "number": 4
+  },
+  {
+    "name": "Pergola",
+    "line": 3,
+    "coordinates": "43.05583333333333,3.390833333333333",
+    "number": 5
+  },
+  {
+    "name": "Tonnelles",
+    "line": 3,
+    "coordinates": "43.82333333333333,3.393333333333333",
+    "number": 6
+  },
+  {
+    "name": "Jules Guesde",
+    "line": 3,
+    "coordinates": "43.672777777777775,3.841111111111111",
+    "number": 7
+  },
+  {
+    "name": "Astruc",
+    "line": 3,
+    "coordinates": "43.62138888888889,3.2844444444444445",
+    "number": 8
+  },
+  {
+    "name": "Les Arceaux",
+    "line": 3,
+    "coordinates": "43.60888888888889,3.7044444444444444",
+    "number": 9
+  },
+  {
+    "name": "Plan Cabanes",
+    "line": 3,
+    "coordinates": "43.51027777777778,3.1005555555555557",
+    "number": 10
+  },
+  {
+    "name": "Saint-Denis",
+    "line": 3,
+    "coordinates": "43.339444444444446,3.443611111111111",
+    "number": 11
+  },
+  {
+    "name": "Observatoire",
+    "line": 3,
+    "coordinates": "43.39111111111111,3.612777777777778",
+    "number": 12
+  },
+  {
+    "name": "Gare Saint-Roch",
+    "line": 3,
+    "coordinates": "43.29527777777778,3.8344444444444448",
+    "number": 13
+  },
+  {
+    "name": "Place Carnot",
+    "line": 3,
+    "coordinates": "43.22527777777778,3.0594444444444444",
+    "number": 14
+  },
+  {
+    "name": "Voltaire",
+    "line": 3,
+    "coordinates": "43.227222222222224,3.356388888888889",
+    "number": 15
+  },
+  {
+    "name": "Rives du Lez",
+    "line": 3,
+    "coordinates": "43.255833333333335,3.685",
+    "number": 16
+  },
+  {
+    "name": "Moularès Hôtel de Ville",
+    "line": 3,
+    "coordinates": "43.040277777777774,3.7408333333333332",
+    "number": 17
+  },
+  {
+    "name": "Port Marianne",
+    "line": 3,
+    "coordinates": "43.084722222222226,3.9719444444444445",
+    "number": 18
+  },
+  {
+    "name": "Pablo Picasso",
+    "line": 3,
+    "coordinates": "43.89972222222222,3.1977777777777776",
+    "number": 19
+  },
+  {
+    "name": "Boirargues",
+    "line": 3,
+    "coordinates": "44.00694444444444,3.4683333333333337",
+    "number": 20
+  },
+  {
+    "name": "Cougourlude",
+    "line": 3,
+    "coordinates": "43.289722222222224,3.8488888888888892",
+    "number": 21
+  },
+  {
+    "name": "Lattes Centre",
+    "line": 3,
+    "coordinates": "43.24277777777778,3.2894444444444444",
+    "number": 22
+  },
+  {
+    "name": "ÉcoPôle",
+    "line": 3,
+    "coordinates": "43.70916666666667,3.0677777777777777",
+    "number": 23
+  },
+  {
+    "name": "Parc Expo",
+    "line": 3,
+    "coordinates": "43.365,3.774722222222222",
+    "number": 24
+  },
+  {
+    "name": "Pérols Centre",
+    "line": 3,
+    "coordinates": "43.97027777777778,3.4324999999999997",
+    "number": 25
+  },
+  {
+    "name": "Pérols Étang de l'Or",
+    "line": 3,
+    "coordinates": "43.488055555555555,3.8208333333333333",
+    "number": 26
+  },
+  {
+    "name": "Garcia Lorca",
+    "line": 4,
+    "coordinates": "43.47527777777778,3.4605555555555556",
+    "number": 0
+  },
+  {
+    "name": "Restanque",
+    "line": 4,
+    "coordinates": "43.4325,3.1080555555555556",
+    "number": 1
+  },
+  {
+    "name": "Saint-Martin",
+    "line": 4,
+    "coordinates": "43.535,3.821111111111111",
+    "number": 2
+  },
+  {
+    "name": "Nouveau Saint-Roch",
+    "line": 4,
+    "coordinates": "43.952222222222225,3.5455555555555556",
+    "number": 3
+  },
+  {
+    "name": "Rondelet",
+    "line": 4,
+    "coordinates": "43.187777777777775,3.5730555555555554",
+    "number": 4
+  },
+  {
+    "name": "Gare Saint-Roch",
+    "line": 4,
+    "coordinates": "43.29527777777778,3.8344444444444448",
+    "number": 5
+  },
+  {
+    "name": "Observatoire",
+    "line": 4,
+    "coordinates": "43.39111111111111,3.612777777777778",
+    "number": 6
+  },
+  {
+    "name": "Saint Guilhem-Courreau",
+    "line": 4,
+    "coordinates": "43.52305555555556,3.3841666666666668",
+    "number": 7
+  },
+  {
+    "name": "Peyrou-Arc De Triomphe",
+    "line": 4,
+    "coordinates": "43.67638888888889,3.324722222222222",
+    "number": 8
+  },
+  {
+    "name": "Albert 1er-Cathédrale",
+    "line": 4,
+    "coordinates": "43.9075,3.4397222222222226",
+    "number": 9
+  },
+  {
+    "name": "Louis Blanc",
+    "line": 4,
+    "coordinates": "43.88361111111111,3.6911111111111112",
+    "number": 10
+  },
+  {
+    "name": "Corum",
+    "line": 4,
+    "coordinates": "43.850833333333334,3.9144444444444444",
+    "number": 11
+  },
+  {
+    "name": "Les Aubes",
+    "line": 4,
+    "coordinates": "43.84111111111111,3.3005555555555555",
+    "number": 12
+  },
+  {
+    "name": "Pompignane",
+    "line": 4,
+    "coordinates": "43.75944444444445,3.7047222222222222",
+    "number": 13
+  },
+  {
+    "name": "Place de l'Europe",
+    "line": 4,
+    "coordinates": "43.44944444444444,3.640833333333333",
+    "number": 14
+  },
+  {
+    "name": "Rives du Lez",
+    "line": 4,
+    "coordinates": "43.255833333333335,3.685",
+    "number": 15
+  },
+  {
+    "name": "Georges Frêche - Hôtel de Ville",
+    "line": 4,
+    "coordinates": "43.976111111111116,3.704444444444445",
+    "number": 16
+  },
+  {
+    "name": "La Rauze",
+    "line": 4,
+    "coordinates": "43.62444444444444,3.7558333333333334",
+    "number": 17
+  },
+  {
+    "name": "Garcia Lorca",
+    "line": 4,
+    "coordinates": "43.339444444444446,3.443611111111111",
+    "number": 18
+  },
+  {
+    "name": "Prades-le-Lez La Mandarine",
+    "line": 5,
+    "coordinates": "43.62722222222222,3.7408333333333332",
+    "number": 0
+  },
+  {
+    "name": "Pont Vert",
+    "line": 5,
+    "coordinates": "43.223888888888894,3.812777777777778",
+    "number": 1
+  },
+  {
+    "name": "Baillarguet",
+    "line": 5,
+    "coordinates": "43.624722222222225,3.051111111111111",
+    "number": 2
+  },
+  {
+    "name": "Clapiers",
+    "line": 5,
+    "coordinates": "43.28722222222222,3.839722222222222",
+    "number": 3
+  },
+  {
+    "name": "Rond-Point de Girac",
+    "line": 5,
+    "coordinates": "43.217222222222226,3.3269444444444445",
+    "number": 4
+  },
+  {
+    "name": "Montferrier-sur-Lez",
+    "line": 5,
+    "coordinates": "43.089444444444446,3.041111111111111",
+    "number": 5
+  },
+  {
+    "name": "Agropolis",
+    "line": 5,
+    "coordinates": "43.74305555555556,3.118333333333333",
+    "number": 6
+  },
+  {
+    "name": "Hortus",
+    "line": 5,
+    "coordinates": "43.588055555555556,3.658888888888889",
+    "number": 7
+  },
+  {
+    "name": "CNRS",
+    "line": 5,
+    "coordinates": "43.29611111111111,3.957222222222222",
+    "number": 8
+  },
+  {
+    "name": "Vert Bois",
+    "line": 5,
+    "coordinates": "43.052499999999995,3.0936111111111115",
+    "number": 9
+  },
+  {
+    "name": "Voie Domitienne",
+    "line": 5,
+    "coordinates": "43.812777777777775,3.183611111111111",
+    "number": 10
+  },
+  {
+    "name": "Saint-Éloi",
+    "line": 5,
+    "coordinates": "43.619166666666665,4.004444444444444",
+    "number": 11
+  },
+  {
+    "name": "Boutonnet",
+    "line": 5,
+    "coordinates": "43.35916666666667,3.0894444444444447",
+    "number": 12
+  },
+  {
+    "name": "Stade Philippidès",
+    "line": 5,
+    "coordinates": "43.14138888888889,3.1719444444444442",
+    "number": 13
+  },
+  {
+    "name": "Place Albert 1er",
+    "line": 5,
+    "coordinates": "43.88722222222222,3.4255555555555555",
+    "number": 14
+  },
+  {
+    "name": "Peyrou-Arc De Triomphe",
+    "line": 5,
+    "coordinates": "43.68444444444444,3.3433333333333333",
+    "number": 15
+  },
+  {
+    "name": "Saint-Guilhem-Courreau",
+    "line": 5,
+    "coordinates": "43.486666666666665,3.4202777777777778",
+    "number": 16
+  },
+  {
+    "name": "Saint-Denis",
+    "line": 5,
+    "coordinates": "43.308055555555555,3.467777777777778",
+    "number": 17
+  },
+  {
+    "name": "Place du 8 mai 1945",
+    "line": 5,
+    "coordinates": "43.0825,3.0858333333333334",
+    "number": 18
+  },
+  {
+    "name": "Lepic",
+    "line": 5,
+    "coordinates": "43.159166666666664,3.6283333333333334",
+    "number": 19
+  },
+  {
+    "name": "Collines d'Estanove",
+    "line": 5,
+    "coordinates": "43.9225,3.435",
+    "number": 20
+  },
+  {
+    "name": "Bugarel",
+    "line": 5,
+    "coordinates": "43.71194444444445,3.4725",
+    "number": 21
+  },
+  {
+    "name": "Ovalie",
+    "line": 5,
+    "coordinates": "43.58277777777778,3.133888888888889",
+    "number": 22
+  },
+  {
+    "name": "Marcel Pagnol",
+    "line": 5,
+    "coordinates": "43.784166666666664,3.731666666666667",
+    "number": 23
+  },
+  {
+    "name": "Paul Fajon",
+    "line": 5,
+    "coordinates": "43.80222222222222,3.305833333333333",
+    "number": 24
+  },
+  {
+    "name": "Les Bouisses",
+    "line": 5,
+    "coordinates": "43.91861111111111,3.1233333333333335",
+    "number": 25
+  },
+  {
+    "name": "Rond-Point de Gennevaux",
+    "line": 5,
+    "coordinates": "43.57472222222222,3.3744444444444444",
+    "number": 26
+  },
+  {
+    "name": "Lavérune",
+    "line": 5,
+    "coordinates": "43.29,3.651944444444444",
+    "number": 27
+  }
+]
