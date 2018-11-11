@@ -13,11 +13,12 @@ function callback (notification) {
 
     const request = {
       controller: 'montpellier-realtime/tramway',
-      action: 'update'
+      action: 'listStops'
     }
 
-    const result = await kuzzle.query(request)
-    await fs.writeFile('rt-courses.json', JSON.stringify(result.result))
+    const response = await kuzzle.query(request)
+    console.log(response.result)
+    // await fs.writeFile('rt-courses.json', JSON.stringify(result.result))
   } catch (error) {
     console.log(error);
   } finally {

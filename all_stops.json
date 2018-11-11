@@ -1,0 +1,1534 @@
+[
+  {
+    "name": "Mosson",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6161111,
+      "lng": 3.8194444
+    },
+    "number": 0,
+    "matchNames": [
+      "MOSSON T3",
+      "MOSSON T1"
+    ],
+    "ids": [
+      43103,
+      41101
+    ]
+  },
+  {
+    "name": "Stade de la Mosson",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6211111,
+      "lng": 3.8172222
+    },
+    "number": 1,
+    "matchNames": [
+      "STADE MOSSON"
+    ],
+    "ids": [
+      41163,
+      41263
+    ]
+  },
+  {
+    "name": "Halles de la Paillade",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6275,
+      "lng": 3.8172222
+    },
+    "number": 2,
+    "matchNames": [
+      "HALLES PAILLADE"
+    ],
+    "ids": [
+      41253,
+      41103
+    ]
+  },
+  {
+    "name": "Saint-Paul",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6305556,
+      "lng": 3.8208333
+    },
+    "number": 3,
+    "matchNames": [
+      "SAINT-PAUL"
+    ],
+    "ids": [
+      41105,
+      41251
+    ]
+  },
+  {
+    "name": "Hauts de Massane",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6361111,
+      "lng": 3.8225
+    },
+    "number": 4,
+    "matchNames": [
+      "HAUTS DE MASSANE"
+    ],
+    "ids": [
+      41107,
+      41249
+    ]
+  },
+  {
+    "name": "Euromédecine",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6388889,
+      "lng": 3.8275
+    },
+    "number": 5,
+    "matchNames": [
+      "EUROMEDECINE"
+    ],
+    "ids": [
+      41247
+    ]
+  },
+  {
+    "name": "Malbosc",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6344444,
+      "lng": 3.8330556
+    },
+    "number": 6,
+    "matchNames": [
+      "MALBOSC"
+    ],
+    "ids": [
+      41111,
+      41245
+    ]
+  },
+  {
+    "name": "Château d'Ô",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6313889,
+      "lng": 3.8430556
+    },
+    "number": 7,
+    "matchNames": [],
+    "ids": [
+      41113,
+      41243
+    ]
+  },
+  {
+    "name": "Occitanie",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6344444,
+      "lng": 3.8483333
+    },
+    "number": 8,
+    "matchNames": [
+      "OCCITANIE"
+    ],
+    "ids": [
+      41241,
+      41115
+    ]
+  },
+  {
+    "name": "Hôpital Lapeyronie",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6313889,
+      "lng": 3.8525
+    },
+    "number": 9,
+    "matchNames": [],
+    "ids": [
+      41239,
+      41117
+    ]
+  },
+  {
+    "name": "Universités des Sciences et des Lettres",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6288889,
+      "lng": 3.8613889
+    },
+    "number": 10,
+    "matchNames": [],
+    "ids": [
+      41119,
+      41237
+    ]
+  },
+  {
+    "name": "Saint-Éloi",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6269444,
+      "lng": 3.8655556
+    },
+    "number": 11,
+    "matchNames": [],
+    "ids": [
+      41235,
+      41121
+    ]
+  },
+  {
+    "name": "Boutonnet",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6225,
+      "lng": 3.8680556
+    },
+    "number": 12,
+    "matchNames": [
+      "BOUTONNET"
+    ],
+    "ids": [
+      41233,
+      41123
+    ]
+  },
+  {
+    "name": "Stade Philippidès",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6188889,
+      "lng": 3.8694444
+    },
+    "number": 13,
+    "matchNames": [],
+    "ids": [
+      41125,
+      41231
+    ]
+  },
+  {
+    "name": "Place Albert 1er-Saint Charles",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6163889,
+      "lng": 3.8738889
+    },
+    "number": 14,
+    "matchNames": [],
+    "ids": [
+      41229,
+      41127
+    ]
+  },
+  {
+    "name": "Louis Blanc",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6147222,
+      "lng": 3.8780556
+    },
+    "number": 15,
+    "matchNames": [
+      "LOUIS BLANC"
+    ],
+    "ids": [
+      41129,
+      41227
+    ]
+  },
+  {
+    "name": "Corum",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6141667,
+      "lng": 3.8816667
+    },
+    "number": 16,
+    "matchNames": [
+      "CORUM T1",
+      "CORUM T2"
+    ],
+    "ids": [
+      41225,
+      42141,
+      42229
+    ]
+  },
+  {
+    "name": "Comédie",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6083333,
+      "lng": 3.8797222
+    },
+    "number": 17,
+    "matchNames": [],
+    "ids": [
+      41133,
+      41223
+    ]
+  },
+  null,
+  {
+    "name": "Du Guesclin",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6069444,
+      "lng": 3.8830556
+    },
+    "number": 19,
+    "matchNames": [
+      "DU GUESCLIN"
+    ],
+    "ids": [
+      41138,
+      41218
+    ]
+  },
+  {
+    "name": "Antigone",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6083333,
+      "lng": 3.8863889
+    },
+    "number": 20,
+    "matchNames": [
+      "ANTIGONE"
+    ],
+    "ids": [
+      41139,
+      41217
+    ]
+  },
+  {
+    "name": "Léon Blum",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6088889,
+      "lng": 3.89
+    },
+    "number": 21,
+    "matchNames": [],
+    "ids": [
+      41215,
+      41141
+    ]
+  },
+  {
+    "name": "Place de l'Europe",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6072222,
+      "lng": 3.8938889
+    },
+    "number": 22,
+    "matchNames": [
+      "PL. DE L'EUROPE"
+    ],
+    "ids": [
+      41143
+    ]
+  },
+  {
+    "name": "Rives du Lez",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6041667,
+      "lng": 3.8947222
+    },
+    "number": 23,
+    "matchNames": [
+      "RIVES DU LEZ T1",
+      "RIVES DU LEZ T3"
+    ],
+    "ids": [
+      41145,
+      42237,
+      41211
+    ]
+  },
+  null,
+  {
+    "name": "Port Marianne",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6013889,
+      "lng": 3.8991667
+    },
+    "number": 25,
+    "matchNames": [
+      "PORT MARIANNE"
+    ],
+    "ids": [
+      41149,
+      41207
+    ]
+  },
+  {
+    "name": "Mondial 1998",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6027778,
+      "lng": 3.9038889
+    },
+    "number": 26,
+    "matchNames": [
+      "MONDIAL 98"
+    ],
+    "ids": [
+      41151,
+      41205
+    ]
+  },
+  {
+    "name": "Millénaire",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6033333,
+      "lng": 3.9097222
+    },
+    "number": 27,
+    "matchNames": [],
+    "ids": [
+      41203,
+      41153
+    ]
+  },
+  {
+    "name": "Place de France",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6036111,
+      "lng": 3.9155556
+    },
+    "number": 28,
+    "matchNames": [
+      "PLACE DE FRANCE"
+    ],
+    "ids": [
+      41161,
+      41261
+    ]
+  },
+  {
+    "name": "Odysseum",
+    "line": 1,
+    "coordinates": {
+      "lat": 43.6036111,
+      "lng": 3.92
+    },
+    "number": 29,
+    "matchNames": [
+      "ODYSSEUM"
+    ],
+    "ids": [
+      41201
+    ]
+  },
+  {
+    "name": "Jacou",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.6544444,
+      "lng": 3.9127778
+    },
+    "number": 0,
+    "matchNames": [
+      "JACOU"
+    ],
+    "ids": [
+      42169
+    ]
+  },
+  {
+    "name": "Georges Pompidou",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.6491667,
+      "lng": 3.9208333
+    },
+    "number": 1,
+    "matchNames": [],
+    "ids": [
+      42167,
+      42203
+    ]
+  },
+  {
+    "name": "Via Domitia",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.6466667,
+      "lng": 3.9294444
+    },
+    "number": 2,
+    "matchNames": [
+      "VIA DOMITIA"
+    ],
+    "ids": [
+      42205,
+      42165
+    ]
+  },
+  {
+    "name": "Aube Rouge",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.6383333,
+      "lng": 3.9247222
+    },
+    "number": 3,
+    "matchNames": [],
+    "ids": [
+      42207,
+      42163
+    ]
+  },
+  {
+    "name": "Notre-Dame de Sablassou",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.6341667,
+      "lng": 3.9222222
+    },
+    "number": 4,
+    "matchNames": [],
+    "ids": [
+      42211,
+      42159
+    ]
+  },
+  {
+    "name": "Centurions",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.6327778,
+      "lng": 3.9169444
+    },
+    "number": 5,
+    "matchNames": [
+      "CENTURIONS"
+    ],
+    "ids": [
+      42157,
+      42213
+    ]
+  },
+  {
+    "name": "La Galine",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.6313889,
+      "lng": 3.9088889
+    },
+    "number": 6,
+    "matchNames": [
+      "LA GALINE"
+    ],
+    "ids": [
+      42155,
+      42215
+    ]
+  },
+  {
+    "name": "Clairval",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.63,
+      "lng": 3.9025
+    },
+    "number": 7,
+    "matchNames": [
+      "CLAIRVAL"
+    ],
+    "ids": [
+      42153,
+      42217
+    ]
+  },
+  {
+    "name": "Charles de Gaulle",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.6286111,
+      "lng": 3.8975
+    },
+    "number": 8,
+    "matchNames": [],
+    "ids": [
+      42219,
+      42151
+    ]
+  },
+  {
+    "name": "Saint-Lazare",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.6266667,
+      "lng": 3.8886111
+    },
+    "number": 9,
+    "matchNames": [
+      "SAINT-LAZARE"
+    ],
+    "ids": [
+      42221,
+      42149
+    ]
+  },
+  {
+    "name": "Aiguelongue",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.6261111,
+      "lng": 3.8830556
+    },
+    "number": 10,
+    "matchNames": [
+      "AIGUELONGUE JUSS",
+      "AIGUELONGUE"
+    ],
+    "ids": [
+      42147
+    ]
+  },
+  {
+    "name": "Jeu de Mail des Abbés",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.6202778,
+      "lng": 3.8838889
+    },
+    "number": 11,
+    "matchNames": [],
+    "ids": [
+      42145,
+      42225
+    ]
+  },
+  {
+    "name": "Beaux-Arts",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.6163889,
+      "lng": 3.88345454320747
+    },
+    "number": 12,
+    "matchNames": [
+      "BEAUX-ARTS"
+    ],
+    "ids": [
+      42143,
+      42227
+    ]
+  },
+  {
+    "name": "Corum",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.6141667,
+      "lng": 3.8816667
+    },
+    "number": 13,
+    "matchNames": [
+      "CORUM T1",
+      "CORUM T2"
+    ],
+    "ids": [
+      41225,
+      42141,
+      42229
+    ]
+  },
+  {
+    "name": "Comédie",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.6083333,
+      "lng": 3.8797222
+    },
+    "number": 14,
+    "matchNames": [],
+    "ids": [
+      41133,
+      41223
+    ]
+  },
+  null,
+  {
+    "name": "Rondelet",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.6030556,
+      "lng": 3.8758333
+    },
+    "number": 16,
+    "matchNames": [
+      "RONDELET"
+    ],
+    "ids": [
+      42125,
+      42245
+    ]
+  },
+  {
+    "name": "Nouveau Saint-Roch",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.5991667,
+      "lng": 3.8755556
+    },
+    "number": 17,
+    "matchNames": [
+      "NOUVEAU ST-ROCH"
+    ],
+    "ids": [
+      42247,
+      42123
+    ]
+  },
+  {
+    "name": "Saint-Cléophas",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.5947222,
+      "lng": 3.8758333
+    },
+    "number": 18,
+    "matchNames": [
+      "SAINT-CLEOPHAS"
+    ],
+    "ids": [
+      42249,
+      42121
+    ]
+  },
+  {
+    "name": "Lemasson",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.5936111,
+      "lng": 3.8730556
+    },
+    "number": 19,
+    "matchNames": [
+      "LEMASSON"
+    ],
+    "ids": [
+      42119,
+      42251
+    ]
+  },
+  {
+    "name": "Mas Drevon",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.5952778,
+      "lng": 3.8677778
+    },
+    "number": 20,
+    "matchNames": [
+      "MAS DREVON"
+    ],
+    "ids": [
+      42253,
+      42117
+    ]
+  },
+  {
+    "name": "Croix d'Argent",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.5922222,
+      "lng": 3.8663889
+    },
+    "number": 21,
+    "matchNames": [
+      "CROIX D'ARGENT"
+    ],
+    "ids": [
+      42115,
+      42255
+    ]
+  },
+  {
+    "name": "Villeneuve d'Angoulême",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.5886111,
+      "lng": 3.8655556
+    },
+    "number": 22,
+    "matchNames": [],
+    "ids": [
+      42257,
+      42113
+    ]
+  },
+  {
+    "name": "Sabines",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.5841667,
+      "lng": 3.8594444
+    },
+    "number": 23,
+    "matchNames": [
+      "SABINES"
+    ],
+    "ids": [
+      42111,
+      42259
+    ]
+  },
+  {
+    "name": "Victoire 2",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.5747222,
+      "lng": 3.8491667
+    },
+    "number": 24,
+    "matchNames": [
+      "VICTOIRE 2"
+    ],
+    "ids": [
+      42263,
+      42107
+    ]
+  },
+  {
+    "name": "La Condamine",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.5719444,
+      "lng": 3.8444444
+    },
+    "number": 25,
+    "matchNames": [],
+    "ids": [
+      42105,
+      42265
+    ]
+  },
+  {
+    "name": "Saint-Jean-le-Sec",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.5708333,
+      "lng": 3.8377778
+    },
+    "number": 26,
+    "matchNames": [],
+    "ids": [
+      42267,
+      42103
+    ]
+  },
+  {
+    "name": "Saint-Jean-de-Védas Centre",
+    "line": 2,
+    "coordinates": {
+      "lat": 43.5747222,
+      "lng": 3.8305556
+    },
+    "number": 27,
+    "matchNames": [],
+    "ids": [
+      42101
+    ]
+  },
+  {
+    "name": "Juvignac",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.6175,
+      "lng": 3.8091667
+    },
+    "number": 0,
+    "matchNames": [
+      "JUVIGNAC"
+    ],
+    "ids": [
+      43101
+    ]
+  },
+  {
+    "name": "Mosson",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.6161111,
+      "lng": 3.8194444
+    },
+    "number": 1,
+    "matchNames": [
+      "MOSSON T3",
+      "MOSSON T1"
+    ],
+    "ids": [
+      43103,
+      41101
+    ]
+  },
+  {
+    "name": "Celleneuve",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.6155556,
+      "lng": 3.8258333
+    },
+    "number": 2,
+    "matchNames": [
+      "CELLENEUVE"
+    ],
+    "ids": [
+      43105
+    ]
+  },
+  {
+    "name": "Pilory",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.6194444,
+      "lng": 3.8319444
+    },
+    "number": 3,
+    "matchNames": [
+      "PILORY"
+    ],
+    "ids": [
+      43107,
+      43251
+    ]
+  },
+  {
+    "name": "Hôtel du Département",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.6219444,
+      "lng": 3.835
+    },
+    "number": 4,
+    "matchNames": [],
+    "ids": [
+      43109,
+      43249
+    ]
+  },
+  {
+    "name": "Pergola",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.6175,
+      "lng": 3.8394444
+    },
+    "number": 5,
+    "matchNames": [
+      "PERGOLA"
+    ],
+    "ids": [
+      43247,
+      43111
+    ]
+  },
+  {
+    "name": "Tonnelles",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.6133333,
+      "lng": 3.8397222
+    },
+    "number": 6,
+    "matchNames": [
+      "TONNELLES"
+    ],
+    "ids": [
+      43113
+    ]
+  },
+  {
+    "name": "Jules Guesde",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.6111111,
+      "lng": 3.8472222
+    },
+    "number": 7,
+    "matchNames": [
+      "JULES GUESDE"
+    ],
+    "ids": [
+      43243,
+      43115
+    ]
+  },
+  {
+    "name": "Astruc",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.61,
+      "lng": 3.8547222
+    },
+    "number": 8,
+    "matchNames": [
+      "ASTRUC"
+    ],
+    "ids": [
+      43241,
+      43117
+    ]
+  },
+  {
+    "name": "Les Arceaux",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.6097222,
+      "lng": 3.8616667
+    },
+    "number": 9,
+    "matchNames": [
+      "LES ARCEAUX"
+    ],
+    "ids": [
+      43119,
+      43239
+    ]
+  },
+  {
+    "name": "Plan Cabanes",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.6083333,
+      "lng": 3.8680556
+    },
+    "number": 10,
+    "matchNames": [
+      "PLAN CABANES"
+    ],
+    "ids": [
+      43121,
+      43237
+    ]
+  },
+  {
+    "name": "Saint-Denis",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.6052778,
+      "lng": 3.8738889
+    },
+    "number": 11,
+    "matchNames": [
+      "SAINT-DENIS",
+      "SAINT-DENIS T3"
+    ],
+    "ids": [
+      43123,
+      43235
+    ]
+  },
+  {
+    "name": "Observatoire",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.6061111,
+      "lng": 3.8766667
+    },
+    "number": 12,
+    "matchNames": [
+      "OBSERVATOIRE"
+    ],
+    "ids": [
+      43125,
+      43233
+    ]
+  },
+  null,
+  {
+    "name": "Place Carnot",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.6036111,
+      "lng": 3.8841667
+    },
+    "number": 14,
+    "matchNames": [
+      "PLACE CARNOT"
+    ],
+    "ids": [
+      42241,
+      42129
+    ]
+  },
+  {
+    "name": "Voltaire",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.6036111,
+      "lng": 3.8888889
+    },
+    "number": 15,
+    "matchNames": [
+      "VOLTAIRE"
+    ],
+    "ids": [
+      42239,
+      42131
+    ]
+  },
+  {
+    "name": "Rives du Lez",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.6041667,
+      "lng": 3.8947222
+    },
+    "number": 16,
+    "matchNames": [
+      "RIVES DU LEZ T1",
+      "RIVES DU LEZ T3"
+    ],
+    "ids": [
+      41145,
+      42237,
+      41211
+    ]
+  },
+  {
+    "name": "Moularès Hôtel de Ville",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.6005556,
+      "lng": 3.8952778
+    },
+    "number": 17,
+    "matchNames": [],
+    "ids": [
+      41147,
+      41209
+    ]
+  },
+  {
+    "name": "Port Marianne",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.6013889,
+      "lng": 3.8991667
+    },
+    "number": 18,
+    "matchNames": [
+      "PORT MARIANNE"
+    ],
+    "ids": [
+      41149,
+      41207
+    ]
+  },
+  {
+    "name": "Pablo Picasso",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.5980556,
+      "lng": 3.9030556
+    },
+    "number": 19,
+    "matchNames": [
+      "PABLO PICASSO"
+    ],
+    "ids": [
+      43213,
+      43145
+    ]
+  },
+  {
+    "name": "Boirargues",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.5830556,
+      "lng": 3.9241667
+    },
+    "number": 20,
+    "matchNames": [
+      "BOIRARGUES"
+    ],
+    "ids": [
+      43149,
+      43209
+    ]
+  },
+  {
+    "name": "Cougourlude",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.5711111,
+      "lng": 3.9138889
+    },
+    "number": 21,
+    "matchNames": [
+      "COUGOURLUDE"
+    ],
+    "ids": [
+      43261,
+      43161
+    ]
+  },
+  {
+    "name": "Lattes Centre",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.5702778,
+      "lng": 3.9047222
+    },
+    "number": 22,
+    "matchNames": [
+      "LATTES CENTRE"
+    ],
+    "ids": [
+      43259
+    ]
+  },
+  {
+    "name": "ÉcoPôle",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.5783333,
+      "lng": 3.9341667
+    },
+    "number": 23,
+    "matchNames": [],
+    "ids": [
+      43151,
+      43207
+    ]
+  },
+  {
+    "name": "Parc Expo",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.5725,
+      "lng": 3.9461111
+    },
+    "number": 24,
+    "matchNames": [
+      "PARC EXPO"
+    ],
+    "ids": [
+      43153,
+      43205
+    ]
+  },
+  {
+    "name": "Pérols Centre",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.5658333,
+      "lng": 3.9569444
+    },
+    "number": 25,
+    "matchNames": [],
+    "ids": [
+      43203,
+      43155
+    ]
+  },
+  {
+    "name": "Pérols Étang de l'Or",
+    "line": 3,
+    "coordinates": {
+      "lat": 43.5580556,
+      "lng": 3.9633333
+    },
+    "number": 26,
+    "matchNames": [],
+    "ids": [
+      43201
+    ]
+  },
+  {
+    "name": "Garcia Lorca",
+    "line": 4,
+    "coordinates": {
+      "lat": 43.5911111,
+      "lng": 3.8905556
+    },
+    "number": 0,
+    "matchNames": [
+      "GARCIA LORCA"
+    ],
+    "ids": [
+      44201,
+      44105
+    ]
+  },
+  {
+    "name": "Restanque",
+    "line": 4,
+    "coordinates": {
+      "lat": 43.5902778,
+      "lng": 3.885
+    },
+    "number": 1,
+    "matchNames": [],
+    "ids": [
+      43223,
+      43135
+    ]
+  },
+  {
+    "name": "Saint-Martin",
+    "line": 4,
+    "coordinates": {
+      "lat": 43.5922222,
+      "lng": 3.88
+    },
+    "number": 2,
+    "matchNames": [
+      "SAINT-MARTIN"
+    ],
+    "ids": [
+      43133,
+      43225
+    ]
+  },
+  {
+    "name": "Nouveau Saint-Roch",
+    "line": 4,
+    "coordinates": {
+      "lat": 43.5991667,
+      "lng": 3.8755556
+    },
+    "number": 3,
+    "matchNames": [
+      "NOUVEAU ST-ROCH"
+    ],
+    "ids": [
+      42247,
+      42123
+    ]
+  },
+  {
+    "name": "Rondelet",
+    "line": 4,
+    "coordinates": {
+      "lat": 43.6030556,
+      "lng": 3.8758333
+    },
+    "number": 4,
+    "matchNames": [
+      "RONDELET"
+    ],
+    "ids": [
+      42125,
+      42245
+    ]
+  },
+  null,
+  {
+    "name": "Observatoire",
+    "line": 4,
+    "coordinates": {
+      "lat": 43.6061111,
+      "lng": 3.8766667
+    },
+    "number": 6,
+    "matchNames": [
+      "OBSERVATOIRE"
+    ],
+    "ids": [
+      43125,
+      43233
+    ]
+  },
+  {
+    "name": "Saint Guilhem-Courreau",
+    "line": 4,
+    "coordinates": {
+      "lat": 43.6083333,
+      "lng": 3.8730556
+    },
+    "number": 7,
+    "matchNames": [],
+    "ids": [
+      44104,
+      44204
+    ]
+  },
+  {
+    "name": "Peyrou-Arc De Triomphe",
+    "line": 4,
+    "coordinates": {
+      "lat": 43.6108333,
+      "lng": 3.8716667
+    },
+    "number": 8,
+    "matchNames": [],
+    "ids": [
+      44103,
+      44203
+    ]
+  },
+  {
+    "name": "Albert 1er-Cathédrale",
+    "line": 4,
+    "coordinates": {
+      "lat": 43.615,
+      "lng": 3.8738889
+    },
+    "number": 9,
+    "matchNames": [],
+    "ids": [
+      44203,
+      44102
+    ]
+  },
+  {
+    "name": "Louis Blanc",
+    "line": 4,
+    "coordinates": {
+      "lat": 43.6147222,
+      "lng": 3.8780556
+    },
+    "number": 10,
+    "matchNames": [
+      "LOUIS BLANC"
+    ],
+    "ids": [
+      41129,
+      41227
+    ]
+  },
+  {
+    "name": "Corum",
+    "line": 4,
+    "coordinates": {
+      "lat": 43.6141667,
+      "lng": 3.8816667
+    },
+    "number": 11,
+    "matchNames": [
+      "CORUM T1",
+      "CORUM T2"
+    ],
+    "ids": [
+      41225,
+      42141,
+      42229
+    ]
+  },
+  {
+    "name": "Les Aubes",
+    "line": 4,
+    "coordinates": {
+      "lat": 43.6138889,
+      "lng": 3.8880556
+    },
+    "number": 12,
+    "matchNames": [],
+    "ids": [
+      42139,
+      42231
+    ]
+  },
+  {
+    "name": "Pompignane",
+    "line": 4,
+    "coordinates": {
+      "lat": 43.6125,
+      "lng": 3.8947222
+    },
+    "number": 13,
+    "matchNames": [
+      "POMPIGNANE- LACS",
+      "POMPIGNANE"
+    ],
+    "ids": [
+      42137,
+      42233
+    ]
+  },
+  {
+    "name": "Place de l'Europe",
+    "line": 4,
+    "coordinates": {
+      "lat": 43.6072222,
+      "lng": 3.8938889
+    },
+    "number": 14,
+    "matchNames": [
+      "PL. DE L'EUROPE"
+    ],
+    "ids": [
+      41143
+    ]
+  },
+  {
+    "name": "Rives du Lez",
+    "line": 4,
+    "coordinates": {
+      "lat": 43.6041667,
+      "lng": 3.8947222
+    },
+    "number": 15,
+    "matchNames": [
+      "RIVES DU LEZ T1",
+      "RIVES DU LEZ T3"
+    ],
+    "ids": [
+      41145,
+      42237,
+      41211
+    ]
+  },
+  {
+    "name": "Georges Frêche - Hôtel de Ville",
+    "line": 4,
+    "coordinates": {
+      "lat": 43.5991667,
+      "lng": 3.8947222
+    },
+    "number": 16,
+    "matchNames": [],
+    "ids": [
+      43141,
+      43217
+    ]
+  },
+  {
+    "name": "La Rauze",
+    "line": 4,
+    "coordinates": {
+      "lat": 43.5933333,
+      "lng": 3.8958333
+    },
+    "number": 17,
+    "matchNames": [],
+    "ids": [
+      43219,
+      43139
+    ]
+  },
+  {
+    "name": "Garcia Lorca",
+    "line": 4,
+    "coordinates": {
+      "lat": 43.6052778,
+      "lng": 3.8738889
+    },
+    "number": 18,
+    "matchNames": [
+      "GARCIA LORCA"
+    ],
+    "ids": [
+      44201,
+      44105
+    ]
+  }
+]
