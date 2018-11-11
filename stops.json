@@ -1,5 +1,50 @@
 [
   {
+    "name": "Corum",
+    "line": 1,
+    "coordinates": "43.6141667,3.8816667",
+    "number": 16,
+    "id": [
+      "41131"
+    ]
+  },
+  {
+    "name": "Euromédecine",
+    "line": 1,
+    "coordinates": "43.6388889,3.8275",
+    "number": 5,
+    "id": [
+      "41109"
+    ]
+  },
+  {
+    "name": "Gare Saint-Roch",
+    "line": 1,
+    "coordinates": "43.6047222,3.8805556",
+    "number": 18,
+    "id": [
+      "41221",
+      "41135"
+    ]
+  },
+  {
+    "name": "Place de l'Europe",
+    "line": 1,
+    "coordinates": "43.6072222,3.8938889",
+    "number": 22,
+    "id": [
+      "41213"
+    ]
+  },
+  {
+    "name": "Place de l'Europe",
+    "line": 4,
+    "coordinates": "43.6072222,3.8938889",
+    "number": 14,
+    "id": [
+    ]
+  },
+  {
     "name": "Mosson",
     "line": 3,
     "coordinates": "43.6161111,3.8194444",
@@ -489,7 +534,8 @@
       "AIGUELONGUE"
     ],
     "id": [
-      "42147"
+      "42147",
+      "42223"
     ]
   },
   {
@@ -684,7 +730,8 @@
       "CELLENEUVE"
     ],
     "id": [
-      "43105"
+      "43105",
+      "43253"
     ]
   },
   {

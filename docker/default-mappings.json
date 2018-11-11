@@ -2,8 +2,19 @@
   "montpellier": {
     "tramway": {
       "properties": {
-        "lastShare":    { "type": "date" },
-        "lastAddress":  { "type": "text" }
+        "stopId":    { "type": "keyword" },
+        "stopName":  { "type": "text" },
+        "directionName":  { "type": "keyword" },
+        "arrivalAt":  { "type": "date" },
+        "direction": { "type": "integer" }
+      }
+    },
+    "stops": {
+      "properties": {
+        "name":    { "type": "text" },
+        "line":  { "type": "integer" },
+        "coordinates":  { "type": "geo_point" },
+        "number":  { "type": "integer" }
       }
     }
   }

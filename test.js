@@ -17,7 +17,10 @@ function callback (notification) {
     }
 
     const response = await kuzzle.query(request)
+
     console.log(response.result)
+
+
     // await fs.writeFile('rt-courses.json', JSON.stringify(result.result))
   } catch (error) {
     console.log(error);
