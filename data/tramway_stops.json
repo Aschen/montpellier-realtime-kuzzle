@@ -6,15 +6,7 @@
       "lat": 43.6161111,
       "lng": 3.8194444
     },
-    "number": 1,
-    "matchNames": [
-      "MOSSON T3",
-      "MOSSON T1"
-    ],
-    "ids": [
-      43103,
-      41101
-    ]
+    "number": 1
   },
   "41103": {
     "name": "Halles de la Paillade",
@@ -23,14 +15,7 @@
       "lat": 43.6275,
       "lng": 3.8172222
     },
-    "number": 2,
-    "matchNames": [
-      "HALLES PAILLADE"
-    ],
-    "ids": [
-      41253,
-      41103
-    ]
+    "number": 2
   },
   "41105": {
     "name": "Saint-Paul",
@@ -39,14 +24,7 @@
       "lat": 43.6305556,
       "lng": 3.8208333
     },
-    "number": 3,
-    "matchNames": [
-      "SAINT-PAUL"
-    ],
-    "ids": [
-      41105,
-      41251
-    ]
+    "number": 3
   },
   "41107": {
     "name": "Hauts de Massane",
@@ -55,14 +33,7 @@
       "lat": 43.6361111,
       "lng": 3.8225
     },
-    "number": 4,
-    "matchNames": [
-      "HAUTS DE MASSANE"
-    ],
-    "ids": [
-      41107,
-      41249
-    ]
+    "number": 4
   },
   "41111": {
     "name": "Malbosc",
@@ -71,14 +42,7 @@
       "lat": 43.6344444,
       "lng": 3.8330556
     },
-    "number": 6,
-    "matchNames": [
-      "MALBOSC"
-    ],
-    "ids": [
-      41111,
-      41245
-    ]
+    "number": 6
   },
   "41113": {
     "name": "Château d'Ô",
@@ -87,12 +51,7 @@
       "lat": 43.6313889,
       "lng": 3.8430556
     },
-    "number": 7,
-    "matchNames": [],
-    "ids": [
-      41113,
-      41243
-    ]
+    "number": 7
   },
   "41115": {
     "name": "Occitanie",
@@ -101,14 +60,7 @@
       "lat": 43.6344444,
       "lng": 3.8483333
     },
-    "number": 8,
-    "matchNames": [
-      "OCCITANIE"
-    ],
-    "ids": [
-      41241,
-      41115
-    ]
+    "number": 8
   },
   "41117": {
     "name": "Hôpital Lapeyronie",
@@ -117,12 +69,7 @@
       "lat": 43.6313889,
       "lng": 3.8525
     },
-    "number": 9,
-    "matchNames": [],
-    "ids": [
-      41239,
-      41117
-    ]
+    "number": 9
   },
   "41119": {
     "name": "Universités des Sciences et des Lettres",
@@ -131,12 +78,7 @@
       "lat": 43.6288889,
       "lng": 3.8613889
     },
-    "number": 10,
-    "matchNames": [],
-    "ids": [
-      41119,
-      41237
-    ]
+    "number": 10
   },
   "41121": {
     "name": "Saint-Éloi",
@@ -145,12 +87,7 @@
       "lat": 43.6269444,
       "lng": 3.8655556
     },
-    "number": 11,
-    "matchNames": [],
-    "ids": [
-      41235,
-      41121
-    ]
+    "number": 11
   },
   "41123": {
     "name": "Boutonnet",
@@ -159,14 +96,7 @@
       "lat": 43.6225,
       "lng": 3.8680556
     },
-    "number": 12,
-    "matchNames": [
-      "BOUTONNET"
-    ],
-    "ids": [
-      41233,
-      41123
-    ]
+    "number": 12
   },
   "41125": {
     "name": "Stade Philippidès",
@@ -175,12 +105,7 @@
       "lat": 43.6188889,
       "lng": 3.8694444
     },
-    "number": 13,
-    "matchNames": [],
-    "ids": [
-      41125,
-      41231
-    ]
+    "number": 13
   },
   "41127": {
     "name": "Place Albert 1er-Saint Charles",
@@ -189,12 +114,7 @@
       "lat": 43.6163889,
       "lng": 3.8738889
     },
-    "number": 14,
-    "matchNames": [],
-    "ids": [
-      41229,
-      41127
-    ]
+    "number": 14
   },
   "41129": {
     "name": "Louis Blanc",
@@ -203,14 +123,7 @@
       "lat": 43.6147222,
       "lng": 3.8780556
     },
-    "number": 10,
-    "matchNames": [
-      "LOUIS BLANC"
-    ],
-    "ids": [
-      41129,
-      41227
-    ]
+    "number": 10
   },
   "41133": {
     "name": "Comédie",
@@ -219,12 +132,7 @@
       "lat": 43.6083333,
       "lng": 3.8797222
     },
-    "number": 14,
-    "matchNames": [],
-    "ids": [
-      41133,
-      41223
-    ]
+    "number": 14
   },
   "41138": {
     "name": "Du Guesclin",
@@ -233,14 +141,7 @@
       "lat": 43.6069444,
       "lng": 3.8830556
     },
-    "number": 19,
-    "matchNames": [
-      "DU GUESCLIN"
-    ],
-    "ids": [
-      41138,
-      41218
-    ]
+    "number": 19
   },
   "41139": {
     "name": "Antigone",
@@ -249,14 +150,7 @@
       "lat": 43.6083333,
       "lng": 3.8863889
     },
-    "number": 20,
-    "matchNames": [
-      "ANTIGONE"
-    ],
-    "ids": [
-      41139,
-      41217
-    ]
+    "number": 20
   },
   "41141": {
     "name": "Léon Blum",
@@ -265,12 +159,7 @@
       "lat": 43.6088889,
       "lng": 3.89
     },
-    "number": 21,
-    "matchNames": [],
-    "ids": [
-      41215,
-      41141
-    ]
+    "number": 21
   },
   "41143": {
     "name": "Place de l'Europe",
@@ -279,13 +168,7 @@
       "lat": 43.6072222,
       "lng": 3.8938889
     },
-    "number": 14,
-    "matchNames": [
-      "PL. DE L'EUROPE"
-    ],
-    "ids": [
-      41143
-    ]
+    "number": 14
   },
   "41145": {
     "name": "Rives du Lez",
@@ -294,16 +177,7 @@
       "lat": 43.6041667,
       "lng": 3.8947222
     },
-    "number": 15,
-    "matchNames": [
-      "RIVES DU LEZ T1",
-      "RIVES DU LEZ T3"
-    ],
-    "ids": [
-      41145,
-      42237,
-      41211
-    ]
+    "number": 15
   },
   "41147": {
     "name": "Moularès Hôtel de Ville",
@@ -312,12 +186,7 @@
       "lat": 43.6005556,
       "lng": 3.8952778
     },
-    "number": 17,
-    "matchNames": [],
-    "ids": [
-      41147,
-      41209
-    ]
+    "number": 17
   },
   "41149": {
     "name": "Port Marianne",
@@ -326,14 +195,7 @@
       "lat": 43.6013889,
       "lng": 3.8991667
     },
-    "number": 18,
-    "matchNames": [
-      "PORT MARIANNE"
-    ],
-    "ids": [
-      41149,
-      41207
-    ]
+    "number": 18
   },
   "41151": {
     "name": "Mondial 1998",
@@ -342,14 +204,7 @@
       "lat": 43.6027778,
       "lng": 3.9038889
     },
-    "number": 26,
-    "matchNames": [
-      "MONDIAL 98"
-    ],
-    "ids": [
-      41151,
-      41205
-    ]
+    "number": 26
   },
   "41153": {
     "name": "Millénaire",
@@ -358,12 +213,7 @@
       "lat": 43.6033333,
       "lng": 3.9097222
     },
-    "number": 27,
-    "matchNames": [],
-    "ids": [
-      41203,
-      41153
-    ]
+    "number": 27
   },
   "41161": {
     "name": "Place de France",
@@ -372,14 +222,7 @@
       "lat": 43.6036111,
       "lng": 3.9155556
     },
-    "number": 28,
-    "matchNames": [
-      "PLACE DE FRANCE"
-    ],
-    "ids": [
-      41161,
-      41261
-    ]
+    "number": 28
   },
   "41163": {
     "name": "Stade de la Mosson",
@@ -388,14 +231,7 @@
       "lat": 43.6211111,
       "lng": 3.8172222
     },
-    "number": 1,
-    "matchNames": [
-      "STADE MOSSON"
-    ],
-    "ids": [
-      41163,
-      41263
-    ]
+    "number": 1
   },
   "41201": {
     "name": "Odysseum",
@@ -404,13 +240,7 @@
       "lat": 43.6036111,
       "lng": 3.92
     },
-    "number": 29,
-    "matchNames": [
-      "ODYSSEUM"
-    ],
-    "ids": [
-      41201
-    ]
+    "number": 29
   },
   "41203": {
     "name": "Millénaire",
@@ -419,12 +249,7 @@
       "lat": 43.6033333,
       "lng": 3.9097222
     },
-    "number": 27,
-    "matchNames": [],
-    "ids": [
-      41203,
-      41153
-    ]
+    "number": 27
   },
   "41205": {
     "name": "Mondial 1998",
@@ -433,14 +258,7 @@
       "lat": 43.6027778,
       "lng": 3.9038889
     },
-    "number": 26,
-    "matchNames": [
-      "MONDIAL 98"
-    ],
-    "ids": [
-      41151,
-      41205
-    ]
+    "number": 26
   },
   "41207": {
     "name": "Port Marianne",
@@ -449,14 +267,7 @@
       "lat": 43.6013889,
       "lng": 3.8991667
     },
-    "number": 18,
-    "matchNames": [
-      "PORT MARIANNE"
-    ],
-    "ids": [
-      41149,
-      41207
-    ]
+    "number": 18
   },
   "41209": {
     "name": "Moularès Hôtel de Ville",
@@ -465,12 +276,7 @@
       "lat": 43.6005556,
       "lng": 3.8952778
     },
-    "number": 17,
-    "matchNames": [],
-    "ids": [
-      41147,
-      41209
-    ]
+    "number": 17
   },
   "41211": {
     "name": "Rives du Lez",
@@ -479,16 +285,7 @@
       "lat": 43.6041667,
       "lng": 3.8947222
     },
-    "number": 15,
-    "matchNames": [
-      "RIVES DU LEZ T1",
-      "RIVES DU LEZ T3"
-    ],
-    "ids": [
-      41145,
-      42237,
-      41211
-    ]
+    "number": 15
   },
   "41215": {
     "name": "Léon Blum",
@@ -497,12 +294,7 @@
       "lat": 43.6088889,
       "lng": 3.89
     },
-    "number": 21,
-    "matchNames": [],
-    "ids": [
-      41215,
-      41141
-    ]
+    "number": 21
   },
   "41217": {
     "name": "Antigone",
@@ -511,14 +303,7 @@
       "lat": 43.6083333,
       "lng": 3.8863889
     },
-    "number": 20,
-    "matchNames": [
-      "ANTIGONE"
-    ],
-    "ids": [
-      41139,
-      41217
-    ]
+    "number": 20
   },
   "41218": {
     "name": "Du Guesclin",
@@ -527,14 +312,7 @@
       "lat": 43.6069444,
       "lng": 3.8830556
     },
-    "number": 19,
-    "matchNames": [
-      "DU GUESCLIN"
-    ],
-    "ids": [
-      41138,
-      41218
-    ]
+    "number": 19
   },
   "41223": {
     "name": "Comédie",
@@ -543,12 +321,7 @@
       "lat": 43.6083333,
       "lng": 3.8797222
     },
-    "number": 14,
-    "matchNames": [],
-    "ids": [
-      41133,
-      41223
-    ]
+    "number": 14
   },
   "41225": {
     "name": "Corum",
@@ -557,16 +330,7 @@
       "lat": 43.6141667,
       "lng": 3.8816667
     },
-    "number": 11,
-    "matchNames": [
-      "CORUM T1",
-      "CORUM T2"
-    ],
-    "ids": [
-      41225,
-      42141,
-      42229
-    ]
+    "number": 11
   },
   "41227": {
     "name": "Louis Blanc",
@@ -575,14 +339,7 @@
       "lat": 43.6147222,
       "lng": 3.8780556
     },
-    "number": 10,
-    "matchNames": [
-      "LOUIS BLANC"
-    ],
-    "ids": [
-      41129,
-      41227
-    ]
+    "number": 10
   },
   "41229": {
     "name": "Place Albert 1er-Saint Charles",
@@ -591,12 +348,7 @@
       "lat": 43.6163889,
       "lng": 3.8738889
     },
-    "number": 14,
-    "matchNames": [],
-    "ids": [
-      41229,
-      41127
-    ]
+    "number": 14
   },
   "41231": {
     "name": "Stade Philippidès",
@@ -605,12 +357,7 @@
       "lat": 43.6188889,
       "lng": 3.8694444
     },
-    "number": 13,
-    "matchNames": [],
-    "ids": [
-      41125,
-      41231
-    ]
+    "number": 13
   },
   "41233": {
     "name": "Boutonnet",
@@ -619,14 +366,7 @@
       "lat": 43.6225,
       "lng": 3.8680556
     },
-    "number": 12,
-    "matchNames": [
-      "BOUTONNET"
-    ],
-    "ids": [
-      41233,
-      41123
-    ]
+    "number": 12
   },
   "41235": {
     "name": "Saint-Éloi",
@@ -635,12 +375,7 @@
       "lat": 43.6269444,
       "lng": 3.8655556
     },
-    "number": 11,
-    "matchNames": [],
-    "ids": [
-      41235,
-      41121
-    ]
+    "number": 11
   },
   "41237": {
     "name": "Universités des Sciences et des Lettres",
@@ -649,12 +384,7 @@
       "lat": 43.6288889,
       "lng": 3.8613889
     },
-    "number": 10,
-    "matchNames": [],
-    "ids": [
-      41119,
-      41237
-    ]
+    "number": 10
   },
   "41239": {
     "name": "Hôpital Lapeyronie",
@@ -663,12 +393,7 @@
       "lat": 43.6313889,
       "lng": 3.8525
     },
-    "number": 9,
-    "matchNames": [],
-    "ids": [
-      41239,
-      41117
-    ]
+    "number": 9
   },
   "41241": {
     "name": "Occitanie",
@@ -677,14 +402,7 @@
       "lat": 43.6344444,
       "lng": 3.8483333
     },
-    "number": 8,
-    "matchNames": [
-      "OCCITANIE"
-    ],
-    "ids": [
-      41241,
-      41115
-    ]
+    "number": 8
   },
   "41243": {
     "name": "Château d'Ô",
@@ -693,12 +411,7 @@
       "lat": 43.6313889,
       "lng": 3.8430556
     },
-    "number": 7,
-    "matchNames": [],
-    "ids": [
-      41113,
-      41243
-    ]
+    "number": 7
   },
   "41245": {
     "name": "Malbosc",
@@ -707,14 +420,7 @@
       "lat": 43.6344444,
       "lng": 3.8330556
     },
-    "number": 6,
-    "matchNames": [
-      "MALBOSC"
-    ],
-    "ids": [
-      41111,
-      41245
-    ]
+    "number": 6
   },
   "41247": {
     "name": "Euromédecine",
@@ -723,13 +429,7 @@
       "lat": 43.6388889,
       "lng": 3.8275
     },
-    "number": 5,
-    "matchNames": [
-      "EUROMEDECINE"
-    ],
-    "ids": [
-      41247
-    ]
+    "number": 5
   },
   "41249": {
     "name": "Hauts de Massane",
@@ -738,14 +438,7 @@
       "lat": 43.6361111,
       "lng": 3.8225
     },
-    "number": 4,
-    "matchNames": [
-      "HAUTS DE MASSANE"
-    ],
-    "ids": [
-      41107,
-      41249
-    ]
+    "number": 4
   },
   "41251": {
     "name": "Saint-Paul",
@@ -754,14 +447,7 @@
       "lat": 43.6305556,
       "lng": 3.8208333
     },
-    "number": 3,
-    "matchNames": [
-      "SAINT-PAUL"
-    ],
-    "ids": [
-      41105,
-      41251
-    ]
+    "number": 3
   },
   "41253": {
     "name": "Halles de la Paillade",
@@ -770,14 +456,7 @@
       "lat": 43.6275,
       "lng": 3.8172222
     },
-    "number": 2,
-    "matchNames": [
-      "HALLES PAILLADE"
-    ],
-    "ids": [
-      41253,
-      41103
-    ]
+    "number": 2
   },
   "41261": {
     "name": "Place de France",
@@ -786,14 +465,7 @@
       "lat": 43.6036111,
       "lng": 3.9155556
     },
-    "number": 28,
-    "matchNames": [
-      "PLACE DE FRANCE"
-    ],
-    "ids": [
-      41161,
-      41261
-    ]
+    "number": 28
   },
   "41263": {
     "name": "Stade de la Mosson",
@@ -802,14 +474,7 @@
       "lat": 43.6211111,
       "lng": 3.8172222
     },
-    "number": 1,
-    "matchNames": [
-      "STADE MOSSON"
-    ],
-    "ids": [
-      41163,
-      41263
-    ]
+    "number": 1
   },
   "42101": {
     "name": "Saint-Jean-de-Védas Centre",
@@ -818,11 +483,7 @@
       "lat": 43.5747222,
       "lng": 3.8305556
     },
-    "number": 27,
-    "matchNames": [],
-    "ids": [
-      42101
-    ]
+    "number": 27
   },
   "42103": {
     "name": "Saint-Jean-le-Sec",
@@ -831,12 +492,7 @@
       "lat": 43.5708333,
       "lng": 3.8377778
     },
-    "number": 26,
-    "matchNames": [],
-    "ids": [
-      42267,
-      42103
-    ]
+    "number": 26
   },
   "42105": {
     "name": "La Condamine",
@@ -845,12 +501,7 @@
       "lat": 43.5719444,
       "lng": 3.8444444
     },
-    "number": 25,
-    "matchNames": [],
-    "ids": [
-      42105,
-      42265
-    ]
+    "number": 25
   },
   "42107": {
     "name": "Victoire 2",
@@ -859,14 +510,7 @@
       "lat": 43.5747222,
       "lng": 3.8491667
     },
-    "number": 24,
-    "matchNames": [
-      "VICTOIRE 2"
-    ],
-    "ids": [
-      42263,
-      42107
-    ]
+    "number": 24
   },
   "42111": {
     "name": "Sabines",
@@ -875,14 +519,7 @@
       "lat": 43.5841667,
       "lng": 3.8594444
     },
-    "number": 23,
-    "matchNames": [
-      "SABINES"
-    ],
-    "ids": [
-      42111,
-      42259
-    ]
+    "number": 23
   },
   "42113": {
     "name": "Villeneuve d'Angoulême",
@@ -891,12 +528,7 @@
       "lat": 43.5886111,
       "lng": 3.8655556
     },
-    "number": 22,
-    "matchNames": [],
-    "ids": [
-      42257,
-      42113
-    ]
+    "number": 22
   },
   "42115": {
     "name": "Croix d'Argent",
@@ -905,14 +537,7 @@
       "lat": 43.5922222,
       "lng": 3.8663889
     },
-    "number": 21,
-    "matchNames": [
-      "CROIX D'ARGENT"
-    ],
-    "ids": [
-      42115,
-      42255
-    ]
+    "number": 21
   },
   "42117": {
     "name": "Mas Drevon",
@@ -921,14 +546,7 @@
       "lat": 43.5952778,
       "lng": 3.8677778
     },
-    "number": 20,
-    "matchNames": [
-      "MAS DREVON"
-    ],
-    "ids": [
-      42253,
-      42117
-    ]
+    "number": 20
   },
   "42119": {
     "name": "Lemasson",
@@ -937,14 +555,7 @@
       "lat": 43.5936111,
       "lng": 3.8730556
     },
-    "number": 19,
-    "matchNames": [
-      "LEMASSON"
-    ],
-    "ids": [
-      42119,
-      42251
-    ]
+    "number": 19
   },
   "42121": {
     "name": "Saint-Cléophas",
@@ -953,14 +564,7 @@
       "lat": 43.5947222,
       "lng": 3.8758333
     },
-    "number": 18,
-    "matchNames": [
-      "SAINT-CLEOPHAS"
-    ],
-    "ids": [
-      42249,
-      42121
-    ]
+    "number": 18
   },
   "42123": {
     "name": "Nouveau Saint-Roch",
@@ -969,14 +573,7 @@
       "lat": 43.5991667,
       "lng": 3.8755556
     },
-    "number": 3,
-    "matchNames": [
-      "NOUVEAU ST-ROCH"
-    ],
-    "ids": [
-      42247,
-      42123
-    ]
+    "number": 3
   },
   "42125": {
     "name": "Rondelet",
@@ -985,14 +582,7 @@
       "lat": 43.6030556,
       "lng": 3.8758333
     },
-    "number": 4,
-    "matchNames": [
-      "RONDELET"
-    ],
-    "ids": [
-      42125,
-      42245
-    ]
+    "number": 4
   },
   "42129": {
     "name": "Place Carnot",
@@ -1001,14 +591,7 @@
       "lat": 43.6036111,
       "lng": 3.8841667
     },
-    "number": 14,
-    "matchNames": [
-      "PLACE CARNOT"
-    ],
-    "ids": [
-      42241,
-      42129
-    ]
+    "number": 14
   },
   "42131": {
     "name": "Voltaire",
@@ -1017,14 +600,7 @@
       "lat": 43.6036111,
       "lng": 3.8888889
     },
-    "number": 15,
-    "matchNames": [
-      "VOLTAIRE"
-    ],
-    "ids": [
-      42239,
-      42131
-    ]
+    "number": 15
   },
   "42137": {
     "name": "Pompignane",
@@ -1033,15 +609,7 @@
       "lat": 43.6125,
       "lng": 3.8947222
     },
-    "number": 13,
-    "matchNames": [
-      "POMPIGNANE- LACS",
-      "POMPIGNANE"
-    ],
-    "ids": [
-      42137,
-      42233
-    ]
+    "number": 13
   },
   "42139": {
     "name": "Les Aubes",
@@ -1050,12 +618,7 @@
       "lat": 43.6138889,
       "lng": 3.8880556
     },
-    "number": 12,
-    "matchNames": [],
-    "ids": [
-      42139,
-      42231
-    ]
+    "number": 12
   },
   "42141": {
     "name": "Corum",
@@ -1064,16 +627,7 @@
       "lat": 43.6141667,
       "lng": 3.8816667
     },
-    "number": 11,
-    "matchNames": [
-      "CORUM T1",
-      "CORUM T2"
-    ],
-    "ids": [
-      41225,
-      42141,
-      42229
-    ]
+    "number": 11
   },
   "42143": {
     "name": "Beaux-Arts",
@@ -1082,14 +636,7 @@
       "lat": 43.6163889,
       "lng": 3.88345454320747
     },
-    "number": 12,
-    "matchNames": [
-      "BEAUX-ARTS"
-    ],
-    "ids": [
-      42143,
-      42227
-    ]
+    "number": 12
   },
   "42145": {
     "name": "Jeu de Mail des Abbés",
@@ -1098,12 +645,7 @@
       "lat": 43.6202778,
       "lng": 3.8838889
     },
-    "number": 11,
-    "matchNames": [],
-    "ids": [
-      42145,
-      42225
-    ]
+    "number": 11
   },
   "42147": {
     "name": "Aiguelongue",
@@ -1112,14 +654,7 @@
       "lat": 43.6261111,
       "lng": 3.8830556
     },
-    "number": 10,
-    "matchNames": [
-      "AIGUELONGUE JUSS",
-      "AIGUELONGUE"
-    ],
-    "ids": [
-      42147
-    ]
+    "number": 10
   },
   "42149": {
     "name": "Saint-Lazare",
@@ -1128,14 +663,7 @@
       "lat": 43.6266667,
       "lng": 3.8886111
     },
-    "number": 9,
-    "matchNames": [
-      "SAINT-LAZARE"
-    ],
-    "ids": [
-      42221,
-      42149
-    ]
+    "number": 9
   },
   "42151": {
     "name": "Charles de Gaulle",
@@ -1144,12 +672,7 @@
       "lat": 43.6286111,
       "lng": 3.8975
     },
-    "number": 8,
-    "matchNames": [],
-    "ids": [
-      42219,
-      42151
-    ]
+    "number": 8
   },
   "42153": {
     "name": "Clairval",
@@ -1158,14 +681,7 @@
       "lat": 43.63,
       "lng": 3.9025
     },
-    "number": 7,
-    "matchNames": [
-      "CLAIRVAL"
-    ],
-    "ids": [
-      42153,
-      42217
-    ]
+    "number": 7
   },
   "42155": {
     "name": "La Galine",
@@ -1174,14 +690,7 @@
       "lat": 43.6313889,
       "lng": 3.9088889
     },
-    "number": 6,
-    "matchNames": [
-      "LA GALINE"
-    ],
-    "ids": [
-      42155,
-      42215
-    ]
+    "number": 6
   },
   "42157": {
     "name": "Centurions",
@@ -1190,14 +699,7 @@
       "lat": 43.6327778,
       "lng": 3.9169444
     },
-    "number": 5,
-    "matchNames": [
-      "CENTURIONS"
-    ],
-    "ids": [
-      42157,
-      42213
-    ]
+    "number": 5
   },
   "42159": {
     "name": "Notre-Dame de Sablassou",
@@ -1206,12 +708,7 @@
       "lat": 43.6341667,
       "lng": 3.9222222
     },
-    "number": 4,
-    "matchNames": [],
-    "ids": [
-      42211,
-      42159
-    ]
+    "number": 4
   },
   "42163": {
     "name": "Aube Rouge",
@@ -1220,12 +717,7 @@
       "lat": 43.6383333,
       "lng": 3.9247222
     },
-    "number": 3,
-    "matchNames": [],
-    "ids": [
-      42207,
-      42163
-    ]
+    "number": 3
   },
   "42165": {
     "name": "Via Domitia",
@@ -1234,14 +726,7 @@
       "lat": 43.6466667,
       "lng": 3.9294444
     },
-    "number": 2,
-    "matchNames": [
-      "VIA DOMITIA"
-    ],
-    "ids": [
-      42205,
-      42165
-    ]
+    "number": 2
   },
   "42167": {
     "name": "Georges Pompidou",
@@ -1250,12 +735,7 @@
       "lat": 43.6491667,
       "lng": 3.9208333
     },
-    "number": 1,
-    "matchNames": [],
-    "ids": [
-      42167,
-      42203
-    ]
+    "number": 1
   },
   "42169": {
     "name": "Jacou",
@@ -1264,13 +744,7 @@
       "lat": 43.6544444,
       "lng": 3.9127778
     },
-    "number": 0,
-    "matchNames": [
-      "JACOU"
-    ],
-    "ids": [
-      42169
-    ]
+    "number": 0
   },
   "42203": {
     "name": "Georges Pompidou",
@@ -1279,12 +753,7 @@
       "lat": 43.6491667,
       "lng": 3.9208333
     },
-    "number": 1,
-    "matchNames": [],
-    "ids": [
-      42167,
-      42203
-    ]
+    "number": 1
   },
   "42205": {
     "name": "Via Domitia",
@@ -1293,14 +762,7 @@
       "lat": 43.6466667,
       "lng": 3.9294444
     },
-    "number": 2,
-    "matchNames": [
-      "VIA DOMITIA"
-    ],
-    "ids": [
-      42205,
-      42165
-    ]
+    "number": 2
   },
   "42207": {
     "name": "Aube Rouge",
@@ -1309,12 +771,7 @@
       "lat": 43.6383333,
       "lng": 3.9247222
     },
-    "number": 3,
-    "matchNames": [],
-    "ids": [
-      42207,
-      42163
-    ]
+    "number": 3
   },
   "42211": {
     "name": "Notre-Dame de Sablassou",
@@ -1323,12 +780,7 @@
       "lat": 43.6341667,
       "lng": 3.9222222
     },
-    "number": 4,
-    "matchNames": [],
-    "ids": [
-      42211,
-      42159
-    ]
+    "number": 4
   },
   "42213": {
     "name": "Centurions",
@@ -1337,14 +789,7 @@
       "lat": 43.6327778,
       "lng": 3.9169444
     },
-    "number": 5,
-    "matchNames": [
-      "CENTURIONS"
-    ],
-    "ids": [
-      42157,
-      42213
-    ]
+    "number": 5
   },
   "42215": {
     "name": "La Galine",
@@ -1353,14 +798,7 @@
       "lat": 43.6313889,
       "lng": 3.9088889
     },
-    "number": 6,
-    "matchNames": [
-      "LA GALINE"
-    ],
-    "ids": [
-      42155,
-      42215
-    ]
+    "number": 6
   },
   "42217": {
     "name": "Clairval",
@@ -1369,14 +807,7 @@
       "lat": 43.63,
       "lng": 3.9025
     },
-    "number": 7,
-    "matchNames": [
-      "CLAIRVAL"
-    ],
-    "ids": [
-      42153,
-      42217
-    ]
+    "number": 7
   },
   "42219": {
     "name": "Charles de Gaulle",
@@ -1385,12 +816,7 @@
       "lat": 43.6286111,
       "lng": 3.8975
     },
-    "number": 8,
-    "matchNames": [],
-    "ids": [
-      42219,
-      42151
-    ]
+    "number": 8
   },
   "42221": {
     "name": "Saint-Lazare",
@@ -1399,14 +825,7 @@
       "lat": 43.6266667,
       "lng": 3.8886111
     },
-    "number": 9,
-    "matchNames": [
-      "SAINT-LAZARE"
-    ],
-    "ids": [
-      42221,
-      42149
-    ]
+    "number": 9
   },
   "42225": {
     "name": "Jeu de Mail des Abbés",
@@ -1415,12 +834,7 @@
       "lat": 43.6202778,
       "lng": 3.8838889
     },
-    "number": 11,
-    "matchNames": [],
-    "ids": [
-      42145,
-      42225
-    ]
+    "number": 11
   },
   "42227": {
     "name": "Beaux-Arts",
@@ -1429,14 +843,7 @@
       "lat": 43.6163889,
       "lng": 3.88345454320747
     },
-    "number": 12,
-    "matchNames": [
-      "BEAUX-ARTS"
-    ],
-    "ids": [
-      42143,
-      42227
-    ]
+    "number": 12
   },
   "42229": {
     "name": "Corum",
@@ -1445,16 +852,7 @@
       "lat": 43.6141667,
       "lng": 3.8816667
     },
-    "number": 11,
-    "matchNames": [
-      "CORUM T1",
-      "CORUM T2"
-    ],
-    "ids": [
-      41225,
-      42141,
-      42229
-    ]
+    "number": 11
   },
   "42231": {
     "name": "Les Aubes",
@@ -1463,12 +861,7 @@
       "lat": 43.6138889,
       "lng": 3.8880556
     },
-    "number": 12,
-    "matchNames": [],
-    "ids": [
-      42139,
-      42231
-    ]
+    "number": 12
   },
   "42233": {
     "name": "Pompignane",
@@ -1477,15 +870,7 @@
       "lat": 43.6125,
       "lng": 3.8947222
     },
-    "number": 13,
-    "matchNames": [
-      "POMPIGNANE- LACS",
-      "POMPIGNANE"
-    ],
-    "ids": [
-      42137,
-      42233
-    ]
+    "number": 13
   },
   "42237": {
     "name": "Rives du Lez",
@@ -1494,16 +879,7 @@
       "lat": 43.6041667,
       "lng": 3.8947222
     },
-    "number": 15,
-    "matchNames": [
-      "RIVES DU LEZ T1",
-      "RIVES DU LEZ T3"
-    ],
-    "ids": [
-      41145,
-      42237,
-      41211
-    ]
+    "number": 15
   },
   "42239": {
     "name": "Voltaire",
@@ -1512,14 +888,7 @@
       "lat": 43.6036111,
       "lng": 3.8888889
     },
-    "number": 15,
-    "matchNames": [
-      "VOLTAIRE"
-    ],
-    "ids": [
-      42239,
-      42131
-    ]
+    "number": 15
   },
   "42241": {
     "name": "Place Carnot",
@@ -1528,14 +897,7 @@
       "lat": 43.6036111,
       "lng": 3.8841667
     },
-    "number": 14,
-    "matchNames": [
-      "PLACE CARNOT"
-    ],
-    "ids": [
-      42241,
-      42129
-    ]
+    "number": 14
   },
   "42245": {
     "name": "Rondelet",
@@ -1544,14 +906,7 @@
       "lat": 43.6030556,
       "lng": 3.8758333
     },
-    "number": 4,
-    "matchNames": [
-      "RONDELET"
-    ],
-    "ids": [
-      42125,
-      42245
-    ]
+    "number": 4
   },
   "42247": {
     "name": "Nouveau Saint-Roch",
@@ -1560,14 +915,7 @@
       "lat": 43.5991667,
       "lng": 3.8755556
     },
-    "number": 3,
-    "matchNames": [
-      "NOUVEAU ST-ROCH"
-    ],
-    "ids": [
-      42247,
-      42123
-    ]
+    "number": 3
   },
   "42249": {
     "name": "Saint-Cléophas",
@@ -1576,14 +924,7 @@
       "lat": 43.5947222,
       "lng": 3.8758333
     },
-    "number": 18,
-    "matchNames": [
-      "SAINT-CLEOPHAS"
-    ],
-    "ids": [
-      42249,
-      42121
-    ]
+    "number": 18
   },
   "42251": {
     "name": "Lemasson",
@@ -1592,14 +933,7 @@
       "lat": 43.5936111,
       "lng": 3.8730556
     },
-    "number": 19,
-    "matchNames": [
-      "LEMASSON"
-    ],
-    "ids": [
-      42119,
-      42251
-    ]
+    "number": 19
   },
   "42253": {
     "name": "Mas Drevon",
@@ -1608,14 +942,7 @@
       "lat": 43.5952778,
       "lng": 3.8677778
     },
-    "number": 20,
-    "matchNames": [
-      "MAS DREVON"
-    ],
-    "ids": [
-      42253,
-      42117
-    ]
+    "number": 20
   },
   "42255": {
     "name": "Croix d'Argent",
@@ -1624,14 +951,7 @@
       "lat": 43.5922222,
       "lng": 3.8663889
     },
-    "number": 21,
-    "matchNames": [
-      "CROIX D'ARGENT"
-    ],
-    "ids": [
-      42115,
-      42255
-    ]
+    "number": 21
   },
   "42257": {
     "name": "Villeneuve d'Angoulême",
@@ -1640,12 +960,7 @@
       "lat": 43.5886111,
       "lng": 3.8655556
     },
-    "number": 22,
-    "matchNames": [],
-    "ids": [
-      42257,
-      42113
-    ]
+    "number": 22
   },
   "42259": {
     "name": "Sabines",
@@ -1654,14 +969,7 @@
       "lat": 43.5841667,
       "lng": 3.8594444
     },
-    "number": 23,
-    "matchNames": [
-      "SABINES"
-    ],
-    "ids": [
-      42111,
-      42259
-    ]
+    "number": 23
   },
   "42263": {
     "name": "Victoire 2",
@@ -1670,14 +978,7 @@
       "lat": 43.5747222,
       "lng": 3.8491667
     },
-    "number": 24,
-    "matchNames": [
-      "VICTOIRE 2"
-    ],
-    "ids": [
-      42263,
-      42107
-    ]
+    "number": 24
   },
   "42265": {
     "name": "La Condamine",
@@ -1686,12 +987,7 @@
       "lat": 43.5719444,
       "lng": 3.8444444
     },
-    "number": 25,
-    "matchNames": [],
-    "ids": [
-      42105,
-      42265
-    ]
+    "number": 25
   },
   "42267": {
     "name": "Saint-Jean-le-Sec",
@@ -1700,12 +996,7 @@
       "lat": 43.5708333,
       "lng": 3.8377778
     },
-    "number": 26,
-    "matchNames": [],
-    "ids": [
-      42267,
-      42103
-    ]
+    "number": 26
   },
   "43101": {
     "name": "Juvignac",
@@ -1714,13 +1005,7 @@
       "lat": 43.6175,
       "lng": 3.8091667
     },
-    "number": 0,
-    "matchNames": [
-      "JUVIGNAC"
-    ],
-    "ids": [
-      43101
-    ]
+    "number": 0
   },
   "43103": {
     "name": "Mosson",
@@ -1729,15 +1014,7 @@
       "lat": 43.6161111,
       "lng": 3.8194444
     },
-    "number": 1,
-    "matchNames": [
-      "MOSSON T3",
-      "MOSSON T1"
-    ],
-    "ids": [
-      43103,
-      41101
-    ]
+    "number": 1
   },
   "43105": {
     "name": "Celleneuve",
@@ -1746,13 +1023,7 @@
       "lat": 43.6155556,
       "lng": 3.8258333
     },
-    "number": 2,
-    "matchNames": [
-      "CELLENEUVE"
-    ],
-    "ids": [
-      43105
-    ]
+    "number": 2
   },
   "43107": {
     "name": "Pilory",
@@ -1761,14 +1032,7 @@
       "lat": 43.6194444,
       "lng": 3.8319444
     },
-    "number": 3,
-    "matchNames": [
-      "PILORY"
-    ],
-    "ids": [
-      43107,
-      43251
-    ]
+    "number": 3
   },
   "43109": {
     "name": "Hôtel du Département",
@@ -1777,12 +1041,7 @@
       "lat": 43.6219444,
       "lng": 3.835
     },
-    "number": 4,
-    "matchNames": [],
-    "ids": [
-      43109,
-      43249
-    ]
+    "number": 4
   },
   "43111": {
     "name": "Pergola",
@@ -1791,14 +1050,7 @@
       "lat": 43.6175,
       "lng": 3.8394444
     },
-    "number": 5,
-    "matchNames": [
-      "PERGOLA"
-    ],
-    "ids": [
-      43247,
-      43111
-    ]
+    "number": 5
   },
   "43113": {
     "name": "Tonnelles",
@@ -1807,13 +1059,7 @@
       "lat": 43.6133333,
       "lng": 3.8397222
     },
-    "number": 6,
-    "matchNames": [
-      "TONNELLES"
-    ],
-    "ids": [
-      43113
-    ]
+    "number": 6
   },
   "43115": {
     "name": "Jules Guesde",
@@ -1822,14 +1068,7 @@
       "lat": 43.6111111,
       "lng": 3.8472222
     },
-    "number": 7,
-    "matchNames": [
-      "JULES GUESDE"
-    ],
-    "ids": [
-      43243,
-      43115
-    ]
+    "number": 7
   },
   "43117": {
     "name": "Astruc",
@@ -1838,14 +1077,7 @@
       "lat": 43.61,
       "lng": 3.8547222
     },
-    "number": 8,
-    "matchNames": [
-      "ASTRUC"
-    ],
-    "ids": [
-      43241,
-      43117
-    ]
+    "number": 8
   },
   "43119": {
     "name": "Les Arceaux",
@@ -1854,14 +1086,7 @@
       "lat": 43.6097222,
       "lng": 3.8616667
     },
-    "number": 9,
-    "matchNames": [
-      "LES ARCEAUX"
-    ],
-    "ids": [
-      43119,
-      43239
-    ]
+    "number": 9
   },
   "43121": {
     "name": "Plan Cabanes",
@@ -1870,14 +1095,7 @@
       "lat": 43.6083333,
       "lng": 3.8680556
     },
-    "number": 10,
-    "matchNames": [
-      "PLAN CABANES"
-    ],
-    "ids": [
-      43121,
-      43237
-    ]
+    "number": 10
   },
   "43123": {
     "name": "Saint-Denis",
@@ -1886,15 +1104,7 @@
       "lat": 43.6052778,
       "lng": 3.8738889
     },
-    "number": 11,
-    "matchNames": [
-      "SAINT-DENIS",
-      "SAINT-DENIS T3"
-    ],
-    "ids": [
-      43123,
-      43235
-    ]
+    "number": 11
   },
   "43125": {
     "name": "Observatoire",
@@ -1903,14 +1113,7 @@
       "lat": 43.6061111,
       "lng": 3.8766667
     },
-    "number": 6,
-    "matchNames": [
-      "OBSERVATOIRE"
-    ],
-    "ids": [
-      43125,
-      43233
-    ]
+    "number": 6
   },
   "43133": {
     "name": "Saint-Martin",
@@ -1919,14 +1122,7 @@
       "lat": 43.5922222,
       "lng": 3.88
     },
-    "number": 2,
-    "matchNames": [
-      "SAINT-MARTIN"
-    ],
-    "ids": [
-      43133,
-      43225
-    ]
+    "number": 2
   },
   "43135": {
     "name": "Restanque",
@@ -1935,12 +1131,7 @@
       "lat": 43.5902778,
       "lng": 3.885
     },
-    "number": 1,
-    "matchNames": [],
-    "ids": [
-      43223,
-      43135
-    ]
+    "number": 1
   },
   "43139": {
     "name": "La Rauze",
@@ -1949,12 +1140,7 @@
       "lat": 43.5933333,
       "lng": 3.8958333
     },
-    "number": 17,
-    "matchNames": [],
-    "ids": [
-      43219,
-      43139
-    ]
+    "number": 17
   },
   "43141": {
     "name": "Georges Frêche - Hôtel de Ville",
@@ -1963,12 +1149,7 @@
       "lat": 43.5991667,
       "lng": 3.8947222
     },
-    "number": 16,
-    "matchNames": [],
-    "ids": [
-      43141,
-      43217
-    ]
+    "number": 16
   },
   "43145": {
     "name": "Pablo Picasso",
@@ -1977,14 +1158,7 @@
       "lat": 43.5980556,
       "lng": 3.9030556
     },
-    "number": 19,
-    "matchNames": [
-      "PABLO PICASSO"
-    ],
-    "ids": [
-      43213,
-      43145
-    ]
+    "number": 19
   },
   "43149": {
     "name": "Boirargues",
@@ -1993,14 +1167,7 @@
       "lat": 43.5830556,
       "lng": 3.9241667
     },
-    "number": 20,
-    "matchNames": [
-      "BOIRARGUES"
-    ],
-    "ids": [
-      43149,
-      43209
-    ]
+    "number": 20
   },
   "43151": {
     "name": "ÉcoPôle",
@@ -2009,12 +1176,7 @@
       "lat": 43.5783333,
       "lng": 3.9341667
     },
-    "number": 23,
-    "matchNames": [],
-    "ids": [
-      43151,
-      43207
-    ]
+    "number": 23
   },
   "43153": {
     "name": "Parc Expo",
@@ -2023,14 +1185,7 @@
       "lat": 43.5725,
       "lng": 3.9461111
     },
-    "number": 24,
-    "matchNames": [
-      "PARC EXPO"
-    ],
-    "ids": [
-      43153,
-      43205
-    ]
+    "number": 24
   },
   "43155": {
     "name": "Pérols Centre",
@@ -2039,12 +1194,7 @@
       "lat": 43.5658333,
       "lng": 3.9569444
     },
-    "number": 25,
-    "matchNames": [],
-    "ids": [
-      43203,
-      43155
-    ]
+    "number": 25
   },
   "43161": {
     "name": "Cougourlude",
@@ -2053,14 +1203,7 @@
       "lat": 43.5711111,
       "lng": 3.9138889
     },
-    "number": 21,
-    "matchNames": [
-      "COUGOURLUDE"
-    ],
-    "ids": [
-      43261,
-      43161
-    ]
+    "number": 21
   },
   "43201": {
     "name": "Pérols Étang de l'Or",
@@ -2069,11 +1212,7 @@
       "lat": 43.5580556,
       "lng": 3.9633333
     },
-    "number": 26,
-    "matchNames": [],
-    "ids": [
-      43201
-    ]
+    "number": 26
   },
   "43203": {
     "name": "Pérols Centre",
@@ -2082,12 +1221,7 @@
       "lat": 43.5658333,
       "lng": 3.9569444
     },
-    "number": 25,
-    "matchNames": [],
-    "ids": [
-      43203,
-      43155
-    ]
+    "number": 25
   },
   "43205": {
     "name": "Parc Expo",
@@ -2096,14 +1230,7 @@
       "lat": 43.5725,
       "lng": 3.9461111
     },
-    "number": 24,
-    "matchNames": [
-      "PARC EXPO"
-    ],
-    "ids": [
-      43153,
-      43205
-    ]
+    "number": 24
   },
   "43207": {
     "name": "ÉcoPôle",
@@ -2112,12 +1239,7 @@
       "lat": 43.5783333,
       "lng": 3.9341667
     },
-    "number": 23,
-    "matchNames": [],
-    "ids": [
-      43151,
-      43207
-    ]
+    "number": 23
   },
   "43209": {
     "name": "Boirargues",
@@ -2126,14 +1248,7 @@
       "lat": 43.5830556,
       "lng": 3.9241667
     },
-    "number": 20,
-    "matchNames": [
-      "BOIRARGUES"
-    ],
-    "ids": [
-      43149,
-      43209
-    ]
+    "number": 20
   },
   "43213": {
     "name": "Pablo Picasso",
@@ -2142,14 +1257,7 @@
       "lat": 43.5980556,
       "lng": 3.9030556
     },
-    "number": 19,
-    "matchNames": [
-      "PABLO PICASSO"
-    ],
-    "ids": [
-      43213,
-      43145
-    ]
+    "number": 19
   },
   "43217": {
     "name": "Georges Frêche - Hôtel de Ville",
@@ -2158,12 +1266,7 @@
       "lat": 43.5991667,
       "lng": 3.8947222
     },
-    "number": 16,
-    "matchNames": [],
-    "ids": [
-      43141,
-      43217
-    ]
+    "number": 16
   },
   "43219": {
     "name": "La Rauze",
@@ -2172,12 +1275,7 @@
       "lat": 43.5933333,
       "lng": 3.8958333
     },
-    "number": 17,
-    "matchNames": [],
-    "ids": [
-      43219,
-      43139
-    ]
+    "number": 17
   },
   "43223": {
     "name": "Restanque",
@@ -2186,12 +1284,7 @@
       "lat": 43.5902778,
       "lng": 3.885
     },
-    "number": 1,
-    "matchNames": [],
-    "ids": [
-      43223,
-      43135
-    ]
+    "number": 1
   },
   "43225": {
     "name": "Saint-Martin",
@@ -2200,14 +1293,7 @@
       "lat": 43.5922222,
       "lng": 3.88
     },
-    "number": 2,
-    "matchNames": [
-      "SAINT-MARTIN"
-    ],
-    "ids": [
-      43133,
-      43225
-    ]
+    "number": 2
   },
   "43233": {
     "name": "Observatoire",
@@ -2216,14 +1302,7 @@
       "lat": 43.6061111,
       "lng": 3.8766667
     },
-    "number": 6,
-    "matchNames": [
-      "OBSERVATOIRE"
-    ],
-    "ids": [
-      43125,
-      43233
-    ]
+    "number": 6
   },
   "43235": {
     "name": "Saint-Denis",
@@ -2232,15 +1311,7 @@
       "lat": 43.6052778,
       "lng": 3.8738889
     },
-    "number": 11,
-    "matchNames": [
-      "SAINT-DENIS",
-      "SAINT-DENIS T3"
-    ],
-    "ids": [
-      43123,
-      43235
-    ]
+    "number": 11
   },
   "43237": {
     "name": "Plan Cabanes",
@@ -2249,14 +1320,7 @@
       "lat": 43.6083333,
       "lng": 3.8680556
     },
-    "number": 10,
-    "matchNames": [
-      "PLAN CABANES"
-    ],
-    "ids": [
-      43121,
-      43237
-    ]
+    "number": 10
   },
   "43239": {
     "name": "Les Arceaux",
@@ -2265,14 +1329,7 @@
       "lat": 43.6097222,
       "lng": 3.8616667
     },
-    "number": 9,
-    "matchNames": [
-      "LES ARCEAUX"
-    ],
-    "ids": [
-      43119,
-      43239
-    ]
+    "number": 9
   },
   "43241": {
     "name": "Astruc",
@@ -2281,14 +1338,7 @@
       "lat": 43.61,
       "lng": 3.8547222
     },
-    "number": 8,
-    "matchNames": [
-      "ASTRUC"
-    ],
-    "ids": [
-      43241,
-      43117
-    ]
+    "number": 8
   },
   "43243": {
     "name": "Jules Guesde",
@@ -2297,14 +1347,7 @@
       "lat": 43.6111111,
       "lng": 3.8472222
     },
-    "number": 7,
-    "matchNames": [
-      "JULES GUESDE"
-    ],
-    "ids": [
-      43243,
-      43115
-    ]
+    "number": 7
   },
   "43247": {
     "name": "Pergola",
@@ -2313,14 +1356,7 @@
       "lat": 43.6175,
       "lng": 3.8394444
     },
-    "number": 5,
-    "matchNames": [
-      "PERGOLA"
-    ],
-    "ids": [
-      43247,
-      43111
-    ]
+    "number": 5
   },
   "43249": {
     "name": "Hôtel du Département",
@@ -2329,12 +1365,7 @@
       "lat": 43.6219444,
       "lng": 3.835
     },
-    "number": 4,
-    "matchNames": [],
-    "ids": [
-      43109,
-      43249
-    ]
+    "number": 4
   },
   "43251": {
     "name": "Pilory",
@@ -2343,14 +1374,7 @@
       "lat": 43.6194444,
       "lng": 3.8319444
     },
-    "number": 3,
-    "matchNames": [
-      "PILORY"
-    ],
-    "ids": [
-      43107,
-      43251
-    ]
+    "number": 3
   },
   "43259": {
     "name": "Lattes Centre",
@@ -2359,13 +1383,7 @@
       "lat": 43.5702778,
       "lng": 3.9047222
     },
-    "number": 22,
-    "matchNames": [
-      "LATTES CENTRE"
-    ],
-    "ids": [
-      43259
-    ]
+    "number": 22
   },
   "43261": {
     "name": "Cougourlude",
@@ -2374,14 +1392,7 @@
       "lat": 43.5711111,
       "lng": 3.9138889
     },
-    "number": 21,
-    "matchNames": [
-      "COUGOURLUDE"
-    ],
-    "ids": [
-      43261,
-      43161
-    ]
+    "number": 21
   },
   "44102": {
     "name": "Albert 1er-Cathédrale",
@@ -2390,12 +1401,7 @@
       "lat": 43.615,
       "lng": 3.8738889
     },
-    "number": 9,
-    "matchNames": [],
-    "ids": [
-      44203,
-      44102
-    ]
+    "number": 9
   },
   "44103": {
     "name": "Peyrou-Arc De Triomphe",
@@ -2404,12 +1410,7 @@
       "lat": 43.6108333,
       "lng": 3.8716667
     },
-    "number": 8,
-    "matchNames": [],
-    "ids": [
-      44103,
-      44203
-    ]
+    "number": 8
   },
   "44104": {
     "name": "Saint Guilhem-Courreau",
@@ -2418,12 +1419,7 @@
       "lat": 43.6083333,
       "lng": 3.8730556
     },
-    "number": 7,
-    "matchNames": [],
-    "ids": [
-      44104,
-      44204
-    ]
+    "number": 7
   },
   "44105": {
     "name": "Garcia Lorca",
@@ -2432,14 +1428,7 @@
       "lat": 43.6052778,
       "lng": 3.8738889
     },
-    "number": 18,
-    "matchNames": [
-      "GARCIA LORCA"
-    ],
-    "ids": [
-      44201,
-      44105
-    ]
+    "number": 18
   },
   "44201": {
     "name": "Garcia Lorca",
@@ -2448,14 +1437,7 @@
       "lat": 43.6052778,
       "lng": 3.8738889
     },
-    "number": 18,
-    "matchNames": [
-      "GARCIA LORCA"
-    ],
-    "ids": [
-      44201,
-      44105
-    ]
+    "number": 18
   },
   "44203": {
     "name": "Albert 1er-Cathédrale",
@@ -2464,12 +1446,7 @@
       "lat": 43.615,
       "lng": 3.8738889
     },
-    "number": 9,
-    "matchNames": [],
-    "ids": [
-      44203,
-      44102
-    ]
+    "number": 9
   },
   "44204": {
     "name": "Saint Guilhem-Courreau",
@@ -2478,11 +1455,6 @@
       "lat": 43.6083333,
       "lng": 3.8730556
     },
-    "number": 7,
-    "matchNames": [],
-    "ids": [
-      44104,
-      44204
-    ]
+    "number": 7
   }
 }

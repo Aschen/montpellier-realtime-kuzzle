@@ -16,14 +16,11 @@ result = stops_api.map do |stop|
         lng: lng
       },
       number: stop['number'],
-      matchNames: info['matchName'],
       ids: info['id'].map { |e| e.to_i }
     }  
   else
     puts stop['name']
   end
 end
-
-puts result
 
 File.write('full_stops.json', result.to_json)
